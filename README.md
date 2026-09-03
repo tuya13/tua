@@ -8,7 +8,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 [...]
 
-### 3 sept - [Workshop]
+### 2 sept - [Workshop]
 
 [...]
 
