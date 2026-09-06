@@ -6,7 +6,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 4 sept - [Workshop]
 
-Voor vrijdag heb ik gekozen voor Praktische CSS en CSS: fonts met kleur en effecten. 
+Voor vrijdag heb ik gekozen voor Praktische CSS en CSS: fonts met kleur en effecten. In de Praktische CSS les hebben we met CodePen gewerkt. We hebben geleerd hoe kunnen we een lelijke website mooier maken alleen met html en css. (In de file images is het beschikbaar.) In de les CSS: fonts met kleur en effecten hebben we geleerd hoe we verschilende effecten en kleuren aan een font in css kunnen toevoegen. (In de file images is het beschikbaar.) Op eerst vond ik het echt moeilijk en ingewikkeld maar nadat ik focus, kan ik het beter doen. Ik vind het nog een beetje moeilijk eigenlijk maar het is wel echt interessant. 
 
 ### 2 sept - [Workshop]
 
