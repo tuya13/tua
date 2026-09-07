@@ -4,6 +4,18 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 7 september - Workshop
+1- Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
+Digitaaal Garden is jouw gepersonaliseerd website. 
+
+2- Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
+Toegankelijkheid is belangrijk. We vinden dat hierarchie in een website ook belangrijk is.
+
+3- Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.)
+Ik wil het over mijn hobby maken. Ik vind het leuk om te junk journaling en te bullet journaling. Ik zal het hierover maken. 
+
+Vandaag hebben we websites van anderen beoordeeld, daarna hebben we ze besloten welke "webby" wordt en welke niet wordt. (In de file images is het beschikbaar.) 
+
 ### 4 sept - [Workshop]
 
 Voor vrijdag heb ik gekozen voor Praktische CSS en CSS: fonts met kleur en effecten. In de Praktische CSS les hebben we met CodePen gewerkt. We hebben geleerd hoe kunnen we een lelijke website mooier maken alleen met html en css. (In de file images is het beschikbaar.) In de les CSS: fonts met kleur en effecten hebben we geleerd hoe we verschilende effecten en kleuren aan een font in css kunnen toevoegen. (In de file images is het beschikbaar.) Op eerst vond ik het echt moeilijk en ingewikkeld maar nadat ik focus, kan ik het beter doen. Ik vind het nog een beetje moeilijk eigenlijk maar het is wel echt interessant. Ik heb ook veel hulp gekregen van de website https://css-tricks.com/almanac/properties/ 
