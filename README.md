@@ -14,7 +14,7 @@ Toegankelijkheid is belangrijk. We vinden dat hierarchie in een website ook bela
 3- Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.)
 Ik wil het over mijn hobby maken. Ik vind het leuk om te junk journaling en te bullet journaling. Ik zal het hierover maken. 
 
-Vandaag hebben we websites van anderen beoordeeld, daarna hebben we ze besloten welke "webby" wordt en welke niet wordt. (In de file images is het beschikbaar.) 
+Vandaag hebben we websites van anderen geanalyseerd, daarna hebben we ze besloten welke "webby" wordt en welke niet wordt. (In de file images is het beschikbaar.) 
 
 ### 4 sept - [Workshop]
 
