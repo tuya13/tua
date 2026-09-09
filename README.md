@@ -20,7 +20,9 @@ Crazy 8 beoordelen
 
 ### 8 september - Workshop
 
-We hebben een les gekregen over light and dark mode in coding. Oefening 1 <img src="/images/8sep.darkmode.png" width="400"> <img src="/images/8sep.lightmode.png" width="400">
+We hebben een les gekregen over light and dark mode in coding.  
+Oefening 1  
+<img src="/images/8sep.darkmode.png" width="400"> <img src="/images/8sep.lightmode.png" width="400">
 
 ### 7 september - Workshop
 
