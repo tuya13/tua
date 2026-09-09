@@ -4,6 +4,12 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 9 september - Workshop
+We hebben vandaag presentatie gegeven over onze ideen voor de garden. Daarna hebben we visual research gedaan (In de file images is het beschikbaar.) om een idee te hebben over de visuals van de garden. 
+
+### 8 september - Workshop
+We hebben een les gekregen over light and dark mode in coding. (In de file images is het beschikbaar.)
+
 ### 7 september - Workshop
 1- Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
 Digitaaal Garden is jouw gepersonaliseerd website. 
