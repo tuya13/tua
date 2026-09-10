@@ -26,6 +26,14 @@ Crazy 8
 Crazy 8 beoordelen  
 <img src="/images/9 sep.crazy8.beoordelen.png" width="400">
 
+Check Out  
+1- Leg uit waar het Visual Research in 3 stappen naartoe werkt.  
+-Eerste stap is om een woord te bedenken dat in je hoofd opkomt als je aan je onderwerp denkt, en vervolgens op dat woord te zoeken naar foto's. Tweede stap is het zoeken naar posters die visueel dezelfde sfeer overbrengen. Derde stap is om vier van de gevonden posters uit te kiezen en na te denken over hoe je ze op je website kunt gebruiken.  
+2- Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).  
+-Mijn garden gaat over mijn hobby, junk journaling. Ik zal meestaal afbeelden, teksten en animaties gebruiken denk ik.  
+3- Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.  
+De laatste tekening die ik maakte is mijn favoriet en die wil ik gebruiken. Ik denk erover om eraan te werken, omdat ik wil dat mijn website eruitziet als een journal, en ik denk dat deze daar het meest op lijkt.
+
 ### 8 september - Workshop
 
 We hebben een les gekregen over light and dark mode in coding.  
