@@ -4,6 +4,14 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 10 september - Workshop
+
+Ik heb huiswerk voor Mooie kleuren en gradients gedaan.  
+Oefening 1  
+<img src="/images/10sep.png>" width="400">  
+Oefening 2  
+<img src="/images/10sep2.png>" width="400">
+
 ### 9 september - Workshop
 
 We hebben vandaag presentatie gegeven over onze ideen voor de garden. Daarna hebben we visual research gedaan om een idee te hebben over de visuals van de garden.  
@@ -22,7 +30,10 @@ Crazy 8 beoordelen
 
 We hebben een les gekregen over light and dark mode in coding.  
 Oefening 1  
-<img src="/images/8sep.darkmode.png" width="400"> <img src="/images/8sep.lightmode.png" width="400">
+<img src="/images/8sep.darkmode.png" width="400"> <img src="/images/8sep.lightmode.png" width="400">  
+Oefening 2  
+Ik heb het meestaal gedaan op school en daar werkte het prima, maar toen ik thuis een nieuwe functie toegevoegde, begon het in de lichte modus hetzelfde te laten zien als in de donkere modus. Ik snapte niet waarom.  
+<img src="/images/8sep.png>" width="400">
 
 ### 7 september - Workshop
 
