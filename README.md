@@ -4,6 +4,12 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 11 september - Workshop
+
+Feedback van Barbara(docent)  
+-Controleer de kwaliteit listje altijd!! Het is belangrijk tijdens je coderen het te controleren.  
+-Ga je de schermen die je hebt geschets als code of foto's doen? Probeer deze opties uit om je definitieve beslissing te nemen. Bijvoorbeeld ga je de hart coderen? Hoe kan je dat doen?
+
 ### 10 september - Workshop
 
 Ik heb huiswerk voor Mooie kleuren en gradients gedaan.  
@@ -14,7 +20,7 @@ Oefening 2
 
 ### 9 september - Workshop
 
-We hebben vandaag presentatie gegeven over onze ideen voor de garden. Daarna hebben we visual research gedaan om een idee te hebben over de visuals van de garden.  
+We hebben vandaag presentatie gegeven over onze ideen voor de garden. Daarna hebben we visual research gedaan om een idee te hebben over de visuals van de garden. De woorden die ik heb gekozen was "vrij en rust".  
 Stap 1  
 <img src="/images/9 sep.stap1.png" width="400">  
 Stap 2  
@@ -24,7 +30,9 @@ Stap 3
 Crazy 8  
 <img src="/images/9 sep.crazy8.png" width="400">  
 Crazy 8 beoordelen  
-<img src="/images/9 sep.crazy8.beoordelen.png" width="400">
+<img src="/images/9 sep.crazy8.beoordelen.png" width="400">  
+Mobile scherm schetsen  
+<img src="/images/9 sep.schetsen.png" width="400">
 
 Check Out  
 1- Leg uit waar het Visual Research in 3 stappen naartoe werkt.  
