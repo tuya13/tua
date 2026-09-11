@@ -14,9 +14,9 @@ Feedback van Barbara(docent)
 
 Ik heb huiswerk voor Mooie kleuren en gradients gedaan.  
 Oefening 1  
-<img src="/images/10sep.png>" width="400">  
+<img src="/images/10sep.png" width="400">
 Oefening 2  
-<img src="/images/10sep2.png>" width="400">
+<img src="/images/10sep2.png" width="400">
 
 ### 9 september - Workshop
 
@@ -49,7 +49,7 @@ Oefening 1
 <img src="/images/8sep.darkmode.png" width="400"> <img src="/images/8sep.lightmode.png" width="400">  
 Oefening 2  
 Ik heb het meestaal gedaan op school en daar werkte het prima, maar toen ik thuis een nieuwe functie toegevoegde, begon het in de lichte modus hetzelfde te laten zien als in de donkere modus. Ik snapte niet waarom.  
-<img src="/images/8sep.png>" width="400">
+<img src="/images/8sep.png" width="400">
 
 ### 7 september - Workshop
 
@@ -72,7 +72,8 @@ Op eerst vond ik het echt moeilijk en ingewikkeld maar nadat ik focus, kan ik he
 
 ### 2 sept - [Workshop]
 
-Voor woensdag heb ik gekozen voor Typografie en Tekenen lessen. In de les typografie eerst hebben we de geschidenis van typografie en gewoon over typografie geleerd. Wat mij het meest interesseert, is dat lettertypen een bepaalde vibe uitstralen en dat mensen een bepaalde emotie voelen wanneer ze naar een lettertype kijken. Daarom kan de keuze voor het juiste lettertype zo effectief zijn in het overbrengen van de boodschap die je wilt uitdrukken. <img src="/images/2sep.typografie.png" width="400" style="transform: rotate(-90deg); margin: 50px 0;">  
+Voor woensdag heb ik gekozen voor Typografie en Tekenen lessen. In de les typografie eerst hebben we de geschidenis van typografie en gewoon over typografie geleerd. Wat mij het meest interesseert, is dat lettertypen een bepaalde vibe uitstralen en dat mensen een bepaalde emotie voelen wanneer ze naar een lettertype kijken. Daarom kan de keuze voor het juiste lettertype zo effectief zijn in het overbrengen van de boodschap die je wilt uitdrukken.  
+<img src="/images/2sep.typografie.png" width="400">  
 Daarna ging iedereen op zoek naar een lettertype gebaseerd op de vibe die drie verschillende woorden bij ons opriepen. Dat was ook leuk. Eerlijk gezegd vind ik het soms lastig om fonts te kiezen, dus ik hoop dat deze les me daarbij zal helpen. In de tekenenles hebben we wat tekenoefeningen gedaan. We leerden ook hoe we in low-fi kunnen weergeven hoe de pagina eruitziet wanneer er op een knop wordt gedrukt. <img src="/images/2 sep.tekenen.png" width="400">  
 Eerlijk gezegd had ik tekenles nodig, want soms vind ik het moeilijk om mijn ideeën op papier te zetten.
 
