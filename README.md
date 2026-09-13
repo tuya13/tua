@@ -27,6 +27,10 @@ Oefening 1
 Oefening 2  
 <img src="/images/10sep2.png" width="400">
 
+Self study met Grid Garden  
+Ik vind deze speeltje echt leerzaam en leuk.  
+<img src="/images/garden.png" width="400">
+
 ### 9 september - Workshop
 
 We hebben vandaag presentatie gegeven over onze ideen voor de garden. Daarna hebben we visual research gedaan om een idee te hebben over de visuals van de garden. De woorden die ik heb gekozen was "vrij en rust".  
