@@ -4,6 +4,12 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 14 september - Workshop
+
+Bi-weekly Geed 1: Wat is internet dan?  
+<img src="/images/bi weekly.png" width="400">  
+<img src="/images/bi weekly2.png" width="400">
+
 ### 11 september - Workshop
 
 Feedback van Barbara(docent)  
