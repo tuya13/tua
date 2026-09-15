@@ -4,6 +4,18 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 15 september - Workshop
+
+Vandaag heb ik naar Responsive grid + Grid-areas workshop gegaan.  
+Oefening 1  
+<img src="/images/15sep.png" width="400">  
+Oefening 2  
+<img src="/images/15sep2.png" width="400">  
+Oefening 3  
+<img src="/images/15sep3.png" width="400">
+
+Ik heb vaandag ook dark en light versie van mijn background gemaakt. Ik heb paar videos bekeken om het te kunnen maken. Ik wilde mijn background een papierachtig uiterlijk geven. Ik heb https://www.youtube.com/watch?v=6wxT4kXjVhI&t=529s video bekenen om het te doen. Ik heb het met Adobe Photoshop gemaakt.
+
 ### 14 september - Workshop
 
 Bi-weekly Geed 1: Wat is internet dan?  
