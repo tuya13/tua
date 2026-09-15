@@ -22,6 +22,15 @@ Mobile versie
 Website versie  
 <img src="/images/14sepweb.png" width="400">
 
+Check Out  
+1-Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?  
+Als de website alleen html heeft en niks meer dan is het lelijk. Als ik het CSS toevoegd bijv. grids en fonts dan wordt het minder lelijk.
+
+2-Vertel welke volgende stap je neemt om je website responsive te maken.  
+Meerdere pagina's en button's toevoegen.  
+3-Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?  
+Ik heb links en hierarchie.
+
 ### 11 september - Workshop
 
 Feedback van Barbara(docent)  
