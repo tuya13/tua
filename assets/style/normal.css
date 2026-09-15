@@ -7,7 +7,7 @@
 }
 h1 {
   font-family: "h1font", sans-serif;
-  font-size: 85px;
+  font-size: 5em;
 }
 body {
   font-family: "Comic Relief", system-ui;
@@ -23,7 +23,7 @@ main {
 }
 article {
   background-color: pink;
-  border-radius: 10px;
+  border-radius: 1em;
   padding: 1em;
 }
 

@@ -22,6 +22,11 @@ Mobile versie
 Website versie  
 <img src="/images/14sepweb.png" width="400">
 
+For now my website looks like this:  
+<img src="/images/14sep.webs.png" width="400">
+
+I used https://fonts.google.com/share?selection.family=Passions+Conflict font but i didnt like it after using it so i am going to change it.
+
 Check Out  
 1-Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?  
 Als de website alleen html heeft en niks meer dan is het lelijk. Als ik het CSS toevoegd bijv. grids en fonts dan wordt het minder lelijk.
