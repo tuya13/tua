@@ -10,6 +10,18 @@ Bi-weekly Geed 1: Wat is internet dan?
 <img src="/images/bi weekly.png" width="400">  
 <img src="/images/bi weekly2.png" width="400">
 
+Oefening 17  
+We hebben andere websites gekeken en onze ideeen erover geschreven.  
+<img src="/images/oefening17.png" width="400">
+
+Today i started to add some stuff to my website. Just small things for example grids.
+
+Ik heb ook duidelijkere schetsen gemaakt van hoe mijnwebsite eruit zal zien.  
+Mobile versie  
+<img src="/images/14sep.mobi.png" width="400"> <img src="/images/14sep2.png" width="400">  
+Website versie  
+<img src="/images/14sepweb.png" width="400">
+
 ### 11 september - Workshop
 
 Feedback van Barbara(docent)  
