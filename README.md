@@ -4,6 +4,36 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 17 september
+
+Ik heb vandaag over flexbox gestudeerd. Ik denk dat ik moet op mijn website ook flexbox gebruiken dus ik wilde het even leren. Ik heb het met Flexbox Froggy geleerd. Ik denk dat het me echt heeft geholpen.  
+<img src="/images/17sep.png" width="400">
+
+### 16 september - Workshop
+
+We hebben vandaag elkaars paginas feedback gegeven en onze ideeen voor hun geschets. Ik heb ook van 2 medestudenten feedback gekregen.  
+Mijn schetsen van mijn idee/pagina  
+<img src="/images/16sep.png" width="400"><img src="/images/16sep2.png" width="400">  
+Feedback schetsen die ik heb gekregen  
+<img src="/images/16sep3.png" width="400"><img src="/images/16sep4.png" width="400">
+
+Nu ziet mijn website zo eruit:  
+<img src="/images/16sepversie.png" width="400">
+
+Daarna heb ik de light and dark mode verbeterd. Ik heb daar meer custom properties toegevoegd. De pagina is nu completer.
+
+Check Out  
+1-Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.  
+White Space- Dat je niet alles op elkaar heb en een beetje space heb.  
+Hierarchie- Dat je op je website met typografie en grids een hierarchie heb zodat de gebruiker het beter begrijpt.  
+Contrast- Het sterkste verschil die je kan laten zien.
+
+2-Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld?  
+Dat je kan de website veranderen zo vaak als je wilt en kan ook een orde hebben.
+
+3-Welk principe neem je mee in een laatste iteratie van je eigen Garden?  
+Ik realizeerde me dat ik te veel white space had. Ik moet meer orde hebben in mijn website. Het was een beetje rommelig.
+
 ### 15 september - Workshop
 
 Vandaag heb ik naar Responsive grid + Grid-areas workshop gegaan.  
