@@ -4,6 +4,62 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 18 september - Workshop
+
+Ik heb op school mijn Retrospect gedaan. Eerst hebben we als een groep de schetsen van beste naar slechtste gerangschikt.  
+<img src="/images/18sep.jpeg" width="400">  
+Mijn Retrospect  
+<img src="/images/18sep2.png" width="400"><img src="/images/18sep3.png" width="400"><img src="/images/18sep4.png" width="400">
+
+**CHECK OUT**
+
+_-Oriënteren en Begrijpen-_  
++Waarom geven de docenten deze opdracht?  
+De reden dat we deze opdrachten, is om gedetailleerde informatie over een specifiek onderwerp te leren. Uiteraard zijn er ook verschillende niveaus voor deze opdrachten.  
++Welke technieken gebruik ik?  
+Ik gebruik HTML en CSS. Met slechts deze twee dingen kan ik een lelijke website verbeteren.  
++Wat zijn de randvoorwaarden?  
+Het is belangrijk dat de website een hierarchie, contrast, balance en witruimte heeft.  
++Waar gebruik je HTML/CSS voor?  
+HTML is om de text te schrijven en gewoon te structureren. CSS is om de text of informatie in de HTML te verduidelijken en detailleren.  
++Wat kan er allemaal met CSS?  
+Je kan eigenlijk het gewenste pagina-indeling maken door het op een begrijpelijke manier uit te leggen.
+
+_-Verbeelden en conceptualiseren-_  
++Lukt het om verschillende ideeën te bedenken?  
+Ik heb wel mijn verschillende ideeën geschets door Crazy 8 te maken Dan ook gedetailleerd schetsen op basseerd van mijn Crazy 8.  
++Wat doet deze CSS-property?  
+Je kan gradienten toevoegen op specifieke plekken en ook animaties en transities maken. Je kan ook verschillende fonts coderen.  
++Welke content, en welke HTML heb ik nodig?  
+Tijdens je coderen kan je met nieuwe ideeen komen. Ik moet over de layout nadenken en misschien schetsen maken en daarna het coderen te zien hoe het eruit ziet.  
++Hoe kan ik dit soort content vormgeven?  
+Ik kan het met grid en flexbox functie in CSS. Ik kan de boxen verplaatsen met deze functies. IK kan ook de hierarchie van de kleuren bepalen.  
++Wat als ik hier nu eens 1000 invul?  
+Ik wil natuurlijk een bijzondere website hebben. Voor mijn achtergrond heb ik niet alleen een light en dark mode kleuren gekozen, maar ik heb twee versies voor light en dark mode gedaan via Adobe Photoshop.
+
+_-Prototypen en uitwerken-_  
++Begrijpen bezoekers de site?  
+Ik heb de naam van mijn website Tuya's Journal gedaan zodat ze begrijpt waarover het gaat maar misschien kunnen ze het niet begrijpen dat het over junk journaling gaat. Ik heb ook mijn achtergrond een papieractig uiterlijk gegeven. Ik denk dat het kan ook helpen.  
++Wat vindt de opdrachtgever er van?  
+Om bijvoorbeeld te laten zien hoe de donkere modus eruit zou zien, heb ik de achtergrond voor die modus zelf gemaakt en al het andere daarop afgestemd.  
++Werkt dit wel?  
+Ja, het werkt perfect.  
++Oooooh, kan dit óók?!  
+Dat ik alles kan positioneren met gebruik van CSS.  
+_-Evalueren-_  
++Wat wil(de) ik weten/bereiken?  
+Eigenlijk wilde ik alvast een begin maken met mijn website. Ik wilde bijvoorbeeld de basis nu al opzetten als fundering voor de verschillende functies die ik later wil toevoegen, zodat het in de toekomst niet allemaal te ingewikkeld wordt.  
++Wat heb ik gedaan?  
+Ik heb dus wat onderzoek gedaan naar junk journaling. Verder heb ik geschetst hoe de verschillende variaties van mijn pagina er voor web en mobiel uit moeten zien. Ik denk dat ik voor nu wel even genoeg heb staan, aangezien ik verwacht dat mijn ideeën tijdens het bouwen zelf toch nog wel gaan veranderen.  
++Wat was het resultaat?  
+De meeste dingen werkten, maar ik kreeg de navigatiebalk niet helemaal zoals ik wilde. Daarvoor moest ik flexbox leren en daar had ik helaas geen tijd meer voor. Ik ben van plan om dat eerst te leren en het daarna pas goed te maken. Eigenlijk heb ik Flexbox Froggy wel gedaan, maar ik heb het nog niet in mijn CSS kunnen gebruiken. Verder wilde ik mijn drie secties in polaroid-stijl maken, maar ik wist helaas niet hoe ik dat voor elkaar moest krijgen. Ik hoop wel dat het me nog gaat lukken.  
++Wat weet je nu (niet)?  
+Ik heb geleerd dat ik door de Grid-eigenschap te gebruiken in CSS dingen kan positioneren waar ik wil. Maar soms raak ik nog steeds in de war over hoe ik dit moet doen en vergeet ik waar ik de code precies moet schrijven. Ook bij het maken van een dark en light mode schrijf ik het soms op de verkeerde plekken.  
++Wat vond je (niet) leuk?  
+Over het algemeen vind ik coderen niet zo leuk, maar als ik eenmaal precies begrijp hoe het werkt, vind ik het wel leuk om te doen. Ik denk dat ik het gewoon helemaal moet begrijpen om het leuk te kunnen vinden. Maar het is natuurlijk wel heel tof dat je met CSS precies de dingen kunt maken die je wilt.  
++Voldoet het nog aan de eisen?  
+Ik heb het gecontroleerd en het voldoet aan de eisen.
+
 ### 17 september
 
 Ik heb vandaag over flexbox gestudeerd. Ik denk dat ik moet op mijn website ook flexbox gebruiken dus ik wilde het even leren. Ik heb het met Flexbox Froggy geleerd. Ik denk dat het me echt heeft geholpen.  
