@@ -11,6 +11,12 @@ Ik heb op school mijn Retrospect gedaan. Eerst hebben we als een groep de schets
 Mijn Retrospect  
 <img src="/images/18sep2.png" width="400"><img src="/images/18sep3.png" width="400"><img src="/images/18sep4.png" width="400">
 
+Op het eind van Sprint 1 ziet mijn website zo eruit:  
+Light Mode  
+<img src="/images/18seplight.png" width="400">
+Dark Mode  
+<img src="/images/18sepdark.png" width="400">
+
 **CHECK OUT**
 
 _-Oriënteren en Begrijpen-_  
