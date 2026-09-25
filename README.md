@@ -4,6 +4,59 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 24 september
+
+Ik ga aan mijn website een ster als SVG toevoegen en ik wil dat het een link is. Ik heb dus een ster en een hartje toegevoegd. Ik heb hun in Adobe Illustrator gedaan. Ik heb ook transition voor de links toevegoegd.  
+<img src="/images/24sep.png" width="400"><img src="/images/24sep2.png" width="400">  
+Dit is hoe my pagina nu eruit ziet.  
+<img src="/images/24sep3.png" width="400">
+
+### 23 september - Workshop
+
+We hebben een website gekozen om de Dark Patterns te inspecteren. We hebben Temu gekozen. Eerst hebben we een dark pattern gekozen. We hebben voor misdirection gekozen. (Misdirection: Using bright, distracting visuals to draw the user's attention away from their intended task (e.g., opting out of a pre-selected fee).) Dan hebben we dat verbeterd.  
+<img src="/images/23sep.jpeg" width="400">  
+Dan hebben we een wireflow erover gedaan.  
+<img src="/images/23sep2.png" width="400">  
+Over de cookies voor mijn website heb ik paar informaties van de website van GitHub gevonden.  
+-https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement  
+-https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection
+
+Gesprek met Barbara  
+-Ik heb de codes goed gedaan en alles is in orde.  
+-Ik heb alles gedaan wat ik moest doen.  
+-Alleen de inhoud is nog niet duidelijk.  
+-Als ik een website gebruikt in mijn website moet ik dat dan noteren in de Readme en ook in de CSS.
+
+DEEP DIVE- Buttons + Dialogs  
+Ik heb naar de deep dive gegaan en ik heb paar oefeningen gedaan.  
+<img src="/images/23sep3.png" width="400"> <img src="/images/23sep4.png" width="400">  
+<img src="/images/23sep5.png" width="400"> <img src="/images/23sep6.png" width="400">  
+<img src="/images/23sep7.png" width="400">
+
+### 22 september
+
+Ik heb vandaag naar de Deep Dive: Buttons, states en selectors gegaan. Ik heb paar oefeningen gedaan. Ik denk dat ik deze in mijn website zal gebruiken want ik vind het echt leuk om hover in mijn buttons te hebben.  
+Oefening 1  
+<img src="/images/22sep.png" width="400">  
+Oefening 2  
+<img src="/images/22sep2.png" width="400">
+
+### 21 september - Workshop
+
+**SPRINT 2**  
+-We heben vandaag geleerd over HTML landmark role elements. Dan hebben we geleerd meer van grids. Ik heb probeerd de code samen met de docent te schrijven maar helaas kon ik sommige delen niet afmaken omdat hij te snel vorderde. Dit is alles wat ik heb kunnen doen.  
+<img src="/images/21sep.png" width="400">  
+-We hebben dan ook 2 websites onderzocht voor zijn cookie popups.  
+<img src="/images/21sepcookie.png" width="400">
+
+_Check Out_
+1-Wat zijn HTML landmark role elements?  
+Het is daar zodat je de text een goede structuur geeft en de text netjes houden.  
+2-Wat zijn heading elementen en hoe horen deze 'genest' te worden?  
+De belangrijkste staat bovenaan en noemen ze i hetzelfde artikel.  
+3-Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.  
+Ik do het altijd accepteer niet eigenlijk want ik wil mijn persoonelijke gegevens niet delen.
+
 ### 18 september - Workshop
 
 Ik heb op school mijn Retrospect gedaan. Eerst hebben we als een groep de schetsen van beste naar slechtste gerangschikt.  
@@ -16,6 +69,8 @@ Light Mode
 <img src="/images/18seplight.png" width="400">
 Dark Mode  
 <img src="/images/18sepdark.png" width="400">
+
+Vandaag kon ik geen feedback krijgen van Barbara want zij had geen tijd meer voor mij.
 
 **CHECK OUT**
 
@@ -96,9 +151,9 @@ Dat je kan de website veranderen zo vaak als je wilt en kan ook een orde hebben.
 3-Welk principe neem je mee in een laatste iteratie van je eigen Garden?  
 Ik realizeerde me dat ik te veel white space had. Ik moet meer orde hebben in mijn website. Het was een beetje rommelig.
 
-### 15 september - Workshop
+### 15 september
 
-Vandaag heb ik naar Responsive grid + Grid-areas workshop gegaan.  
+Vandaag heb ik naar Responsive grid + Grid-areas deepdive gegaan.  
 Oefening 1  
 <img src="/images/15sep.png" width="400">  
 Oefening 2  
@@ -155,7 +210,7 @@ Oefening 2
 <img src="/images/11.sep3.png" width="400">  
 <img src="/images/11.sep4.png" width="400">
 
-### 10 september - Workshop
+### 10 september
 
 Ik heb huiswerk voor Mooie kleuren en gradients gedaan.  
 Oefening 1  
@@ -191,9 +246,9 @@ Check Out
 3- Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.  
 De laatste tekening die ik maakte is mijn favoriet en die wil ik gebruiken. Ik denk erover om eraan te werken, omdat ik wil dat mijn website eruitziet als een journal, en ik denk dat deze daar het meest op lijkt.
 
-### 8 september - Workshop
+### 8 september
 
-We hebben een les gekregen over light and dark mode in coding.  
+We hebben een les (Deep Dive) gekregen over light and dark mode in coding.  
 Oefening 1  
 <img src="/images/8sep.darkmode.png" width="400"> <img src="/images/8sep.lightmode.png" width="400">  
 Oefening 2  
