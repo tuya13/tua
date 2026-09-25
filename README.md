@@ -17,6 +17,12 @@ Ik moet diverse schetsen maken over de cookies popup. Flexbox is handig voor coo
 PERSOONELIJKE FEEDBACK  
 Het is belangrijk dat ik alle mogelijkheiden wel hebt maar als ik mijn pagina niet veele dingen hebt dan is het prima. Het belangrijkste ding is om de DO en DON'Ts te volgen. IK hoef niet erover te zorgen.  
 
+-cookies, privacy  
+-dark patterns  
+-HTML structuur  
+-button met javascript  
+-HTML valideren en checken voor errors  
+
 ### 24 september
 
 Ik ga aan mijn website een ster als SVG toevoegen en ik wil dat het een link is. Ik heb dus een ster en een hartje toegevoegd. Ik heb hun in Adobe Illustrator gedaan. Ik heb ook transition voor de links toevegoegd.  
