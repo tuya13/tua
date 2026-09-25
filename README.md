@@ -4,6 +4,11 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 25 september - Workshop
+
+Ik heb HTML gevalideerd via https://validator.w3.org/nu/#file . Hier is de resultaat.  
+<img src="/images/25sep.png" width="400">
+
 ### 24 september
 
 Ik ga aan mijn website een ster als SVG toevoegen en ik wil dat het een link is. Ik heb dus een ster en een hartje toegevoegd. Ik heb hun in Adobe Illustrator gedaan. Ik heb ook transition voor de links toevegoegd.  
