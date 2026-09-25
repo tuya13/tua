@@ -23,6 +23,15 @@ Het is belangrijk dat ik alle mogelijkheiden wel hebt maar als ik mijn pagina ni
 -button met javascript  
 -HTML valideren en checken voor errors  
 
+DEEP DIVE - Position + Dialogs  
+Oefening 1  
+<img width="400" alt="Screenshot 2026-09-25 192232" src="https://github.com/user-attachments/assets/6d04b836-cad5-41e4-9677-226f231ce309" />  
+Oefening 2  
+<img width="400" alt="Screenshot 2026-09-25 210534" src="https://github.com/user-attachments/assets/ec5ad5a6-bda3-4132-9ecf-fa3516965b3c" />  
+Oefening 3  
+<img width="400" alt="Screenshot 2026-09-25 213532" src="https://github.com/user-attachments/assets/74f12a10-d635-48bd-9b56-a5b980f80530" />
+
+
 ### 24 september
 
 Ik ga aan mijn website een ster als SVG toevoegen en ik wil dat het een link is. Ik heb dus een ster en een hartje toegevoegd. Ik heb hun in Adobe Illustrator gedaan. Ik heb ook transition voor de links toevegoegd.  
