@@ -29,8 +29,11 @@ Oefening 1
 Oefening 2  
 <img width="400" alt="Screenshot 2026-09-25 210534" src="https://github.com/user-attachments/assets/ec5ad5a6-bda3-4132-9ecf-fa3516965b3c" />  
 Oefening 3  
-<img width="400" alt="Screenshot 2026-09-25 213532" src="https://github.com/user-attachments/assets/74f12a10-d635-48bd-9b56-a5b980f80530" />
+<img width="400" alt="Screenshot 2026-09-25 213532" src="https://github.com/user-attachments/assets/74f12a10-d635-48bd-9b56-a5b980f80530" />  
 
+Vandaag heb ik paar veranderingen gemaakt voor mijn website. Ik heb voor alle links een nieuwe paginas gemaakt. Ik heb ook kleine veranderingen gemaakt. Dit is hoe het nu eruit ziet.  
+<img width="941" height="402" alt="Screenshot 2026-09-25 213855" src="https://github.com/user-attachments/assets/d7ea045c-5d95-4a85-97c0-1cb8b311609d" />  
+Ik zal waarschijnlijk geen website kunnen maken die precies is zoals ik hem voor ogen had, omdat ik er simpelweg geen tijd voor heb. Bovendien ben ik niet zo snel met programmeren, dus ik denk dat ik geen website kan maken die er precies zo uitziet als ik me had voorgesteld. Het duurt wat langer dan verwacht, maar ik hoop dat ik iets kan maken dat er in de buurt komt.  
 
 ### 24 september
 
