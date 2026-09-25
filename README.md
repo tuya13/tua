@@ -11,7 +11,8 @@ Ik heb HTML gevalideerd via https://validator.w3.org/nu/#file . Hier is de resul
 Na ik paar errors verwijderd heb ik no errors gekregen.  
 <img width="400" alt="Screenshot 2026-09-25 093801" src="https://github.com/user-attachments/assets/63af60b2-56a7-446b-a86a-221a49621d47" />
 
-
+FEEDBACK  
+Ik moet diverse schetsen maken over de cookies popup. Flexbox is handig voor cookiepopup. Wat github pages doet met de gebruiker data ook moet in de popup.  
 
 ### 24 september
 
