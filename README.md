@@ -7,7 +7,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ### 25 september - Workshop
 
 Ik heb HTML gevalideerd via https://validator.w3.org/nu/#file . Hier is de resultaat.  
-<img width="400" height="380" alt="Screenshot 2026-09-25 093438" src="https://github.com/user-attachments/assets/15c1d79b-e5d5-4acf-afee-1690ed5f6173" />  
+<img width="400" alt="Screenshot 2026-09-25 093438" src="https://github.com/user-attachments/assets/15c1d79b-e5d5-4acf-afee-1690ed5f6173" />  
 
 
 
