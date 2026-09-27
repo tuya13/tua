@@ -4,6 +4,14 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 27 september  
+Voorbereiding voor maandag  
+- Video bekeken over the algorithm en algemeene informatie erover. - (https://www.youtube.com/watch?v=HRvbrsXKY74)  
+- Een artikel over nieuwe wetten Europe willen toepassen voor ChatGBT, Roblox en Reddit. - (https://dlo.mijnhva.nl/content/enforced/759389-FDMCI-CRS-00046845/ChatGPT%20faces%20tougher%20rules%20under%20EU%20online%20safety%20regime.pdf)
+- Een artikel over hoe AI chatbots gebruikt een Russian propaganda als een bron. - (https://www.euronews.com/2026/07/27/ai-chatbots-citing-russian-propaganda-sourced-from-eu-sanctioned-outlet)
+- In deze grote rechtszaak zeggen ze dat Meta Facebook en Instagram expres zo heeft gemaakt dat jongeren niet kunnen stoppen met kijken, omdat het bedrijf zo meer geld verdient, ook al weten ze heel goed dat dit de jongeren depressief maakt.  (https://nos.nl/artikel/2627352-megarechtszaak-tegen-meta-in-de-vs-begint-maakt-het-bedrijf-jongeren-bewust-verslaafd)
+
+Vandaag heb ik naar de cookiepopup gefocust. Ik moest eigenlijk meer erover hebben want ik loopde een beetje achter. Ik heb de opdracht van woensdag nog een keer gekeken zodat ik niks mis. 
 ### 25 september - Workshop
 
 Ik heb HTML gevalideerd via https://validator.w3.org/nu/#file . Hier is de resultaat.  
@@ -62,7 +70,11 @@ DEEP DIVE- Buttons + Dialogs
 Ik heb naar de deep dive gegaan en ik heb paar oefeningen gedaan.  
 <img src="/images/23sep3.png" width="400"> <img src="/images/23sep4.png" width="400">  
 <img src="/images/23sep5.png" width="400"> <img src="/images/23sep6.png" width="400">  
-<img src="/images/23sep7.png" width="400">
+<img src="/images/23sep7.png" width="400">  
+
+Het was huiswerk om (https://www.youtube.com/watch?v=9CEtqnPdWoI) deze video te bekeken en ik heb dat gedaan. Ik heb geleerd over hoe belangrijk micro interacties zijn en ook de basis 4 microinteracties. Het details zijn belangrijk.  
+Het lezen van deze (https://www.uxdesigninstitute.com/blog/what-are-dark-patterns-in-ux/) website was ook het huiswerk. Deze website gaat over dark patterns, wat ze zijn, hoe ze eruit ziet, waarom we het niet moeten hebben in een website.  
+Deze (https://www.youtube.com/watch?v=2aZ8f-tRVIU) video bekeken en (https://www.nngroup.com/articles/deceptive-patterns/) artikel gelezen over hoe we Deceptive Patterns negeren.  
 
 ### 22 september
 
