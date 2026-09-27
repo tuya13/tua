@@ -11,7 +11,33 @@ Voorbereiding voor maandag
 - Een artikel over hoe AI chatbots gebruikt een Russian propaganda als een bron. - (https://www.euronews.com/2026/07/27/ai-chatbots-citing-russian-propaganda-sourced-from-eu-sanctioned-outlet)
 - In deze grote rechtszaak zeggen ze dat Meta Facebook en Instagram expres zo heeft gemaakt dat jongeren niet kunnen stoppen met kijken, omdat het bedrijf zo meer geld verdient, ook al weten ze heel goed dat dit de jongeren depressief maakt.  (https://nos.nl/artikel/2627352-megarechtszaak-tegen-meta-in-de-vs-begint-maakt-het-bedrijf-jongeren-bewust-verslaafd)
 
-Vandaag heb ik naar de cookiepopup gefocust. Ik moest eigenlijk meer erover hebben want ik loopde een beetje achter. Ik heb de opdracht van woensdag nog een keer gekeken zodat ik niks mis. 
+Vandaag heb ik naar de cookiepopup gefocust. Ik moest eigenlijk meer erover hebben want ik loopde een beetje achter. Ik heb de opdracht van woensdag nog een keer gekeken zodat ik niks mis.  
+
+*1-Bespreek in jouw groepje welke gegevens op jouw digital garden van gebruikers verwerkt worden. Houdt daarbij in de gaten welke diensten je allemaal gebruikt. Zelfs als je alles zelf geschreven hebt zijn dat er al twee: GitHub pages hosting én het digitaaltuintje component.*  
+
+Dit hadden we gedaan maar ik heb het vergeten om hier te plaatsen dus nu doe ik dat.  
+IK heb eerst inspect gedaan voor mijn website om te zien welke cookies ik heb in mijn website.  
+<img width="914" height="404" alt="Screenshot 2026-09-27 171717" src="https://github.com/user-attachments/assets/bd6dbf92-570a-48a4-89ec-87bb45f5c30e" />  
+Ik heb dus null cookie gekregen. Dan moet ik alleen maar de cookie van github gebruiken.  
+
+*2-Informeren van gebruikers is een plicht die je hebt als websitemaker: Hoe kan je gebruikers informeren over het gebruik van hun gegevens op jouw website?*  
+
+Ik zal meerdere keren mijn website inspecteren te zien welke cookies ik heb. Ik zal proberek alles mezelf te doen zodat ik minimum cookies heb. Ik zal ook natuurlijk een popup maken voor mijn gebruikers.  
+
+*3-Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10 verschillende manieren van het vragen van consent op het web.*  
+
+De websites die ik heb gevonden om te leren. Daar heb ik heel veel inspiratie van gekregen.
+(https://www.autoriteitpersoonsgegevens.nl/en/themes/internet-and-smart-devices/cookies/clear-cookie-banners  
+https://cookiesaur.com/blog/cookies-how-to-properly-ask-for-consent  
+https://www.termsfeed.com/blog/cookie-consent-examples/  
+https://www.ttclabs.net/site/assets/files/11122/best_practices_for_consent_design.pdf)
+
+*4-Denk na over een manier van werken die past binnen de layout van jouw digital garden?*
+Ik heb heel veel schetsen in verschillende varianten gemaakt totdat ik echt een idee heb hoe ik het kan op mijn website toepassen.  
+
+<img width="300" alt="Screenshot 2026-09-27 185608" src="https://github.com/user-attachments/assets/049756eb-4024-46f1-ac07-8ffc6d0aca10" /> <img width="300"  alt="Screenshot 2026-09-27 185743" src="https://github.com/user-attachments/assets/b7b44bf7-3aa1-4b91-a7cf-e3c31b5d3254" /> <img width="300" alt="Screenshot 2026-09-27 185843" src="https://github.com/user-attachments/assets/d6a3504c-17c1-438a-b644-383a2bcaadb0" />  
+<img width="300" alt="Screenshot 2026-09-27 185944" src="https://github.com/user-attachments/assets/1e52eea1-6c00-4473-a25d-980cf53639c3" /> <img width="300"  alt="Screenshot 2026-09-27 190048" src="https://github.com/user-attachments/assets/e2a14ebe-9b5c-4bf5-a59e-748c9059b578" />  <img width="300" alt="Screenshot 2026-09-27 190153" src="https://github.com/user-attachments/assets/c6be9c76-b51c-4392-875b-8a8cab7d2a79" />  
+
 ### 25 september - Workshop
 
 Ik heb HTML gevalideerd via https://validator.w3.org/nu/#file . Hier is de resultaat.  
