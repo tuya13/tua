@@ -29,10 +29,7 @@ Zo ziet het eruit:
 <img width="300" alt="Screenshot 2026-09-28 194200" src="https://github.com/user-attachments/assets/e8fde88f-6d7b-4dc4-b8f1-69f51abcb4d1" />  
 Ik heb van CodePen alle informatie erover gevonden.  
 
-Ik heb eigenlijk dark en light mode voor mijn cookie icon gedaan maar ik weet niet waarom het niet werkt.  
-
-
-
+Daarna heb ik eigenlijk dark en light mode voor mijn cookie icon gedaan maar ik weet niet waarom het niet werkt.  
 
 
 ### 27 september  
