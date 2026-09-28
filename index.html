@@ -1,47 +1,57 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="[jouw naam]">
-    <meta name="color-scheme" content="dark light">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="[jouw naam]" />
+    <meta name="color-scheme" content="dark light" />
 
     <title>[Digitaal Tuintje van Tuya]</title>
-    <link rel="stylesheet" href="./assets/style/normal.css">
+    <link rel="stylesheet" href="./assets/style/normal.css" />
     <!-- Importeer het webring component, voeg jouw eigen domein toe in data-page -->
     <script
       data-page="[https://voorbeeld.nl]"
       src="https://digitaaltuintje.nl/webring.js"
       defer
     ></script>
+    <script defer src="journal.js"></script>
   </head>
   <body>
     <header>
       <h1>Tüya's Journal</h1>
       <nav>
+        <a href="index.html">HOME</a>
         <a href="README.md">Log</a>
         <a href="/story.html">Story</a>
-        <a href="/contact.html">Contacts</a>
       </nav>
     </header>
 
     <main>
-      <article>
-        <h2>Journal</h2>
-        <p>The pages of my journal</p>
-      </article>
+      <a href="journal.html">
+        <article>
+          <h2>Journal</h2>
+          <img src="/picsweb/journal.jpeg" alt="junk journal" />
+        </article>
+      </a>
 
-      <article>
-        <h2>Ideas</h2>
-        <p>Concepts that I have in my journal</p>
-      </article>
+      <a href="ideas.html">
+        <article>
+          <h2>Ideas</h2>
+          <img src="/picsweb/ideas.jpeg" alt="ideas for your junk journal" />
+        </article>
+      </a>
 
-      <article>
-        <h2>Materials</h2>
-        <p>Which materials did I use for my journal?</p>
-      </article>
+      <a href="materials.html">
+        <article>
+          <h2>Materials</h2>
+          <img
+            src="/picsweb/materials.jpeg"
+            alt="Junk journaling materials and supplies"
+          />
+        </article>
+      </a>
 
-      <a href=""
+      <a href="junk.html"
         ><article>
           <h2>What is Junk Journaling?</h2>
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 188.28 163.46">
@@ -63,6 +73,29 @@
             />
           </svg></article
       ></a>
+
+      <button>
+        <img src="/picsweb/cookie-light.svg" alt="Cookie Icon" />
+      </button>
+
+      <!-- DE MODELESS DIALOG -->
+      <dialog>
+        <form method="dialog">
+          <h2>Cookies?</h2>
+          <button class="close" aria-label="sluit hulp">X</button>
+          <p>
+            This website uses only essential cookies to ensure basic
+            functionality. We do not track you or use third-party analytics. The
+            only external link provided is to my
+            <a href="https://github.com/tuya13" target="_blank">
+              Github Profile.</a
+            >
+          </p>
+
+          <button value="reject">Reject</button>
+          <button value="accept">Accept</button>
+        </form>
+      </dialog>
     </main>
 
     <footer>
