@@ -14,14 +14,25 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 *CHECK OUT*  
 1-Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?  
-Het gaat over UX  
+Het gaat over UX en niet een correcte code. Het moet wel toegankelijk zijn vor UX.  
 2-Wat voor type beperkingen hebben invloed op het gebruiken van websites?  
 Visueel, Auditief, Motorisch, Cognitief  
 3-Noem drie manieren om door een website te navigeren met jouw screenreader.  
 Er zijn shortcuts:  
 [caps lock]+[F6]	open lijst met headings
 [K] / [shift]+[K]	Naar de volgende link / vorige link
-[caps lock]+[F7]	open lijst met links
+[caps lock]+[F7]	open lijst met links  
+
+-Ik heb met Figma een cookie beeld gemaakt om de cookies toe te voegen.  
+<img width="300" alt="Screenshot 2026-09-28 190100" src="https://github.com/user-attachments/assets/daa399aa-f26d-4d6b-822d-1d1891b21909" />  
+Zo ziet het eruit:  
+<img width="300" alt="Screenshot 2026-09-28 194200" src="https://github.com/user-attachments/assets/e8fde88f-6d7b-4dc4-b8f1-69f51abcb4d1" />  
+Ik heb van CodePen alle informatie erover gevonden.  
+
+Ik heb eigenlijk dark en light mode voor mijn cookie icon gedaan maar ik weet niet waarom het niet werkt.  
+
+
+
 
 
 ### 27 september  
