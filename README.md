@@ -8,6 +8,9 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 <img width="400" alt="Screenshot 2026-09-28 120658" src="https://github.com/user-attachments/assets/1fcd69d6-f61e-4f74-822c-30d436fa9eef" />
 <img width="400" alt="Screenshot 2026-09-28 120511" src="https://github.com/user-attachments/assets/21dff2de-c44b-4114-a41e-df4893ccd9ad" />  
 
+-We hebben experimenten gedaan om de mensen met beperkingen te begrijpen. Daarna hebben we met screenreader gewerkt om te zien hoe het ook werk en we hebben het met alleen maar tas gewerkt.  
+<img width="400" alt="WhatsApp Image 2026-09-28 at 3 06 31 PM" src="https://github.com/user-attachments/assets/ab91dd3f-faea-420a-9791-119d369d58c4" />
+<img width="400" alt="Screenshot 2026-09-28 144734" src="https://github.com/user-attachments/assets/59b77651-4d73-435a-bb72-ac2c184e22e9" />  
 
 
 ### 27 september  
