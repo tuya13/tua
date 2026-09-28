@@ -12,6 +12,17 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 <img width="200" alt="WhatsApp Image 2026-09-28 at 3 06 31 PM" src="https://github.com/user-attachments/assets/ab91dd3f-faea-420a-9791-119d369d58c4" />
 <img width="400" alt="Screenshot 2026-09-28 144734" src="https://github.com/user-attachments/assets/59b77651-4d73-435a-bb72-ac2c184e22e9" />  
 
+*CHECK OUT*  
+1-Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?  
+Het gaat over UX  
+2-Wat voor type beperkingen hebben invloed op het gebruiken van websites?  
+Visueel, Auditief, Motorisch, Cognitief  
+3-Noem drie manieren om door een website te navigeren met jouw screenreader.  
+Er zijn shortcuts:  
+[caps lock]+[F6]	open lijst met headings
+[K] / [shift]+[K]	Naar de volgende link / vorige link
+[caps lock]+[F7]	open lijst met links
+
 
 ### 27 september  
 Voorbereiding voor maandag  
