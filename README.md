@@ -3,11 +3,99 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+### 28 september - Workshop
+*Bi-weekly geek 2*  
+<img width="400" alt="Screenshot 2026-09-28 120658" src="https://github.com/user-attachments/assets/1fcd69d6-f61e-4f74-822c-30d436fa9eef" />
+<img width="400" alt="Screenshot 2026-09-28 120511" src="https://github.com/user-attachments/assets/21dff2de-c44b-4114-a41e-df4893ccd9ad" />  
+
+-We hebben experimenten gedaan om de mensen met beperkingen te begrijpen. Daarna hebben we met screenreader gewerkt om te zien hoe het ook werk en we hebben het met alleen maar tab gewerkt.  
+<img width="200" alt="WhatsApp Image 2026-09-28 at 3 06 31 PM" src="https://github.com/user-attachments/assets/ab91dd3f-faea-420a-9791-119d369d58c4" />
+<img width="400" alt="Screenshot 2026-09-28 144734" src="https://github.com/user-attachments/assets/59b77651-4d73-435a-bb72-ac2c184e22e9" />  
+
+*CHECK OUT*  
+1-Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?  
+Het gaat over UX en niet een correcte code. Het moet wel toegankelijk zijn vor UX.  
+2-Wat voor type beperkingen hebben invloed op het gebruiken van websites?  
+Visueel, Auditief, Motorisch, Cognitief  
+3-Noem drie manieren om door een website te navigeren met jouw screenreader.  
+Er zijn shortcuts:  
+[caps lock]+[F6]	open lijst met headings
+[K] / [shift]+[K]	Naar de volgende link / vorige link
+[caps lock]+[F7]	open lijst met links  
+
+-Ik heb met Figma een cookie beeld gemaakt om de cookies toe te voegen.  
+<img width="300" alt="Screenshot 2026-09-28 190100" src="https://github.com/user-attachments/assets/daa399aa-f26d-4d6b-822d-1d1891b21909" />  
+Zo ziet het eruit:  
+<img width="300" alt="Screenshot 2026-09-28 194200" src="https://github.com/user-attachments/assets/e8fde88f-6d7b-4dc4-b8f1-69f51abcb4d1" />  
+Ik heb van CodePen alle informatie erover gevonden.  
+
+Daarna heb ik eigenlijk dark en light mode voor mijn cookie icon gedaan maar ik weet niet waarom het niet werkt.  
+
+
+### 27 september  
+Voorbereiding voor maandag  
+- Video bekeken over the algorithm en algemeene informatie erover. - (https://www.youtube.com/watch?v=HRvbrsXKY74)  
+- Een artikel over nieuwe wetten Europe willen toepassen voor ChatGBT, Roblox en Reddit. - (https://dlo.mijnhva.nl/content/enforced/759389-FDMCI-CRS-00046845/ChatGPT%20faces%20tougher%20rules%20under%20EU%20online%20safety%20regime.pdf)
+- Een artikel over hoe AI chatbots gebruikt een Russian propaganda als een bron. - (https://www.euronews.com/2026/07/27/ai-chatbots-citing-russian-propaganda-sourced-from-eu-sanctioned-outlet)
+- In deze grote rechtszaak zeggen ze dat Meta Facebook en Instagram expres zo heeft gemaakt dat jongeren niet kunnen stoppen met kijken, omdat het bedrijf zo meer geld verdient, ook al weten ze heel goed dat dit de jongeren depressief maakt.  (https://nos.nl/artikel/2627352-megarechtszaak-tegen-meta-in-de-vs-begint-maakt-het-bedrijf-jongeren-bewust-verslaafd)
+
+Vandaag heb ik naar de cookiepopup gefocust. Ik moest eigenlijk meer erover hebben want ik loopde een beetje achter. Ik heb de opdracht van woensdag nog een keer gekeken zodat ik niks mis.  
+
+*1-Bespreek in jouw groepje welke gegevens op jouw digital garden van gebruikers verwerkt worden. Houdt daarbij in de gaten welke diensten je allemaal gebruikt. Zelfs als je alles zelf geschreven hebt zijn dat er al twee: GitHub pages hosting én het digitaaltuintje component.*  
+
+Dit hadden we gedaan maar ik heb het vergeten om hier te plaatsen dus nu doe ik dat.  
+IK heb eerst inspect gedaan voor mijn website om te zien welke cookies ik heb in mijn website.  
+<img width="914" height="404" alt="Screenshot 2026-09-27 171717" src="https://github.com/user-attachments/assets/bd6dbf92-570a-48a4-89ec-87bb45f5c30e" />  
+Ik heb dus null cookie gekregen. Dan moet ik alleen maar de cookie van github gebruiken.  
+
+*2-Informeren van gebruikers is een plicht die je hebt als websitemaker: Hoe kan je gebruikers informeren over het gebruik van hun gegevens op jouw website?*  
+
+Ik zal meerdere keren mijn website inspecteren te zien welke cookies ik heb. Ik zal proberek alles mezelf te doen zodat ik minimum cookies heb. Ik zal ook natuurlijk een popup maken voor mijn gebruikers.  
+
+*3-Op welke manier kan je instemming vragen? Doe desk-research en zoek tenminste 10 verschillende manieren van het vragen van consent op het web.*  
+
+De websites die ik heb gevonden om te leren. Daar heb ik heel veel inspiratie van gekregen.
+(https://www.autoriteitpersoonsgegevens.nl/en/themes/internet-and-smart-devices/cookies/clear-cookie-banners  
+https://cookiesaur.com/blog/cookies-how-to-properly-ask-for-consent  
+https://www.termsfeed.com/blog/cookie-consent-examples/  
+https://www.ttclabs.net/site/assets/files/11122/best_practices_for_consent_design.pdf)
+
+*4-Denk na over een manier van werken die past binnen de layout van jouw digital garden?*
+Ik heb heel veel schetsen in verschillende varianten gemaakt totdat ik echt een idee heb hoe ik het kan op mijn website toepassen.  
+
+<img width="300" alt="Screenshot 2026-09-27 185608" src="https://github.com/user-attachments/assets/049756eb-4024-46f1-ac07-8ffc6d0aca10" /> <img width="300"  alt="Screenshot 2026-09-27 185743" src="https://github.com/user-attachments/assets/b7b44bf7-3aa1-4b91-a7cf-e3c31b5d3254" /> <img width="300" alt="Screenshot 2026-09-27 185843" src="https://github.com/user-attachments/assets/d6a3504c-17c1-438a-b644-383a2bcaadb0" />  
+<img width="300" alt="Screenshot 2026-09-27 185944" src="https://github.com/user-attachments/assets/1e52eea1-6c00-4473-a25d-980cf53639c3" /> <img width="300"  alt="Screenshot 2026-09-27 190048" src="https://github.com/user-attachments/assets/e2a14ebe-9b5c-4bf5-a59e-748c9059b578" />  <img width="300" alt="Screenshot 2026-09-27 190153" src="https://github.com/user-attachments/assets/c6be9c76-b51c-4392-875b-8a8cab7d2a79" />  
 
 ### 25 september - Workshop
 
 Ik heb HTML gevalideerd via https://validator.w3.org/nu/#file . Hier is de resultaat.  
-<img src="/images/25sep.png" width="400">
+<img width="400" alt="Screenshot 2026-09-25 093438" src="https://github.com/user-attachments/assets/15c1d79b-e5d5-4acf-afee-1690ed5f6173" />   
+Na ik paar errors verwijderd heb ik no errors gekregen.  
+<img width="400" alt="Screenshot 2026-09-25 093801" src="https://github.com/user-attachments/assets/63af60b2-56a7-446b-a86a-221a49621d47" />
+
+FEEDBACK  
+Ik moet diverse schetsen maken over de cookies popup. Flexbox is handig voor cookiepopup. Wat github pages doet met de gebruiker data ook moet in de popup.  
+
+PERSOONELIJKE FEEDBACK  
+Het is belangrijk dat ik alle mogelijkheiden wel hebt maar als ik mijn pagina niet veele dingen hebt dan is het prima. Het belangrijkste ding is om de DO en DON'Ts te volgen. IK hoef niet erover te zorgen.  
+
+-cookies, privacy  
+-dark patterns  
+-HTML structuur  
+-button met javascript  
+-HTML valideren en checken voor errors  
+
+DEEP DIVE - Position + Dialogs  
+Oefening 1  
+<img width="400" alt="Screenshot 2026-09-25 192232" src="https://github.com/user-attachments/assets/6d04b836-cad5-41e4-9677-226f231ce309" />  
+Oefening 2  
+<img width="400" alt="Screenshot 2026-09-25 210534" src="https://github.com/user-attachments/assets/ec5ad5a6-bda3-4132-9ecf-fa3516965b3c" />  
+Oefening 3  
+<img width="400" alt="Screenshot 2026-09-25 213532" src="https://github.com/user-attachments/assets/74f12a10-d635-48bd-9b56-a5b980f80530" />  
+
+Vandaag heb ik paar veranderingen gemaakt voor mijn website. Ik heb voor alle links een nieuwe paginas gemaakt. Ik heb ook kleine veranderingen gemaakt. Dit is hoe het nu eruit ziet.  
+<img width="941" height="402" alt="Screenshot 2026-09-25 213855" src="https://github.com/user-attachments/assets/d7ea045c-5d95-4a85-97c0-1cb8b311609d" />  
+Ik zal waarschijnlijk geen website kunnen maken die precies is zoals ik hem voor ogen had, omdat ik er simpelweg geen tijd voor heb. Bovendien ben ik niet zo snel met programmeren, dus ik denk dat ik geen website kan maken die er precies zo uitziet als ik me had voorgesteld. Het duurt wat langer dan verwacht, maar ik hoop dat ik iets kan maken dat er in de buurt komt.  
 
 ### 24 september
 
@@ -36,7 +124,11 @@ DEEP DIVE- Buttons + Dialogs
 Ik heb naar de deep dive gegaan en ik heb paar oefeningen gedaan.  
 <img src="/images/23sep3.png" width="400"> <img src="/images/23sep4.png" width="400">  
 <img src="/images/23sep5.png" width="400"> <img src="/images/23sep6.png" width="400">  
-<img src="/images/23sep7.png" width="400">
+<img src="/images/23sep7.png" width="400">  
+
+Het was huiswerk om (https://www.youtube.com/watch?v=9CEtqnPdWoI) deze video te bekeken en ik heb dat gedaan. Ik heb geleerd over hoe belangrijk micro interacties zijn en ook de basis 4 microinteracties. Het details zijn belangrijk.  
+Het lezen van deze (https://www.uxdesigninstitute.com/blog/what-are-dark-patterns-in-ux/) website was ook het huiswerk. Deze website gaat over dark patterns, wat ze zijn, hoe ze eruit ziet, waarom we het niet moeten hebben in een website.  
+Deze (https://www.youtube.com/watch?v=2aZ8f-tRVIU) video bekeken en (https://www.nngroup.com/articles/deceptive-patterns/) artikel gelezen over hoe we Deceptive Patterns negeren.  
 
 ### 22 september
 
