@@ -4,7 +4,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 29 september
 
-Ik heb voor mijn navigatie bar een "washi tape" gemaakt om naar mijn pagina meer van junk journal uiterlijk te geven want washi tape is een materiaal ervoor.  
+Ik heb voor mijn navigatie bar een "washi tape" gemaakt om naar mijn pagina meer van junk journal uiterlijk te geven want washi tape is een materiaal ervoor. Ik heb light en dark mode gedaan.  
 
 <img width="300" alt="Screenshot 2026-09-29 153142" src="https://github.com/user-attachments/assets/1711eecf-92fb-4a4a-9a31-de59f1a078a5" />  
 
