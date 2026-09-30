@@ -2,6 +2,35 @@
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
+## Learning Log
+
+### 30 september - Workshop
+
+We hebben vandaag toegankelijkheid testen gedaan. Ik heb wel paar dingen dat ik moet verbeteren. Ik heb een list gemaakt:  
+1-navigation bar is onleesbaar.  
+2-in home page articles zijn rommelig dus met toetsenbar word het echt random.  
+3-Focus style moet toevoegen  
+4-Op telefoon zit er een horizontal scroll. Dat moet ik Verwijderen.  
+5-Nav heeft geen ul.  
+6-Decorative images hoeft geen alt te hebben.  
+7-Skip link in het begin van de pagina toevoegen. (verborgen)  
+
+
+*CHECK OUT*
+*1-Waar staat WCAG en A11y voor?*  
+WCAG = Web Content Accessibility Guidelines
+A11y = A C C E S S I B I L I T Y  dus ccessibilit is 11 en de rest i a en y. 
+
+*2-Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?*
+
+Ik vind screenreader lastiger want het leest alle dingen en het duurt echt lang om iets te vinden.  
+
+*3-Met welke beperking rekening houden vind je het meest lastig?
+Vind je dat je beperkt wordt in wat je kunt ontwerpen?
+Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?*
+
+Blind vind ik lastig want ik moet met alles rekenig houden. 
+
 ### 29 september
 
 Ik heb voor mijn navigatie bar een "washi tape" gemaakt om naar mijn pagina meer van junk journal uiterlijk te geven want washi tape is een materiaal ervoor. Ik heb light en dark mode gedaan.  
@@ -13,7 +42,6 @@ Ik heb voor mijn navigatie bar een "washi tape" gemaakt om naar mijn pagina meer
 
 Ik heb ook de probleem met de cookie opgelost.  
 
-## Learning Log
 ### 28 september - Workshop
 *Bi-weekly geek 2*  
 <img width="400" alt="Screenshot 2026-09-28 120658" src="https://github.com/user-attachments/assets/1fcd69d6-f61e-4f74-822c-30d436fa9eef" />
