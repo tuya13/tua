@@ -6,15 +6,20 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 30 september - Workshop
 
-We hebben vandaag toegankelijkheid testen gedaan. Ik heb wel paar dingen dat ik moet verbeteren. Ik heb een list gemaakt:  
+We hebben vandaag toegankelijkheid testen gedaan.  
+
+<img width="400" alt="Screenshot 2026-09-30 155553" src="https://github.com/user-attachments/assets/d6623b07-7086-41d4-bd4a-dfc9163cf048" /> <img width="400" alt="Screenshot 2026-09-30 155713" src="https://github.com/user-attachments/assets/9435d0d9-29a4-47e7-86df-476cfaaba85d" />  
+<img width="400" alt="Screenshot 2026-09-30 155823" src="https://github.com/user-attachments/assets/27873464-086a-451e-9eb5-f88956f254c7" /> <img width="400" alt="Screenshot 2026-09-30 155916" src="https://github.com/user-attachments/assets/67d70158-7228-4cb7-a043-0678921ea637" />  
+<img width="400" alt="Screenshot 2026-09-30 160012" src="https://github.com/user-attachments/assets/cf21bcf0-d617-4ebb-96c7-9e99d7b1f3d1" />
+
+
+Ik heb wel paar dingen dat ik moet verbeteren. Ik heb een list gemaakt:  
 1-navigation bar is onleesbaar.  
 2-in home page articles zijn rommelig dus met toetsenbar word het echt random.  
 3-Focus style moet toevoegen  
 4-Op telefoon zit er een horizontal scroll. Dat moet ik Verwijderen.  
-5-Nav heeft geen ul.  
-6-Decorative images hoeft geen alt te hebben.  
-7-Skip link in het begin van de pagina toevoegen. (verborgen)  
-
+5-Decorative images hoeft geen alt te hebben.  
+6-Skip link in het begin van de pagina toevoegen. (verborgen)  
 
 *CHECK OUT*
 *1-Waar staat WCAG en A11y voor?*  
@@ -29,7 +34,14 @@ Ik vind screenreader lastiger want het leest alle dingen en het duurt echt lang 
 Vind je dat je beperkt wordt in wat je kunt ontwerpen?
 Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?*
 
-Blind vind ik lastig want ik moet met alles rekenig houden. 
+Blind vind ik lastig want ik moet met alles rekenig houden. Ik moet ervoor een andere instelling toevoegen. Ik kan het met visual hidden doen.  
+
+------
+
+Ik heb skip links + prefers-reduced-motion toegevoegd in mijn website.  
+
+<img width="400" alt="Screenshot 2026-09-30 154330" src="https://github.com/user-attachments/assets/f4eb187f-9dd3-4d21-9675-3fb12582aff2" />  
+
 
 ### 29 september
 
