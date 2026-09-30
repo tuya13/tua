@@ -6,7 +6,15 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 30 september - Workshop
 
-We hebben vandaag toegankelijkheid testen gedaan.  
+We hebben vandaag toegankelijkheid testen gedaan. Ik heb wel paar dingen dat ik moet verbeteren. Ik heb een list gemaakt:  
+1-navigation bar is onleesbaar.  
+2-in home page articles zijn rommelig dus met toetsenbar word het echt random.  
+3-Focus style moet toevoegen  
+4-Op telefoon zit er een horizontal scroll. Dat moet ik Verwijderen.  
+5-Nav heeft geen ul.  
+6-Decorative images hoeft geen alt te hebben.  
+7-Skip link in het begin van de pagina toevoegen. (verborgen)  
+
 
 
 
