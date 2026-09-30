@@ -30,6 +30,7 @@ html {
   --link-hover-nav: light-dark (rgb(243, 185, 226), #3b052a);
   --link-active-bg: lightgray;
   --link-active-color: gray;
+  --link-nav-color: light-dark(#3b052a, #fae6f4);
 
   /* colors for svg */
   --svg: light-dark(#3b052a, rgb(243, 185, 226));
@@ -203,7 +204,7 @@ nav {
   gap: 1em;
   width: 22em;
   max-width: 100%;
-  margin: 2em;
+  margin: 2em 0 2em 0;
   justify-content: space-evenly;
   align-items: center;
   background-image: var(--background-nav);
@@ -228,6 +229,7 @@ nav {
     transition: all 0.2s ease-in-out;
     display: inline-block;
     background-color: var(--nav-a);
+    color: var(--link-nav-color);
     border-radius: 7em;
 
     &:hover {
@@ -254,6 +256,7 @@ header {
   display: flex;
   flex-direction: column;
   gap: 1.25em;
+  align-items: center;
 
   @media (min-width: 48em) {
     flex-direction: row;
@@ -362,6 +365,7 @@ dialog form .close {
   font-size: 1.2rem;
   cursor: pointer;
 }
+
 main dialog {
   position: fixed;
   right: 1em;
@@ -393,6 +397,7 @@ dialog form button[value] {
   margin-top: 15px;
   margin-right: 10px;
 }
+
 body:has(dialog[open]) {
   overflow: hidden;
 }
@@ -400,11 +405,30 @@ body:has(dialog[open]) {
 dialog form button[value="accept"] {
   background-color: #ff80df;
   color: #1a1a1a;
+
+  &:hover {
+    transform: scale(1.1);
+    transition: 0.2s ease-in-out;
+  }
+
+  &:active {
+    transform: scale(0.9);
+    transition: 0.2s ease-in-out;
+  }
 }
 
 dialog form button[value="reject"] {
   background-color: #555555;
   color: white;
+
+  &:hover {
+    transform: scale(1.1);
+    transition: 0.2s ease-in-out;
+  }
+  &:active {
+    transform: scale(0.9);
+    transition: 0.2s ease-in-out;
+  }
 }
 
 @media (prefers-reduced-motion: no-preference) {
