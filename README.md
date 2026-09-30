@@ -16,7 +16,20 @@ We hebben vandaag toegankelijkheid testen gedaan. Ik heb wel paar dingen dat ik 
 7-Skip link in het begin van de pagina toevoegen. (verborgen)  
 
 
+*CHECK OUT*
+*1-Waar staat WCAG en A11y voor?*  
+WCAG = Web Content Accessibility Guidelines
+A11y = A C C E S S I B I L I T Y  dus ccessibilit is 11 en de rest i a en y. 
 
+*2-Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?*
+
+Ik vind screenreader lastiger want het leest alle dingen en het duurt echt lang om iets te vinden.  
+
+*3-Met welke beperking rekening houden vind je het meest lastig?
+Vind je dat je beperkt wordt in wat je kunt ontwerpen?
+Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?*
+
+Blind vind ik lastig want ik moet met alles rekenig houden. 
 
 ### 29 september
 
