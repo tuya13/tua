@@ -1,4 +1,8 @@
 /* HIER KOMT JOUW CSS */
+:root {
+  --background-nav: url("../../picsweb/tape-light.svg");
+}
+
 @font-face {
   font-family: "h1font";
   src: url(../type/PassionsConflict-Regular.ttf);
@@ -15,7 +19,7 @@ html {
     url("../../picsweb/light-background.png"),
     url("../../picsweb/dark-background.png")
   );
-  --background-nav: light-dark(rgb(243, 185, 226), #3b052a);
+  --background-nav: (url("../../picsweb/tape-light.svg"));
   --background-card: light-dark(rgb(243, 185, 226), #3b052a);
 
   /* Colors for buttons */
@@ -26,13 +30,19 @@ html {
   --link-hover-nav: light-dark (rgb(243, 185, 226), #3b052a);
   --link-active-bg: lightgray;
   --link-active-color: gray;
+
   /* colors for svg */
   --svg: light-dark(#3b052a, rgb(243, 185, 226));
+  --svg-hover: light-dark(rgb(243, 185, 226), #3b052a);
   /* color for cookies */
+  --cookie-bg: (url("../../picsweb/cookie-light.svg"));
   --cookies-open-bg: light-dark(rgba(255, 255, 255, 0.941), rgb(215, 213, 213));
   --cookies-open-color: light-dark(rgb(243, 185, 226), #3b052a);
 }
-
+html {
+  /* Colors for links */
+  --link-hover-color: light-dark(rgb(243, 185, 226), #3b052a);
+}
 body {
   font-family: Arial, Helvetica, sans-serif;
 
@@ -110,30 +120,6 @@ article:has(a:hover) {
   color: var(--link-hover-color);
 }
 
-html {
-  /* Light and dark background */
-  color-scheme: light dark;
-
-  --color: light-dark(#3b052a, rgb(243, 185, 226));
-  --background: light-dark(
-    url("../../picsweb/light-background.png"),
-    url("../../picsweb/dark-background.png")
-  );
-  --background-nav: light-dark(rgb(243, 185, 226), #3b052a);
-  --background-card: light-dark(rgb(243, 185, 226), #3b052a);
-
-  /* Colors for links */
-  --link-accent-bg: light-dark(#3b052a, rgb(243, 185, 226));
-  --link-accent-color: light-dark (rgb(243, 185, 226), #3b052a);
-  --link-hover-bg: light-dark(#3b052a, rgb(243, 185, 226));
-  --link-hover-color: light-dark(rgb(243, 185, 226), #3b052a);
-  --link-active-bg: lightgray;
-  --link-active-color: gray;
-  /* colors for svg */
-  --svg: light-dark(#3b052a, rgb(243, 185, 226));
-  --svg-hover: light-dark(rgb(243, 185, 226), #3b052a);
-}
-
 body {
   font-family: Arial, Helvetica, sans-serif;
 
@@ -208,18 +194,38 @@ a:nth-of-type(5) {
 nav {
   display: flex;
   gap: 1em;
-  max-width: 10em;
+  width: 22em;
+  max-width: 100%;
   margin: 2em;
-  background-color: var(--background-nav);
-  border-radius: 1em;
-  padding: 1em;
+  justify-content: space-evenly;
+  align-items: center;
+  background-image: var(--background-nav);
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 1.5em 3em;
 
   a {
-    transition: 0.4s ease-in-out;
+    font-size: 1.1em;
+    transition: all 0.2s ease-in-out;
+    display: inline-block;
 
     &:hover {
-      color: #ff80df;
+      color: #ff00ff;
+      transform: translateY(-3px) rotate(-4deg);
+      text-shadow:
+        0px 0px 10px rgba(255, 0, 255, 0.8),
+        2px 2px 4px rgba(0, 0, 0, 0.4);
     }
+    &:active {
+      transform: scale(0.85) rotate(-4deg);
+      text-shadow: none;
+    }
+  }
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-nav: url("../../picsweb/tape-dark.svg");
   }
 }
 
@@ -227,6 +233,10 @@ header {
   display: flex;
   flex-direction: column;
   gap: 1.25em;
+}
+header h1 {
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 @media (min-width: 48em) {
@@ -303,7 +313,7 @@ dialog form img {
   width: 120px;
   margin: 0 auto 20px;
   display: block;
-
+  background-image: var(--cookie-bg);
   filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.2));
 
   transition: transform 0.3s ease;
@@ -315,9 +325,10 @@ dialog form img:hover {
 
 @media (prefers-color-scheme: dark) {
   dialog form img {
-    content: url("/picsweb/cookie-dark.svg");
+    content: url("../../picsweb/cookie-dark.svg");
   }
 }
+
 dialog form .close {
   position: absolute;
   top: 0;
@@ -346,6 +357,13 @@ main dialog {
   box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.5);
   cursor: pointer;
 }
+
+dialog a {
+  color: #ff80df;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
 dialog form button[value] {
   padding: 10px 20px;
   border-radius: 8px;

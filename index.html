@@ -75,7 +75,13 @@
       ></a>
 
       <button>
-        <img src="/picsweb/cookie-light.svg" alt="Cookie Icon" />
+        <picture>
+          <source
+            srcset="/picsweb/cookie-dark.svg"
+            media="(prefers-color-scheme: dark)"
+          />
+          <img src="/picsweb/cookie-light.svg" alt="Cookie Icon" />
+        </picture>
       </button>
 
       <!-- DE MODELESS DIALOG -->
@@ -84,13 +90,18 @@
           <h2>Cookies?</h2>
           <button class="close" aria-label="sluit hulp">X</button>
           <p>
-            This website uses only essential cookies to ensure basic
-            functionality. We do not track you or use third-party analytics. The
-            only external link provided is to my
-            <a href="https://github.com/tuya13" target="_blank">
-              Github Profile.</a
+            This website uses only the mandatory cookies set by the hosting
+            provider for the site to function properly and securely. There are
+            no tracking or advertising cookies added by us. For more
+            information, you can review the
+            <a
+              href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement"
             >
+              General Privacy Statement.
+            </a>
           </p>
+
+          <!-- This paragraph in the button is written by Gemini. -->
 
           <button value="reject">Reject</button>
           <button value="accept">Accept</button>
