@@ -38,6 +38,8 @@ html {
   --cookie-bg: (url("../../picsweb/cookie-light.svg"));
   --cookies-open-bg: light-dark(rgba(255, 255, 255, 0.941), rgb(215, 213, 213));
   --cookies-open-color: light-dark(rgb(243, 185, 226), #3b052a);
+  /* color for nav */
+  --nav-a: light-dark(#fcedd8, #875b8c);
 }
 html {
   /* Colors for links */
@@ -150,6 +152,7 @@ main {
     "materials history"
     "ideas .";
 }
+
 article {
   display: flex;
   flex-direction: column;
@@ -177,11 +180,11 @@ a:nth-of-type(1) {
 }
 
 a:nth-of-type(2) {
-  grid-area: ideas;
+  grid-area: materials;
 }
 
 a:nth-of-type(3) {
-  grid-area: materials;
+  grid-area: ideas;
 }
 
 a:nth-of-type(4) {
@@ -205,10 +208,18 @@ nav {
   background-repeat: no-repeat;
   padding: 1.5em 3em;
 
+  @media (width<30em) {
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+  }
+
   a {
-    font-size: 1.1em;
+    font-size: 1.2em;
     transition: all 0.2s ease-in-out;
     display: inline-block;
+    background-color: var(--nav-a);
+    border-radius: 7em;
 
     &:hover {
       color: #ff00ff;
