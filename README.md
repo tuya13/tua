@@ -2,6 +2,17 @@
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
+### 29 september
+
+Ik heb voor mijn navigatie bar een "washi tape" gemaakt om naar mijn pagina meer van junk journal uiterlijk te geven want washi tape is een materiaal ervoor. Ik heb light en dark mode gedaan.  
+
+<img width="300" alt="Screenshot 2026-09-29 153142" src="https://github.com/user-attachments/assets/1711eecf-92fb-4a4a-9a31-de59f1a078a5" />  
+
+<img width="477" height="415" alt="Screenshot 2026-09-29 175822" src="https://github.com/user-attachments/assets/4ccd38d5-903a-4d7d-9c37-f30367c7d941" />  
+<img width="528" height="416" alt="Screenshot 2026-09-29 175954" src="https://github.com/user-attachments/assets/c0539424-d3ec-4dc2-b954-1e0199e43e9c" />  
+
+Ik heb ook de probleem met de cookie opgelost.  
+
 ## Learning Log
 ### 28 september - Workshop
 *Bi-weekly geek 2*  
