@@ -208,7 +208,9 @@ nav {
   background-position: center;
   background-repeat: no-repeat;
   padding: 1.5em 3em;
-
+  @media (width<30em) {
+    max-width: 70%;
+  }
   a {
     font-size: 1.2em;
     transition: all 0.2s ease-in-out;
@@ -240,18 +242,17 @@ header {
   display: flex;
   flex-direction: column;
   gap: 1.25em;
-}
-header h1 {
-  white-space: nowrap;
-  flex-shrink: 0;
-}
 
-@media (min-width: 48em) {
-  header {
+  @media (min-width: 48em) {
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
     gap: 13em;
+
+    h1 {
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
   }
 }
 
