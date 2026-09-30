@@ -52,6 +52,7 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  min-height: 100vh;
   background-attachment: fixed;
 
   color: var(--color);
@@ -132,6 +133,8 @@ body {
   background-attachment: fixed;
 
   color: var(--color);
+
+  overflow-x: hidden;
 }
 
 h1 {
@@ -208,9 +211,18 @@ nav {
   background-position: center;
   background-repeat: no-repeat;
   padding: 1.5em 3em;
+
   @media (width<30em) {
     max-width: 70%;
   }
+
+  svg {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+
   a {
     font-size: 1.2em;
     transition: all 0.2s ease-in-out;
