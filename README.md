@@ -12,6 +12,7 @@ We hebben vandaag toegankelijkheid testen gedaan.
 <img width="400" alt="Screenshot 2026-09-30 155823" src="https://github.com/user-attachments/assets/27873464-086a-451e-9eb5-f88956f254c7" /> <img width="400" alt="Screenshot 2026-09-30 155916" src="https://github.com/user-attachments/assets/67d70158-7228-4cb7-a043-0678921ea637" />  
 <img width="400" alt="Screenshot 2026-09-30 160012" src="https://github.com/user-attachments/assets/cf21bcf0-d617-4ebb-96c7-9e99d7b1f3d1" />
 
+---------
 
 Ik heb wel paar dingen dat ik moet verbeteren. Ik heb een list gemaakt:  
 1-navigation bar is onleesbaar.  
@@ -41,6 +42,10 @@ Blind vind ik lastig want ik moet met alles rekenig houden. Ik moet ervoor een a
 Ik heb skip links + prefers-reduced-motion toegevoegd in mijn website.  
 
 <img width="400" alt="Screenshot 2026-09-30 154330" src="https://github.com/user-attachments/assets/f4eb187f-9dd3-4d21-9675-3fb12582aff2" />  
+
+Ik heb ook Visually-hidden en :focus-visible toegevoegd.  
+<img width="921" height="404" alt="Screenshot 2026-10-01 171603" src="https://github.com/user-attachments/assets/a5e91b76-dcbb-47b2-8bce-5b0a7b9e6e0e" />
+
 
 
 ### 29 september
