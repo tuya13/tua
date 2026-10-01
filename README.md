@@ -12,7 +12,7 @@ De ahctergrond afbeelding die ik voor mijn website had gemaakt werd niet weergeg
 <img width="400" alt="WhatsApp Image 2026-09-30 at 2 29 11 PM" src="https://github.com/user-attachments/assets/24ff0a5f-c8be-4404-82bb-25f6e0630f6b" />
 <img width="400" alt="Screenshot 2026-10-01 173331" src="https://github.com/user-attachments/assets/4d6bf434-2066-4f5b-9f9c-45f962ea5266" /> (website = https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/color_value/light-dark#browser_compatibility )
 
-
+Die 3 artikelen aan de linkerkant wilde ik eigenlijk al vanaf het begin in de stijl van een photobooth-strip maken, maar dat is me op de een of andere manier nooit gelukt. Vandaag heb ik het weer geprobeerd, maar het is weer niet gelukt; het kreeg steeds vreemde vormen. Zelfs na hulp van Gemini is het me niet gelukt, dus heb ik het weer in de oude staat hersteld. Ik ben van plan om het op een dag opnieuw te proberen. Ik hoop dat het me lukt, omdat ik vind dat het een goed idee is en goed bij mijn thema past. Daarom is het echt iets wat ik heel graag wil.
 
 ### 30 september - Workshop
 
