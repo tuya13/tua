@@ -4,6 +4,16 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 1 oktober
+
+Ik heb alles gedaan van de test die ik nog niet had.  
+
+De ahctergrond afbeelding die ik voor mijn website had gemaakt werd niet weergegeven op telefoon schermen. Ik heb dit aan Sanne gevraagd en hij zei dat dit kwam doordat mijn telefoon nog niet up to date was.  
+<img width="400" alt="WhatsApp Image 2026-09-30 at 2 29 11 PM" src="https://github.com/user-attachments/assets/24ff0a5f-c8be-4404-82bb-25f6e0630f6b" />
+<img width="400" alt="Screenshot 2026-10-01 173331" src="https://github.com/user-attachments/assets/4d6bf434-2066-4f5b-9f9c-45f962ea5266" /> (website = https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/color_value/light-dark#browser_compatibility )
+
+
+
 ### 30 september - Workshop
 
 We hebben vandaag toegankelijkheid testen gedaan.  
@@ -42,9 +52,11 @@ Blind vind ik lastig want ik moet met alles rekenig houden. Ik moet ervoor een a
 Ik heb skip links + prefers-reduced-motion toegevoegd in mijn website.  
 
 <img width="400" alt="Screenshot 2026-09-30 154330" src="https://github.com/user-attachments/assets/f4eb187f-9dd3-4d21-9675-3fb12582aff2" />  
+(Ik heb de informatie van CodePen gevonden.)  
 
 Ik heb ook Visually-hidden en :focus-visible toegevoegd.  
-<img width="921" height="404" alt="Screenshot 2026-10-01 171603" src="https://github.com/user-attachments/assets/a5e91b76-dcbb-47b2-8bce-5b0a7b9e6e0e" />
+<img width="400" alt="Screenshot 2026-10-01 171603" src="https://github.com/user-attachments/assets/a5e91b76-dcbb-47b2-8bce-5b0a7b9e6e0e" />  
+(Ik heb de informatie van CodePen gevonden.)  
 
 
 
