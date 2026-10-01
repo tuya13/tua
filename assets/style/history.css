@@ -1,0 +1,68 @@
+html {
+  --details-bg: light-dark(rgb(243, 185, 226), #3b052a);
+  --details-color: light-dark(#3b052a, rgb(243, 185, 226));
+  --details-accent-bg: light-dark(lightpink, deeppink);
+  --details-hover-bg: light-dark();
+}
+
+details {
+  transition: 1s;
+}
+details:open {
+  box-shadow: 0 0 1em 1em #ff00ff;
+}
+summary {
+  background: var(--details-bg);
+  color: var(--details-color);
+}
+summary:focus-visible {
+  background: var(--details-accent-bg);
+}
+summary:hover {
+  background: #ff00ff;
+}
+
+details {
+  display: block;
+
+  border-width: 0.1em;
+  border-style: solid;
+  border-color: var(--details-bg);
+  border-radius: 0.5em;
+  margin-bottom: 1em;
+  border: none;
+  transition:
+    border-color 0.3s,
+    background-color 0.3s;
+  width: 100%;
+  max-width: 37.5em;
+}
+details:open {
+  box-shadow: 0 0 0.5em 0.2em #ff00ff;
+}
+summary {
+  padding-block: 1em;
+  padding-inline: 1em;
+  border-radius: 0.4em;
+}
+details:open::details-content {
+  padding-inline: 1em;
+}
+
+details:open summary {
+  border-bottom: 0.1em solid var(--details-color);
+  border-radius: 0.4em 0.4em 0 0;
+}
+
+body {
+  display: grid;
+  gap: 1em;
+}
+a {
+  display: inline-block;
+  transition: transform 0.3s ease-in-out;
+  color: #ff00ff;
+}
+a:hover {
+  transform: scale(1.04s);
+}

@@ -17,6 +17,8 @@
     <script defer src="journal.js"></script>
   </head>
   <body>
+    <a href="#main">direct to content</a>
+
     <header>
       <h1>Tüya's Journal</h1>
       <nav>
@@ -26,22 +28,27 @@
       </nav>
     </header>
 
-    <main>
-      <a href="journal.html">
+    <main id="main">
+      <a href="journal.html"
+        ><span class="visually-hidden">my journal</span>
         <article>
-          <h2>Journal</h2>
+          <h2>My Junk Journal</h2>
           <img src="/picsweb/journal.jpeg" />
         </article>
       </a>
 
-      <a href="ideas.html">
+      <a href="ideas.html"
+        ><span class="visually-hidden"
+          >the ideas that you can use in junk journaling</span
+        >
         <article>
           <h2>Ideas</h2>
           <img src="/picsweb/ideas.jpeg" />
         </article>
       </a>
 
-      <a href="materials.html">
+      <a href="materials.html"
+        ><span class="visually-hidden">the materials that you can use</span>
         <article>
           <h2>Materials</h2>
           <img src="/picsweb/materials.jpeg" />
@@ -49,7 +56,8 @@
       </a>
 
       <a href="junk.html"
-        ><article>
+        ><span class="visually-hidden">what is junk journaling?</span>
+        <article>
           <h2>What is Junk Journaling?</h2>
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 188.28 163.46">
             <path
@@ -59,7 +67,8 @@
       ></a>
 
       <a href="history.html"
-        ><article>
+        ><span class="visually-hidden">history of junk journaling</span>
+        <article>
           <h2>History of Junk Journaling</h2>
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 432.22 411.06">
             <polygon
@@ -81,11 +90,10 @@
         </picture>
       </button>
 
-      <!-- DE MODELESS DIALOG -->
       <dialog>
         <form method="dialog">
           <h2>Cookies?</h2>
-          <button class="close" aria-label="sluit hulp">X</button>
+          <button class="close" aria-label="close">X</button>
           <p>
             This website uses only the mandatory cookies set by the hosting
             provider for the site to function properly and securely. There are
