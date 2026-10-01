@@ -4,17 +4,39 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 1 oktober
+
+Ik heb alles gedaan van de test die ik nog niet had.  
+
+De ahctergrond afbeelding die ik voor mijn website had gemaakt werd niet weergegeven op telefoon schermen. Ik heb dit aan Sanne gevraagd en hij zei dat dit kwam doordat mijn telefoon nog niet up to date was.  
+<img width="400" alt="WhatsApp Image 2026-09-30 at 2 29 11 PM" src="https://github.com/user-attachments/assets/24ff0a5f-c8be-4404-82bb-25f6e0630f6b" />
+<img width="400" alt="Screenshot 2026-10-01 173331" src="https://github.com/user-attachments/assets/4d6bf434-2066-4f5b-9f9c-45f962ea5266" /> (website = https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/color_value/light-dark#browser_compatibility )
+
+Die 3 artikelen aan de linkerkant wilde ik eigenlijk al vanaf het begin in de stijl van een photobooth-strip maken, maar dat is me op de een of andere manier nooit gelukt. Vandaag heb ik het weer geprobeerd, maar het is weer niet gelukt; het kreeg steeds vreemde vormen. Zelfs na hulp van Gemini is het me niet gelukt, dus heb ik het weer in de oude staat hersteld. Ik ben van plan om het op een dag opnieuw te proberen. Ik hoop dat het me lukt, omdat ik vind dat het een goed idee is en goed bij mijn thema past. Daarom is het echt iets wat ik heel graag wil.  
+
+---------
+
+Ik heb een andere pagina van mijn website gedaan. Ik ben nog niet helemaal klaar maar ik heb wel een begin gemaakt.  
+<img width="400" alt="Screenshot 2026-10-01 231237" src="https://github.com/user-attachments/assets/5c438a91-8e2e-4498-81a5-d9dc6a12cfe3" />
+
+
 ### 30 september - Workshop
 
-We hebben vandaag toegankelijkheid testen gedaan. Ik heb wel paar dingen dat ik moet verbeteren. Ik heb een list gemaakt:  
+We hebben vandaag toegankelijkheid testen gedaan.  
+
+<img width="400" alt="Screenshot 2026-09-30 155553" src="https://github.com/user-attachments/assets/d6623b07-7086-41d4-bd4a-dfc9163cf048" /> <img width="400" alt="Screenshot 2026-09-30 155713" src="https://github.com/user-attachments/assets/9435d0d9-29a4-47e7-86df-476cfaaba85d" />  
+<img width="400" alt="Screenshot 2026-09-30 155823" src="https://github.com/user-attachments/assets/27873464-086a-451e-9eb5-f88956f254c7" /> <img width="400" alt="Screenshot 2026-09-30 155916" src="https://github.com/user-attachments/assets/67d70158-7228-4cb7-a043-0678921ea637" />  
+<img width="400" alt="Screenshot 2026-09-30 160012" src="https://github.com/user-attachments/assets/cf21bcf0-d617-4ebb-96c7-9e99d7b1f3d1" />
+
+---------
+
+Ik heb wel paar dingen dat ik moet verbeteren. Ik heb een list gemaakt:  
 1-navigation bar is onleesbaar.  
 2-in home page articles zijn rommelig dus met toetsenbar word het echt random.  
 3-Focus style moet toevoegen  
 4-Op telefoon zit er een horizontal scroll. Dat moet ik Verwijderen.  
-5-Nav heeft geen ul.  
-6-Decorative images hoeft geen alt te hebben.  
-7-Skip link in het begin van de pagina toevoegen. (verborgen)  
-
+5-Decorative images hoeft geen alt te hebben.  
+6-Skip link in het begin van de pagina toevoegen. (verborgen)  
 
 *CHECK OUT*
 *1-Waar staat WCAG en A11y voor?*  
@@ -29,7 +51,20 @@ Ik vind screenreader lastiger want het leest alle dingen en het duurt echt lang 
 Vind je dat je beperkt wordt in wat je kunt ontwerpen?
 Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?*
 
-Blind vind ik lastig want ik moet met alles rekenig houden. 
+Blind vind ik lastig want ik moet met alles rekenig houden. Ik moet ervoor een andere instelling toevoegen. Ik kan het met visual hidden doen.  
+
+------
+
+Ik heb skip links + prefers-reduced-motion toegevoegd in mijn website.  
+
+<img width="400" alt="Screenshot 2026-09-30 154330" src="https://github.com/user-attachments/assets/f4eb187f-9dd3-4d21-9675-3fb12582aff2" />  
+(Ik heb de informatie van CodePen gevonden.)  
+
+Ik heb ook Visually-hidden en :focus-visible toegevoegd.  
+<img width="400" alt="Screenshot 2026-10-01 171603" src="https://github.com/user-attachments/assets/a5e91b76-dcbb-47b2-8bce-5b0a7b9e6e0e" />  
+(Ik heb de informatie van CodePen gevonden.)  
+
+
 
 ### 29 september
 
