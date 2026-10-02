@@ -37,7 +37,6 @@ We hebben vandaag toegankelijkheid testen gedaan.
 <img width="400" alt="Screenshot 2026-09-30 155823" src="https://github.com/user-attachments/assets/27873464-086a-451e-9eb5-f88956f254c7" /> <img width="400" alt="Screenshot 2026-09-30 155916" src="https://github.com/user-attachments/assets/67d70158-7228-4cb7-a043-0678921ea637" />  
 <img width="400" alt="Screenshot 2026-09-30 160012" src="https://github.com/user-attachments/assets/cf21bcf0-d617-4ebb-96c7-9e99d7b1f3d1" />
 
----------
 
 Ik heb wel paar dingen dat ik moet verbeteren. Ik heb een list gemaakt:  
 1-navigation bar is onleesbaar.  
