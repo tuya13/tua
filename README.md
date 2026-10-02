@@ -9,7 +9,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 *Feedback gekregen van Vasilis*  
 
 -Ik moet weten hoe ik met de screenreader headers laat voorlezen.  
--Duidelijker schetsen en ook waarom ik de richting heb gekozen moet ook duidelijk zijn.  
+-Duidelijker schetsen en waarom ik de richting heb gekozen moet ook duidelijk zijn.  
 
 
 
