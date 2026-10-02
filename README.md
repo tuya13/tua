@@ -12,6 +12,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 -Duidelijker schetsen en waarom ik de richting heb gekozen moet ook duidelijk zijn.  
 -Cookie instellingen verbeteren  
 
+RETROSPECT 2  
+<img width="400" alt="Screenshot 2026-10-02 120700" src="https://github.com/user-attachments/assets/ea73c9ff-adff-40f0-9d4d-5c9aa7a25819" />  
+<img width="400" alt="Screenshot 2026-10-02 120822" src="https://github.com/user-attachments/assets/94ab0c08-af27-475d-bb8c-23277be28d1a" />  
+<img width="400" alt="Screenshot 2026-10-02 120921" src="https://github.com/user-attachments/assets/ff9bb807-f7b1-4808-80d9-6dad4a4981c7" />  
+
+Ik heb juiste toetsen vor de screenreader gevonden.  
+<img width="400" alt="Screenshot 2026-10-02 121120" src="https://github.com/user-attachments/assets/a9e16e1d-3e23-4369-8d25-2b0b3a2e6171" />  
 
 
 ### 1 oktober
