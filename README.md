@@ -13,7 +13,26 @@ Ik heb de DEEP DIVE meer interactie met HTML en CSS gedaan.
 <img width="400" alt="Screenshot 2026-10-05 155944" src="https://github.com/user-attachments/assets/be4fc174-483d-4692-8bb5-769ed3116b0c" />
 
 Ik heb de DEEP DIVE Interessantere layouts gedaan.  
-<img width="400" alt="Screenshot 2026-10-05 164919" src="https://github.com/user-attachments/assets/edfbf4d6-a6ed-4aa8-9b91-c66ba139a99c" />
+<img width="400" alt="Screenshot 2026-10-05 164919" src="https://github.com/user-attachments/assets/edfbf4d6-a6ed-4aa8-9b91-c66ba139a99c" />  
+
+--------
+
+*Opdracht 1: Songtekst analyseren*  
+
+*Kies een nummer dat je aanspreekt*  
+Ik heb voor de song Tame Impala - Let It Happen gekozen.  
+
+*Neem een deel van de songtekst waar je ritme, contrast, dynamiek in herkent*  
+
+"All this running around
+I can't fight it much longer
+Something's tryin' to get out
+And it's never been closer"  
+
+*Maak 10 verschillende schetsen voor een expressief vormgegeven schermontwerp met de songtekst, waarbij je met name let op:*  
+
+*Ritme in de tekst (speel met plaatsing, font-size, measure, line-height, spacing)
+Hiërarchie (wat wil je de meeste aandacht geven?)*  
 
 
 
