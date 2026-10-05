@@ -4,6 +4,18 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 5 oktober - Workshop
+
+Ik kon vandaag nniet op school zijn omdat ik ziek was maar ik probeerde alles thuis te doen.  
+
+Ik heb de DEEP DIVE meer interactie met HTML en CSS gedaan.  
+<img width="400" alt="Screenshot 2026-10-05 155854" src="https://github.com/user-attachments/assets/081ea3b8-c15f-4234-97be-42e762ac1a8e" />
+<img width="400" alt="Screenshot 2026-10-05 155944" src="https://github.com/user-attachments/assets/be4fc174-483d-4692-8bb5-769ed3116b0c" />
+
+Ik heb de DEEP DIVE Interessantere layouts gedaan.  
+
+
+
 ### 2 oktober - Workshop
 
 *Feedback gekregen van Vasilis*  
