@@ -24,14 +24,14 @@ Ik heb voor de song Tame Impala - Let It Happen gekozen.
 
 *Neem een deel van de songtekst waar je ritme, contrast, dynamiek in herkent*  
 
-"All this running around
-I can't fight it much longer
-Something's tryin' to get out
+"All this running around  
+I can't fight it much longer  
+Something's tryin' to get out  
 And it's never been closer"  
 
 *Maak 10 verschillende schetsen voor een expressief vormgegeven schermontwerp met de songtekst, waarbij je met name let op:*  
 
-*Ritme in de tekst (speel met plaatsing, font-size, measure, line-height, spacing)
+*Ritme in de tekst (speel met plaatsing, font-size, measure, line-height, spacing)  
 Hiërarchie (wat wil je de meeste aandacht geven?)*  
 
 
