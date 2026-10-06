@@ -30,9 +30,14 @@ Something's tryin' to get out
 And it's never been closer"  
 
 *Maak 10 verschillende schetsen voor een expressief vormgegeven schermontwerp met de songtekst, waarbij je met name let op:*  
-
 *Ritme in de tekst (speel met plaatsing, font-size, measure, line-height, spacing)  
 Hiërarchie (wat wil je de meeste aandacht geven?)*  
+
+<img width="400" alt="Screenshot 2026-10-06 185242" src="https://github.com/user-attachments/assets/536226e6-a99f-4813-999f-992c6e59edde" />  
+<img width="400" alt="Screenshot 2026-10-06 185426" src="https://github.com/user-attachments/assets/d99678b1-399c-4522-b3c1-b484e09f9004" />  
+<img width="400" alt="Screenshot 2026-10-06 190950" src="https://github.com/user-attachments/assets/36d6c531-5e94-4d31-9bfb-fac815c3e90a" />   
+
+
 
 
 
