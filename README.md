@@ -4,6 +4,25 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 6 oktober  
+
+*Opdracht 2: Bespreek je schetsen met een ander*
+
+*1-Wat wil je bij de kijker bereiken met je vormgeving?*  
+
+Over het algemeen heb ik in woorden proberen uit te drukken wat het liedje me laat voelen. Het geeft me bijvoorbeeld een wat hypnotiserend gevoel, alsof het door de lucht zweeft. Daarom wil ik dit gevoel ook op deze manier in de woorden laten terugkomen.  
+
+
+*2-Hoe voegt jouw opzet iets toe aan de tekst?*  
+Ik denk dat wanneer ik de woorden op een zwevende manier laat zien, het de kijker precies dat gevoel van het liedje geeft.  
+
+*3-Wat is een volgende stap: welke schets vind je het meest geschikt om digitaal uit te werken?*  
+Eerlijk gezegd denk ik dat het moeilijk zal zijn om al mijn tekeningen in code te schrijven, maar misschien probeer ik, wanneer ik begin met schrijven, wat ik maak te laten lijken op wat ik in mijn hoofd heb, en kan ik iets krijgen dat er dicht in de buurt komt.  
+
+*4-Hoe zou je dit kunnen aanpakken in code? (vraag hulp wanneer je het niet zeker weet)*  
+Ik weet het niet.  
+
+
 ### 5 oktober - Workshop
 
 Ik kon vandaag nniet op school zijn omdat ik ziek was maar ik probeerde alles thuis te doen.  
