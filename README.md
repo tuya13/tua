@@ -23,7 +23,11 @@ Eerlijk gezegd denk ik dat het moeilijk zal zijn om al mijn tekeningen in code t
 Ik weet het niet.  
 
 Dit is de eerste versie zonder mijn codes.  
-<img width="400" alt="Screenshot 2026-10-06 201951" src="https://github.com/user-attachments/assets/2b83f70c-facf-4f7e-b773-ae9b1a6235cc" />
+<img width="400" alt="Screenshot 2026-10-06 201951" src="https://github.com/user-attachments/assets/2b83f70c-facf-4f7e-b773-ae9b1a6235cc" />  
+
+Ik heb alleen maar h1 h2 en p toegevoegd omdat ik niet wist wat ik moest doen en toevoegen dus ik zal op woensdag hulp vragen.  
+<img width="400" alt="Screenshot 2026-10-06 220710" src="https://github.com/user-attachments/assets/ad04a4f1-2bf4-46af-b5f5-c3ab2b185fa8" />
+
 
 
 ### 5 oktober - Workshop
