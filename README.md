@@ -22,6 +22,9 @@ Eerlijk gezegd denk ik dat het moeilijk zal zijn om al mijn tekeningen in code t
 *4-Hoe zou je dit kunnen aanpakken in code? (vraag hulp wanneer je het niet zeker weet)*  
 Ik weet het niet.  
 
+Dit is de eerste versie zonder mijn codes.  
+<img width="400" alt="Screenshot 2026-10-06 201951" src="https://github.com/user-attachments/assets/2b83f70c-facf-4f7e-b773-ae9b1a6235cc" />
+
 
 ### 5 oktober - Workshop
 
