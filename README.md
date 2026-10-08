@@ -19,13 +19,17 @@ Ik vind deze versie het beste.
 -----------
 
 DEEP DIVE - Variabele fonts  
+
 Oefening 1  
+
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/e1f7e1d0-5fd0-4a3a-aad8-8e27d2c55d54" />  
  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/4c1d3906-9db7-47bf-a61b-b29091eec83a" />  
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/72078c12-97ff-4baa-9a37-7bcd11bf0a8d" />
 
+Oefening 2  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/95d3a67c-8000-473c-8d2a-f650863501c0" />
 
 
 ### 6 oktober  
