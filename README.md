@@ -29,7 +29,11 @@ Oefening 1
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/72078c12-97ff-4baa-9a37-7bcd11bf0a8d" />
 
 Oefening 2  
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/95d3a67c-8000-473c-8d2a-f650863501c0" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/95d3a67c-8000-473c-8d2a-f650863501c0" />  
+
+Oefening 3  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a30b84db-60a1-4026-a95b-dc0b0ed6b8e5" />
+
 
 
 ### 6 oktober  
