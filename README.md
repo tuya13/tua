@@ -7,7 +7,11 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ### 8 oktober
 
 Ik heb het vandaag ook veranderd omdat ik het niet leuk vindt. Ik heb class toegevoegd.  
-<img width="400" alt="Screenshot 2026-10-08 150801" src="https://github.com/user-attachments/assets/0e1b1076-3f17-44aa-8b9e-0f955f9bf071" />
+<img width="400" alt="Screenshot 2026-10-08 150801" src="https://github.com/user-attachments/assets/0e1b1076-3f17-44aa-8b9e-0f955f9bf071" />  
+
+Ik heb nu voor de bridge van de song child gegeven en het verbeterd.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/90a81872-c7e1-4211-8209-0e272865c3cf" />
+
 
 
 ### 6 oktober  
