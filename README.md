@@ -13,7 +13,8 @@ Ik heb nu voor de bridge van de song child gegeven en het verbeterd.
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/90a81872-c7e1-4211-8209-0e272865c3cf" />  
 
 Ik heb ook font-weight toegevoegd.  
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/bc38329e-df88-4c09-9c5c-aaed264597ff" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/bc38329e-df88-4c09-9c5c-aaed264597ff" />  
+Ik vind deze versie het beste.  
 
 
 
