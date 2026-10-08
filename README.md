@@ -16,6 +16,10 @@ Ik heb ook font-weight toegevoegd.
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/bc38329e-df88-4c09-9c5c-aaed264597ff" />  
 Ik vind deze versie het beste.  
 
+-----------
+
+DEEP DIVE - Variabele fonts  
+
 
 
 ### 6 oktober  
