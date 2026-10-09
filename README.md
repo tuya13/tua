@@ -4,6 +4,9 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 9 oktober - Workshop
+
+
 ### 8 oktober
 
 Ik heb het vandaag ook veranderd omdat ik het niet leuk vindt. Ik heb class toegevoegd.  
