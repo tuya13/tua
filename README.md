@@ -13,6 +13,12 @@ Ik zat eraan te denken om de deep dive animatie van vandaag te gebruiken voor he
 FEEDBACK VAN MEDESTUDENTEN  
 
 
+
+VERANDERINGEN  
+Ik heb het met font-variation-settings gemaakt zodat het werkt als ik het hover doet. Anders blijft het stil.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/5e557b55-d040-4ded-80f1-a320649a1323" />
+
+
 ### 8 oktober
 
 Ik heb het vandaag ook veranderd omdat ik het niet leuk vindt. Ik heb class toegevoegd.  
