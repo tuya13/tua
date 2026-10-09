@@ -6,6 +6,12 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 9 oktober - Workshop
 
+FEEDBACK VAN VASILIS  
+Hij zei dat ik het gewenste effect beter kon bereiken door font-variation-settings te gebruiken in het versgedeelte. (https://wakamaifondue.com/)  
+Ik zat eraan te denken om de deep dive animatie van vandaag te gebruiken voor het bridge part vand e liedje, en hij zei dat het een goed idee was.  
+
+FEEDBACK VAN MEDESTUDENTEN  
+
 
 ### 8 oktober
 
