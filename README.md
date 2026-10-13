@@ -27,8 +27,8 @@ Hij zei dat ik het gewenste effect beter kon bereiken door font-variation-settin
 Ik zat eraan te denken om de deep dive animatie van vandaag te gebruiken voor het bridge part vand e liedje, en hij zei dat het een goed idee was.  
 
 FEEDBACK VAN MEDESTUDENTEN  
-
-
+-meer effecten toevoegen  
+niet te basic maken  
 
 VERANDERINGEN  
 Ik heb het met font-variation-settings gemaakt zodat het werkt als ik het hover doet. Anders blijft het stil.  
