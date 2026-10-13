@@ -12,8 +12,6 @@ Ik wilde de slang animatie van oefening 2 op mijn lyrics toevoegen maar ik wist 
 Nu doet het gewoon hoe ik het wilde.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/acf3638b-aaa3-419c-ba2f-46a5f1e4b2fe" />  
 
-Hier is de link van de website http://127.0.0.1:5500/letithappen.html
-
 --------
 
 Ik heb aan mijn eigen website ook kleine dingen toegevoegd. Bijvoorbeeld voor de link heb ik target:_blank toegevoegd.  
