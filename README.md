@@ -16,8 +16,14 @@ FEEDBACK VAN MEDESTUDENTEN
 
 VERANDERINGEN  
 Ik heb het met font-variation-settings gemaakt zodat het werkt als ik het hover doet. Anders blijft het stil.  
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/5e557b55-d040-4ded-80f1-a320649a1323" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/5e557b55-d040-4ded-80f1-a320649a1323" />  
 
+Ik heb ook naar de DEEP DIVE CSS animaties gegaan.  
+Oefening 1  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/acdb9898-9ae0-4469-8cef-9d71570723ac" />  
+
+We hebben ook met Sanne een oefening samen gedaan.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/f443e103-3274-498f-8a03-3c1218a9854b" />  
 
 ### 8 oktober
 
