@@ -4,6 +4,17 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 13 oktober
+
+Ik wilde de slang animatie van oefening 2 op mijn lyrics toevoegen maar ik wist niet hoe want ik wilde niet voor iedere letter een div geven dus ik heb het aan gemini gevraagd en ik heb een javascript code gekregen dus ik heb het gebruikt.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/1e6b1b7a-8585-4cf2-8baa-a9bb80a5189d" />  
+
+Nu doet het gewoon hoe ik het wilde.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/acf3638b-aaa3-419c-ba2f-46a5f1e4b2fe" />  
+
+Hier is de link van de website http://127.0.0.1:5500/letithappen.html
+
+
 ### 9 oktober - Workshop
 
 FEEDBACK VAN VASILIS  
