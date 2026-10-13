@@ -18,7 +18,10 @@ Ik heb aan mijn eigen website ook kleine dingen toegevoegd. Bijvoorbeeld voor de
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/41eb3409-b85f-4742-bd2f-3f1848161ee9" />
 
 Ik heb de pagina-indeling precies zo ingericht als ik wilde en besloten het zo te laten.  
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/4185a7e7-7cef-4be5-a112-77db114e66fe" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/4185a7e7-7cef-4be5-a112-77db114e66fe" />  
+
+Ik heb ook de Story part toegevoegd. Ik wil daar nog paar dingen toevoegen om het mooier te maken.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/95c1a1a0-ccf6-4c64-b628-d6fd529ce009" />
 
 
 ### 9 oktober - Workshop
