@@ -28,7 +28,7 @@ Ik zat eraan te denken om de deep dive animatie van vandaag te gebruiken voor he
 
 FEEDBACK VAN MEDESTUDENTEN  
 -meer effecten toevoegen  
-niet te basic maken  
+-niet te basic maken  
 
 VERANDERINGEN  
 Ik heb het met font-variation-settings gemaakt zodat het werkt als ik het hover doet. Anders blijft het stil.  
