@@ -13,6 +13,17 @@ Ik heb inspiraties gekregen van Pinterest.
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/db246281-0497-4ec9-a1f1-fda14bd12459" /> <img width="200" alt="image" src="https://github.com/user-attachments/assets/2e50cfab-5060-438b-95f9-6a413aa779ab" />  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/a2f4a1ab-ed63-4d3a-bd8b-2406ef10bff9" /> <img width="400" alt="image" src="https://github.com/user-attachments/assets/6b5e39d3-5693-494a-94ac-aeab90e4adf5" />
 
+Ik heb met Figma light en dark van de part gedaan.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/44c1d966-8d7a-4d9b-94db-b1a2cc06ef46" />  
+
+Dit is hoe het eruit ziet in de website.  
+Light  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/b6c52d88-5776-4f2a-87de-58d973b66c2c" />  
+
+Dark  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/befdfb69-26ec-454b-8f67-50de5124f38a" />  
+
+Ik wil in de lege ruimtes elementen in stickerstijl maken met Figma.  
 
 
 ### 13 oktober
