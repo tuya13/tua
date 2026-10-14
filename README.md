@@ -16,7 +16,7 @@ Ik heb inspiraties gekregen van Pinterest.
 Ik heb met Figma light en dark van de part gedaan.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/44c1d966-8d7a-4d9b-94db-b1a2cc06ef46" />  
 
-Dit is hoe het eruit ziet in de website.  
+Dit is hoe het eruit ziet in de website:  
 Light  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/b6c52d88-5776-4f2a-87de-58d973b66c2c" />  
 
