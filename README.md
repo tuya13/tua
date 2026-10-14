@@ -4,6 +4,17 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 14 oktober
+
+Ik heb een schets gemaakt over hoe ik wil dat mijn story part eruit ziet.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/f42637df-c9ed-4c99-bb2a-cb4e44fbf8b8" />  
+
+Ik heb inspiraties gekregen van Pinterest.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/db246281-0497-4ec9-a1f1-fda14bd12459" /> <img width="400" alt="image" src="https://github.com/user-attachments/assets/2e50cfab-5060-438b-95f9-6a413aa779ab" />  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a2f4a1ab-ed63-4d3a-bd8b-2406ef10bff9" /> <img width="400" alt="image" src="https://github.com/user-attachments/assets/6b5e39d3-5693-494a-94ac-aeab90e4adf5" />
+
+
+
 ### 13 oktober
 
 Ik wilde de slang animatie van oefening 2 op mijn lyrics toevoegen maar ik wist niet hoe want ik wilde niet voor iedere letter een div geven dus ik heb het aan gemini gevraagd en ik heb een javascript code gekregen dus ik heb het gebruikt.  
