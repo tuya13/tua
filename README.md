@@ -22,6 +22,9 @@ Ik besloot met #32052A.
 
 Voor mijn ideas part wil ik uiterlijk zoiets maken.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/fe4e26ce-8a6d-451d-90aa-bab778ecce98" />  
+Ik heb ook een schets gemaakt over hoe het eruit kan zien.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/611d911f-ddfe-456a-9cef-44be6b02bf6a" />
+
 
 
 ### 14 oktober
