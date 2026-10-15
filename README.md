@@ -16,6 +16,9 @@ Ik besloot met #32052A.
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/bb62b1bf-dbfb-4f83-ba2b-3d5b174475aa" />  
 
 
+Ik wil de eerste pagina nog steeds aanpassen, omdat het niet is geworden zoals ik wilde; ik ben er momenteel mee bezig, maar wijzigingen aanbrengen is wat lastig omdat ik al zoveel aan die pagina heb toegevoegd. Helaas heb ik het idee om photobooth strip te maken moeten laten varen. Ik heb besloten om in plaats daarvan voor polaroids te kiezen; vooralsnog is het plan om de drie aan de linkerkant als polaroids uit te voeren, en de twee aan de rechterkant als stickers.  
+
+
 ### 14 oktober
 
 Ik heb een schets gemaakt over hoe ik wil dat mijn story part eruit ziet.  
