@@ -111,26 +111,81 @@ article {
     box-shadow: none;
   }
 }
-
-article:nth-of-type(1) {
+a:nth-of-type(1) {
   grid-area: journal;
 }
 
-article:nth-of-type(2) {
-  grid-area: ideas;
-}
-
-article:nth-of-type(3) {
+a:nth-of-type(2) {
   grid-area: materials;
 }
 
-article:nth-of-type(4) {
+a:nth-of-type(3) {
+  grid-area: ideas;
+}
+
+a:nth-of-type(4) {
   grid-area: junk;
 }
 
-article:nth-of-type(5) {
+a:nth-of-type(5) {
   grid-area: history;
 }
+
+main > a:nth-of-type(1) article {
+  transform: rotate(3deg);
+}
+
+main > a:nth-of-type(2) article {
+  transform: rotate(-2deg);
+}
+
+main > a:nth-of-type(3) article {
+  transform: rotate(4deg);
+}
+
+main > a:nth-of-type(-n + 3):hover article {
+  transform: rotate(0deg) scale(1.02);
+  z-index: 10;
+  position: relative;
+  max-width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main > a:nth-of-type(-n + 3) article {
+  width: 100%;
+  box-sizing: border-box;
+  transition: transform 0.3s ease;
+  max-width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main > a:nth-of-type(n + 4) article {
+  background-color: transparent;
+  max-width: 350px;
+  box-shadow: none;
+  border: none;
+}
+
+main > a:nth-of-type(n + 4) article svg {
+  width: 200px;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+main > a:nth-of-type(n + 4) {
+  width: fit-content;
+  justify-self: center;
+  text-align: center;
+}
+
+main a {
+  background-color: transparent;
+  height: fit-content;
+}
+
 a {
   text-decoration: none;
 }
@@ -172,7 +227,8 @@ main {
   display: grid;
   gap: 1em;
   grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
+  align-items: center;
+
   /* grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); */
   grid-template-areas:
     "journal junk"
@@ -200,26 +256,6 @@ article img {
   border-radius: 8px;
   display: block;
   margin-top: 15px;
-}
-
-a:nth-of-type(1) {
-  grid-area: journal;
-}
-
-a:nth-of-type(2) {
-  grid-area: materials;
-}
-
-a:nth-of-type(3) {
-  grid-area: ideas;
-}
-
-a:nth-of-type(4) {
-  grid-area: junk;
-}
-
-a:nth-of-type(5) {
-  grid-area: history;
 }
 
 nav {

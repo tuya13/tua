@@ -4,10 +4,21 @@ html {
   --details-accent-bg: light-dark(lightpink, deeppink);
   --details-hover-bg: light-dark();
 }
-
-details {
-  transition: 1s;
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  width: 100%;
+  max-width: 50em;
+  margin-inline: auto;
+  padding-inline: 1em;
+  box-sizing: border-box;
 }
+
+body {
+  margin: 0;
+}
+
 details:open {
   box-shadow: 0 0 1em 1em #ff00ff;
 }
@@ -24,20 +35,23 @@ summary:hover {
 
 details {
   display: block;
-
   border-width: 0.1em;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+
   border-style: solid;
   border-color: var(--details-bg);
   border-radius: 0.5em;
   margin-bottom: 1em;
   border: none;
+
   transition:
     border-color 0.3s,
     background-color 0.3s;
-  width: 100%;
-  max-width: 37.5em;
 }
-details:open {
+
+details[open] {
   box-shadow: 0 0 0.5em 0.2em #ff00ff;
 }
 summary {
@@ -45,24 +59,21 @@ summary {
   padding-inline: 1em;
   border-radius: 0.4em;
 }
-details:open::details-content {
+
+details[open]::details-content {
   padding-inline: 1em;
 }
 
-details:open summary {
+details[open] summary {
   border-bottom: 0.1em solid var(--details-color);
   border-radius: 0.4em 0.4em 0 0;
 }
 
-body {
-  display: grid;
-  gap: 1em;
-}
 a {
   display: inline-block;
   transition: transform 0.3s ease-in-out;
   color: #ff00ff;
 }
 a:hover {
-  transform: scale(1.04s);
+  transform: scale(1.04);
 }

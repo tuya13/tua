@@ -1,0 +1,42 @@
+main {
+  display: block;
+  width: 100%;
+  color: #32052a;
+}
+.story-img {
+  background-image: url("/picsweb/story-light.svg");
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  padding: 8em 2em 11em 8em;
+
+  box-sizing: border-box;
+  text-align: center;
+
+  width: 100%;
+  max-width: 32em;
+  margin: 2em auto;
+
+  overflow: hidden;
+}
+.story-img h2 {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
+.story-img p {
+  margin: 0;
+  margin-bottom: 1em;
+}
+
+@media (prefers-color-scheme: dark) {
+  .story-img {
+    background-image: url("/picsweb/story-dark.svg");
+  }
+}
