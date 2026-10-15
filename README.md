@@ -12,7 +12,9 @@ Ik heb paar kleuren geprobeerd.
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/287f0134-e479-4bbe-a3cb-b114c011b17a" />  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/a03bd7c8-3ce5-45aa-8086-e75183bf2fe6" />  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/a9ffee00-600d-4c81-89ee-a0ec38a08516" />  
-Ik besloot met #3b052a.
+Ik besloot met #32052A.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/bb62b1bf-dbfb-4f83-ba2b-3d5b174475aa" />  
+
 
 ### 14 oktober
 
