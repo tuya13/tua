@@ -16,7 +16,10 @@ Ik besloot met #32052A.
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/bb62b1bf-dbfb-4f83-ba2b-3d5b174475aa" />  
 
 
-Ik wil de eerste pagina nog steeds aanpassen, omdat het niet is geworden zoals ik wilde; ik ben er momenteel mee bezig, maar wijzigingen aanbrengen is wat lastig omdat ik al zoveel aan die pagina heb toegevoegd. Helaas heb ik het idee om photobooth strip te maken moeten laten varen. Ik heb besloten om in plaats daarvan voor polaroids te kiezen; vooralsnog is het plan om de drie aan de linkerkant als polaroids uit te voeren, en de twee aan de rechterkant als stickers.  
+-Ik wil de eerste pagina nog steeds aanpassen, omdat het niet is geworden zoals ik wilde; ik ben er momenteel mee bezig, maar wijzigingen aanbrengen is wat lastig omdat ik al zoveel aan die pagina heb toegevoegd. Helaas heb ik het idee om photobooth strip te maken moeten laten varen. Ik heb besloten om in plaats daarvan voor polaroids te kiezen; vooralsnog is het plan om de drie aan de linkerkant als polaroids uit te voeren, en de twee aan de rechterkant als stickers.  
+-Ik heb een paar wijzigingen doorgevoerd op mijn startpagina en mijn hoofdcode opgeschoond, aangezien deze erg rommelig was geworden en enkele dubbele elementen bevatte.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/65ea3cdb-8d57-4b3a-94e6-fe671a29d69d" />
+
 
 
 ### 14 oktober
