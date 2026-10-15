@@ -4,6 +4,197 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 15 oktober
+Mijn vriend heeft dyslexie dus ik heb hem gevraagd als het makkelijk is voor hem het te lezen en hij zei dat het moeilijk is vanwege de kleuren en omdat er geen ruimte tussen paragrafs staat due ik heb eerst ruimte gegeven en ik heb de colour contrast analyser gedaan. Ik heb een fail gekregen.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/7af744f8-e87a-42f1-b37f-008e8b252485" />  
+
+Ik heb paar kleuren geprobeerd.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/287f0134-e479-4bbe-a3cb-b114c011b17a" />  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a03bd7c8-3ce5-45aa-8086-e75183bf2fe6" />  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a9ffee00-600d-4c81-89ee-a0ec38a08516" />  
+Ik besloot met #32052A.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/bb62b1bf-dbfb-4f83-ba2b-3d5b174475aa" />  
+
+
+Ik wil de eerste pagina nog steeds aanpassen, omdat het niet is geworden zoals ik wilde; ik ben er momenteel mee bezig, maar wijzigingen aanbrengen is wat lastig omdat ik al zoveel aan die pagina heb toegevoegd. Helaas heb ik het idee om photobooth strip te maken moeten laten varen. Ik heb besloten om in plaats daarvan voor polaroids te kiezen; vooralsnog is het plan om de drie aan de linkerkant als polaroids uit te voeren, en de twee aan de rechterkant als stickers.  
+
+
+### 14 oktober
+
+Ik heb een schets gemaakt over hoe ik wil dat mijn story part eruit ziet.  
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/f42637df-c9ed-4c99-bb2a-cb4e44fbf8b8" />  
+
+Ik heb inspiraties gekregen van Pinterest.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/db246281-0497-4ec9-a1f1-fda14bd12459" /> <img width="200" alt="image" src="https://github.com/user-attachments/assets/2e50cfab-5060-438b-95f9-6a413aa779ab" />  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a2f4a1ab-ed63-4d3a-bd8b-2406ef10bff9" /> <img width="400" alt="image" src="https://github.com/user-attachments/assets/6b5e39d3-5693-494a-94ac-aeab90e4adf5" />
+
+Ik heb met Figma light en dark van de part gedaan.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/44c1d966-8d7a-4d9b-94db-b1a2cc06ef46" />  
+
+Dit is hoe het eruit ziet in de website:  
+Light  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/b6c52d88-5776-4f2a-87de-58d973b66c2c" />  
+
+Dark  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/befdfb69-26ec-454b-8f67-50de5124f38a" />  
+
+Ik wil in de lege ruimtes elementen in stickerstijl maken met Figma.  
+
+
+### 13 oktober
+
+Ik wilde de slang animatie van oefening 2 op mijn lyrics toevoegen maar ik wist niet hoe want ik wilde niet voor iedere letter een div geven dus ik heb het aan gemini gevraagd en ik heb een javascript code gekregen dus ik heb het gebruikt.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/1e6b1b7a-8585-4cf2-8baa-a9bb80a5189d" />  
+
+Nu doet het gewoon hoe ik het wilde.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/acf3638b-aaa3-419c-ba2f-46a5f1e4b2fe" />  
+
+--------
+
+Ik heb aan mijn eigen website ook kleine dingen toegevoegd. Bijvoorbeeld voor de link heb ik target:_blank toegevoegd.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/41eb3409-b85f-4742-bd2f-3f1848161ee9" />
+
+Ik heb de pagina-indeling precies zo ingericht als ik wilde en besloten het zo te laten.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/4185a7e7-7cef-4be5-a112-77db114e66fe" />  
+
+Ik heb ook de Story part toegevoegd. Ik wil daar nog paar dingen toevoegen om het mooier te maken.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/95c1a1a0-ccf6-4c64-b628-d6fd529ce009" />
+
+
+### 9 oktober - Workshop
+
+FEEDBACK VAN VASILIS  
+Hij zei dat ik het gewenste effect beter kon bereiken door font-variation-settings te gebruiken in het versgedeelte. (https://wakamaifondue.com/)  
+Ik zat eraan te denken om de deep dive animatie van vandaag te gebruiken voor het bridge part vand e liedje, en hij zei dat het een goed idee was.  
+
+FEEDBACK VAN MEDESTUDENTEN  
+-meer effecten toevoegen  
+-niet te basic maken  
+
+VERANDERINGEN  
+Ik heb het met font-variation-settings gemaakt zodat het werkt als ik het hover doet. Anders blijft het stil.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/5e557b55-d040-4ded-80f1-a320649a1323" />  
+
+Ik heb ook naar de DEEP DIVE CSS animaties gegaan.  
+Oefening 1  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/acdb9898-9ae0-4469-8cef-9d71570723ac" />  
+
+We hebben ook met Sanne een oefening samen gedaan.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/f443e103-3274-498f-8a03-3c1218a9854b" />  
+
+### 8 oktober
+
+Ik heb het vandaag ook veranderd omdat ik het niet leuk vindt. Ik heb class toegevoegd.  
+<img width="400" alt="Screenshot 2026-10-08 150801" src="https://github.com/user-attachments/assets/0e1b1076-3f17-44aa-8b9e-0f955f9bf071" />  
+
+Ik heb nu voor de bridge van de song child gegeven en het verbeterd.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/90a81872-c7e1-4211-8209-0e272865c3cf" />  
+
+Ik heb ook font-weight toegevoegd.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/bc38329e-df88-4c09-9c5c-aaed264597ff" />  
+Ik vind deze versie het beste.  
+
+-----------
+
+DEEP DIVE - Variabele fonts  
+
+Oefening 1  
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/e1f7e1d0-5fd0-4a3a-aad8-8e27d2c55d54" />  
+ 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/4c1d3906-9db7-47bf-a61b-b29091eec83a" />  
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/72078c12-97ff-4baa-9a37-7bcd11bf0a8d" />
+
+Oefening 2  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/95d3a67c-8000-473c-8d2a-f650863501c0" />  
+
+Oefening 3  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a30b84db-60a1-4026-a95b-dc0b0ed6b8e5" />
+
+
+
+### 6 oktober  
+
+*Opdracht 2: Bespreek je schetsen met een ander*
+
+*1-Wat wil je bij de kijker bereiken met je vormgeving?*  
+
+Over het algemeen heb ik in woorden proberen uit te drukken wat het liedje me laat voelen. Het geeft me bijvoorbeeld een wat hypnotiserend gevoel, alsof het door de lucht zweeft. Daarom wil ik dit gevoel ook op deze manier in de woorden laten terugkomen.  
+
+
+*2-Hoe voegt jouw opzet iets toe aan de tekst?*  
+Ik denk dat wanneer ik de woorden op een zwevende manier laat zien, het de kijker precies dat gevoel van het liedje geeft.  
+
+*3-Wat is een volgende stap: welke schets vind je het meest geschikt om digitaal uit te werken?*  
+Eerlijk gezegd denk ik dat het moeilijk zal zijn om al mijn tekeningen in code te schrijven, maar misschien probeer ik, wanneer ik begin met schrijven, wat ik maak te laten lijken op wat ik in mijn hoofd heb, en kan ik iets krijgen dat er dicht in de buurt komt.  
+
+*4-Hoe zou je dit kunnen aanpakken in code? (vraag hulp wanneer je het niet zeker weet)*  
+Ik weet het niet.  
+
+Dit is de eerste versie zonder mijn codes.  
+<img width="400" alt="Screenshot 2026-10-06 201951" src="https://github.com/user-attachments/assets/2b83f70c-facf-4f7e-b773-ae9b1a6235cc" />  
+
+Ik heb alleen maar h1, div en p toegevoegd omdat ik niet wist wat ik moest doen en toevoegen dus ik zal op woensdag hulp vragen.  
+<img width="400" alt="Screenshot 2026-10-06 222059" src="https://github.com/user-attachments/assets/50ec8d63-8984-4da0-bb89-b4efadb7ed5c" />
+
+
+
+
+### 5 oktober - Workshop
+
+Ik kon vandaag nniet op school zijn omdat ik ziek was maar ik probeerde alles thuis te doen.  
+
+Ik heb de DEEP DIVE meer interactie met HTML en CSS gedaan.  
+<img width="400" alt="Screenshot 2026-10-05 155854" src="https://github.com/user-attachments/assets/081ea3b8-c15f-4234-97be-42e762ac1a8e" />
+<img width="400" alt="Screenshot 2026-10-05 155944" src="https://github.com/user-attachments/assets/be4fc174-483d-4692-8bb5-769ed3116b0c" />
+
+Ik heb de DEEP DIVE Interessantere layouts gedaan.  
+<img width="400" alt="Screenshot 2026-10-05 164919" src="https://github.com/user-attachments/assets/edfbf4d6-a6ed-4aa8-9b91-c66ba139a99c" />  
+
+--------
+
+*Opdracht 1: Songtekst analyseren*  
+
+*Kies een nummer dat je aanspreekt*  
+Ik heb voor de song Tame Impala - Let It Happen gekozen.  
+
+*Neem een deel van de songtekst waar je ritme, contrast, dynamiek in herkent*  
+
+"All this running around  
+I can't fight it much longer  
+Something's tryin' to get out  
+And it's never been closer"  
+
+*Maak 10 verschillende schetsen voor een expressief vormgegeven schermontwerp met de songtekst, waarbij je met name let op:*  
+*Ritme in de tekst (speel met plaatsing, font-size, measure, line-height, spacing)  
+Hiërarchie (wat wil je de meeste aandacht geven?)*  
+
+<img width="400" alt="Screenshot 2026-10-06 185242" src="https://github.com/user-attachments/assets/536226e6-a99f-4813-999f-992c6e59edde" />  
+<img width="400" alt="Screenshot 2026-10-06 185426" src="https://github.com/user-attachments/assets/d99678b1-399c-4522-b3c1-b484e09f9004" />  
+<img width="400" alt="Screenshot 2026-10-06 190950" src="https://github.com/user-attachments/assets/36d6c531-5e94-4d31-9bfb-fac815c3e90a" />   
+
+
+
+
+
+### 2 oktober - Workshop
+
+*Feedback gekregen van Vasilis*  
+
+-Ik moet weten hoe ik met de screenreader headers laat voorlezen.  
+-Duidelijker schetsen en waarom ik de richting heb gekozen moet ook duidelijk zijn.  
+-Cookie instellingen verbeteren  
+
+RETROSPECT 2  
+<img width="400" alt="Screenshot 2026-10-02 120700" src="https://github.com/user-attachments/assets/ea73c9ff-adff-40f0-9d4d-5c9aa7a25819" />  
+<img width="400" alt="Screenshot 2026-10-02 120822" src="https://github.com/user-attachments/assets/94ab0c08-af27-475d-bb8c-23277be28d1a" />  
+<img width="400" alt="Screenshot 2026-10-02 120921" src="https://github.com/user-attachments/assets/ff9bb807-f7b1-4808-80d9-6dad4a4981c7" />  
+
+Ik heb juiste toetsen vor de screenreader gevonden.  
+<img width="400" alt="Screenshot 2026-10-02 121120" src="https://github.com/user-attachments/assets/a9e16e1d-3e23-4369-8d25-2b0b3a2e6171" />  
+
+
 ### 1 oktober
 
 Ik heb alles gedaan van de test die ik nog niet had.  
@@ -28,7 +219,6 @@ We hebben vandaag toegankelijkheid testen gedaan.
 <img width="400" alt="Screenshot 2026-09-30 155823" src="https://github.com/user-attachments/assets/27873464-086a-451e-9eb5-f88956f254c7" /> <img width="400" alt="Screenshot 2026-09-30 155916" src="https://github.com/user-attachments/assets/67d70158-7228-4cb7-a043-0678921ea637" />  
 <img width="400" alt="Screenshot 2026-09-30 160012" src="https://github.com/user-attachments/assets/cf21bcf0-d617-4ebb-96c7-9e99d7b1f3d1" />
 
----------
 
 Ik heb wel paar dingen dat ik moet verbeteren. Ik heb een list gemaakt:  
 1-navigation bar is onleesbaar.  
