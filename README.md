@@ -25,7 +25,7 @@ Voor mijn ideas part wil ik uiterlijk zoiets maken.
 Ik heb ook een schets gemaakt over hoe het eruit kan zien.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/611d911f-ddfe-456a-9cef-44be6b02bf6a" />
 
-
+Of alleen maar gewoonn om mijn paginas van mijn junk journal te laten zien.  
 
 ### 14 oktober
 
