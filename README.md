@@ -9,6 +9,15 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 Nu is het een beetje rommelig maar ik probeer het te verbeteren.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/3c120ad8-6a21-40bf-a482-c016e9b797a7" />  
 
+Ik heb ervoor 3 verschillende variaties gemaakt.  
+Groot scherm  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/858909bd-0057-4624-adbb-bd76566f4632" />  
+Middelgrote scherm  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/d3494d00-ba2b-40cf-a9ce-70ce8c3294b8" />  
+Kleine scherm  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/08e289f9-8ec6-4f0f-afcb-c85e098b5215" />  
+Ik vind dit veel beter.
+
 
 ### 15 oktober
 Mijn vriend heeft dyslexie dus ik heb hem gevraagd als het makkelijk is voor hem het te lezen en hij zei dat het moeilijk is vanwege de kleuren en omdat er geen ruimte tussen paragrafs staat due ik heb eerst ruimte gegeven en ik heb de colour contrast analyser gedaan. Ik heb een fail gekregen.  
