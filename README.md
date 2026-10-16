@@ -4,6 +4,12 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 16 oktober
+
+Nu is het een beetje rommelig maar ik probeer het te verbeteren.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/3c120ad8-6a21-40bf-a482-c016e9b797a7" />  
+
+
 ### 15 oktober
 Mijn vriend heeft dyslexie dus ik heb hem gevraagd als het makkelijk is voor hem het te lezen en hij zei dat het moeilijk is vanwege de kleuren en omdat er geen ruimte tussen paragrafs staat due ik heb eerst ruimte gegeven en ik heb de colour contrast analyser gedaan. Ik heb een fail gekregen.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/7af744f8-e87a-42f1-b37f-008e8b252485" />  
