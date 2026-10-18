@@ -23,6 +23,11 @@ Voor het formaat van de tablet en computer heb ik gekozen voor de versie in ligg
 Dit is de schets die ik heb gemaakt van mijn idee.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/8061746e-ab71-4d8b-88e9-ee01181e9b35" />  
 
+KLein scherm  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/e3c22522-aa8f-4f81-b3aa-c5e408f1f4a5" />  
+Groot scherm  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/57eac62f-da5d-49f2-b3ff-9d379a3fb35d" />
+
 
 
 ### 16 oktober
