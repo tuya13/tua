@@ -4,6 +4,9 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 18 oktober
+
+
 Ik heb de link met de hart verwijderd want het ging over "What is Junk Journaling?" en ik vond het onnodig.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/8198234a-ea6a-422c-abbc-07529c19a03e" />
 
