@@ -6,9 +6,23 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 18 oktober
 
-
 Ik heb de link met de hart verwijderd want het ging over "What is Junk Journaling?" en ik vond het onnodig.  
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/8198234a-ea6a-422c-abbc-07529c19a03e" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/8198234a-ea6a-422c-abbc-07529c19a03e" />  
+
+--------  
+
+Ik wist aanvankelijk niet goed hoe ik het onderdeel 'Ideas' moest aanpakken. Omdat ik probeer elke pagina uniek te maken, wilde ik dat voor deze pagina ook—dus ben ik er gewoon aan begonnen, zonder dat ik een concreet plan had. Toen ik eenmaal vier items voor het onderdeel 'Ideeën' had bedacht, schoot me te binnen dat ik het concept van een 'photobooth-strip' zou kunnen gebruiken, waar ik eerder al eens aan had gedacht. Ik besefte echter dat dit er op een mobiel apparaat misschien wel goed uitziet, maar op een groter scherm wellicht te leeg zou ogen. Ik moest dus met een alternatief komen, en toen herinnerde ik me dat er ook horizontale varianten van zo'n photobooth-strip bestaan; daar heb ik toen voor gekozen. Ik ben er eigenlijk best tevreden over, want het past volgens mij perfect in de beschikbare ruimte.  
+
+
+Ik stelde me een eenvoudige versie voor de mobiele interface voor.   
+<img width="400" alt="download (2)" src="https://github.com/user-attachments/assets/7485cd08-f532-4d31-bc94-b3dd20631ae6" />  
+
+Voor het formaat van de tablet en computer heb ik gekozen voor de versie in liggende stand.  
+<img width="400" alt="film sticker" src="https://github.com/user-attachments/assets/ea4f463d-d0b1-4a75-8ae2-db23571c5239" />  
+
+Dit is de schets die ik heb gemaakt van mijn idee.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/8061746e-ab71-4d8b-88e9-ee01181e9b35" />  
+
 
 
 ### 16 oktober
