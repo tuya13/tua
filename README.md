@@ -4,6 +4,47 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 18 oktober
+
+Ik heb de link met de hart verwijderd want het ging over "What is Junk Journaling?" en ik vond het onnodig.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/8198234a-ea6a-422c-abbc-07529c19a03e" />  
+
+--------  
+
+Ik wist aanvankelijk niet goed hoe ik het onderdeel 'Ideas' moest aanpakken. Omdat ik probeer elke pagina uniek te maken, wilde ik dat voor deze pagina ook—dus ben ik er gewoon aan begonnen, zonder dat ik een concreet plan had. Toen ik eenmaal vier items voor het onderdeel 'Ideeën' had bedacht, schoot me te binnen dat ik het concept van een 'photobooth-strip' zou kunnen gebruiken, waar ik eerder al eens aan had gedacht. Ik besefte echter dat dit er op een mobiel apparaat misschien wel goed uitziet, maar op een groter scherm wellicht te leeg zou ogen. Ik moest dus met een alternatief komen, en toen herinnerde ik me dat er ook horizontale varianten van zo'n photobooth-strip bestaan; daar heb ik toen voor gekozen. Ik ben er eigenlijk best tevreden over, want het past volgens mij perfect in de beschikbare ruimte.  
+
+
+Ik stelde me een eenvoudige versie voor de mobiele interface voor.   
+<img width="400" alt="download (2)" src="https://github.com/user-attachments/assets/7485cd08-f532-4d31-bc94-b3dd20631ae6" />  
+
+Voor het formaat van de tablet en computer heb ik gekozen voor de versie in liggende stand.  
+<img width="400" alt="film sticker" src="https://github.com/user-attachments/assets/ea4f463d-d0b1-4a75-8ae2-db23571c5239" />  
+
+Dit is de schets die ik heb gemaakt van mijn idee.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/8061746e-ab71-4d8b-88e9-ee01181e9b35" />  
+
+KLein scherm  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/e3c22522-aa8f-4f81-b3aa-c5e408f1f4a5" />  
+Groot scherm  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/57eac62f-da5d-49f2-b3ff-9d379a3fb35d" />
+
+
+
+### 16 oktober
+
+Nu is het een beetje rommelig maar ik probeer het te verbeteren.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/3c120ad8-6a21-40bf-a482-c016e9b797a7" />  
+
+Ik heb ervoor 3 verschillende variaties gemaakt.  
+Groot scherm  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/858909bd-0057-4624-adbb-bd76566f4632" />  
+Middelgrote scherm  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/d3494d00-ba2b-40cf-a9ce-70ce8c3294b8" />  
+Kleine scherm  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/08e289f9-8ec6-4f0f-afcb-c85e098b5215" />  
+Ik vind dit veel beter.
+
+
 ### 15 oktober
 Mijn vriend heeft dyslexie dus ik heb hem gevraagd als het makkelijk is voor hem het te lezen en hij zei dat het moeilijk is vanwege de kleuren en omdat er geen ruimte tussen paragrafs staat due ik heb eerst ruimte gegeven en ik heb de colour contrast analyser gedaan. Ik heb een fail gekregen.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/7af744f8-e87a-42f1-b37f-008e8b252485" />  
@@ -16,8 +57,16 @@ Ik besloot met #32052A.
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/bb62b1bf-dbfb-4f83-ba2b-3d5b174475aa" />  
 
 
-Ik wil de eerste pagina nog steeds aanpassen, omdat het niet is geworden zoals ik wilde; ik ben er momenteel mee bezig, maar wijzigingen aanbrengen is wat lastig omdat ik al zoveel aan die pagina heb toegevoegd. Helaas heb ik het idee om photobooth strip te maken moeten laten varen. Ik heb besloten om in plaats daarvan voor polaroids te kiezen; vooralsnog is het plan om de drie aan de linkerkant als polaroids uit te voeren, en de twee aan de rechterkant als stickers.  
+-Ik wil de eerste pagina nog steeds aanpassen, omdat het niet is geworden zoals ik wilde; ik ben er momenteel mee bezig, maar wijzigingen aanbrengen is wat lastig omdat ik al zoveel aan die pagina heb toegevoegd. Helaas heb ik het idee om photobooth strip te maken moeten laten varen. Ik heb besloten om in plaats daarvan voor polaroids te kiezen; vooralsnog is het plan om de drie aan de linkerkant als polaroids uit te voeren, en de twee aan de rechterkant als stickers.  
+-Ik heb een paar wijzigingen doorgevoerd op mijn startpagina en mijn hoofdcode opgeschoond, aangezien deze erg rommelig was geworden en enkele dubbele elementen bevatte.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/65ea3cdb-8d57-4b3a-94e6-fe671a29d69d" />  
 
+Voor mijn ideas part wil ik uiterlijk zoiets maken.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/fe4e26ce-8a6d-451d-90aa-bab778ecce98" />  
+Ik heb ook een schets gemaakt over hoe het eruit kan zien.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/611d911f-ddfe-456a-9cef-44be6b02bf6a" />
+
+Of alleen maar gewoonn om mijn paginas van mijn junk journal te laten zien.  
 
 ### 14 oktober
 
