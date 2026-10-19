@@ -9,6 +9,8 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 Ik heb mijn mapje van de lyrics aan mijn eigen mapje van mijn website toegevoegd.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/27265261-b008-4cf6-86e2-b4e975e7ef77" />  
 
+Ik heb ook de "My Junk Journal" pagina een beetje veranderd van 1 columns naar 2 columns.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/1f11f855-466e-4c16-b8b9-614266d9afd7" />
 
 
 ### 18 oktober
