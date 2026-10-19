@@ -4,6 +4,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 19 oktober - Workshop
+
+Ik heb mijn mapje van de lyrics aan mijn eigen mapje van mijn website toegevoegd.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/27265261-b008-4cf6-86e2-b4e975e7ef77" />  
+
+
+
 ### 18 oktober
 
 Ik heb de link met de hart verwijderd want het ging over "What is Junk Journaling?" en ik vond het onnodig.  
