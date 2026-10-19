@@ -9,8 +9,14 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 Ik heb mijn mapje van de lyrics aan mijn eigen mapje van mijn website toegevoegd.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/27265261-b008-4cf6-86e2-b4e975e7ef77" />  
 
+Ik heb het onderdeel "log" uit de navigatiebalk op mijn website verwijderd en vervangen door een onderdeel "experiment". Ik wilde het "log"-gedeelte toch al kwijt, dus dit voelde als een betere keuze.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/5fad2fd4-3b49-439d-b025-01de6e71dd85" />  
+
+--------------
+
+
 Ik heb ook de "My Junk Journal" pagina van klein scherm een beetje veranderd van 1 columns naar 2 columns.  
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/1f11f855-466e-4c16-b8b9-614266d9afd7" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/1f11f855-466e-4c16-b8b9-614266d9afd7" />  
 
 
 ### 18 oktober
