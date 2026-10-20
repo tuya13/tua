@@ -1,0 +1,101 @@
+main {
+  display: grid;
+  gap: 2rem;
+  padding: 2rem;
+  align-items: start;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+  width: 100%;
+  display: grid;
+  gap: 2rem;
+  justify-content: center;
+}
+
+li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: bold;
+  width: 100%;
+}
+
+li img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 1rem;
+  border-radius: 0.5rem;
+  object-fit: cover;
+}
+
+p {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+a {
+  color: #d902d3;
+}
+
+/* --- MOBİL GÖRÜNÜM (Maksimum 768px karşılığı 48em) --- */
+@media (max-width: 48em) {
+  main {
+    grid-template-columns: auto 1fr;
+  }
+
+  h2 {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    margin: 0;
+    grid-column: 1;
+    grid-row: 1 / -1;
+
+    align-self: start;
+    position: fixed;
+    top: 13rem;
+    left: 0;
+    font-size: 2.3rem;
+  }
+
+  ul {
+    grid-column: 2;
+    grid-template-columns: 1fr;
+  }
+
+  p {
+    grid-column: 2;
+  }
+}
+
+/* --- MASAÜSTÜ GÖRÜNÜM (Minimum 769px karşılığı 48.0625em) --- */
+@media (min-width: 48.0625em) {
+  main {
+    grid-template-columns: 1fr;
+    max-width: 75rem;
+    margin: 0 auto;
+  }
+
+  h2 {
+    writing-mode: horizontal-tb;
+    transform: none;
+    font-size: 2.3rem;
+    text-align: center; /* Metni merkeze alır */
+    justify-self: center; /* Başlık kutusunu merkeze hizalar */
+    width: 100%; /* Tüm genişliği kaplar */
+    grid-column: 1 / -1; /* Izgarada tüm sütunları kaplayarak en üstte tek başına durmasını garanti eder */
+    margin: 0 0 2rem 0; /* Sadece altına biraz boşluk verir */
+  }
+
+  ul {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  p {
+    grid-column: 1 / -1;
+  }
+}
