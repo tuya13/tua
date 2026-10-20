@@ -7,10 +7,11 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ### 20 oktober
 Ik heb vandaag mijn laatste pagina (materials) afgemaakt.  
 **Klein scherm**  
+Op het kleine scherm heb ik alle foto's onder elkaar geplaatst.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/47a99ab9-415d-4d4e-ac02-2fd6a4544215" />  
 **Groot scherm**  
+Op het grote scherm moeten 3 foto's naast elkaar staan, verdeeld over 2 rijen.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/f0284175-880b-4bc4-baa1-05f030acf396" />  
-
 
 
 ### 19 oktober - Workshop
