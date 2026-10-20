@@ -4,6 +4,8 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 20 oktober
+
 ### 19 oktober - Workshop
 
 Ik heb mijn mapje van de lyrics aan mijn eigen mapje van mijn website toegevoegd.  
@@ -17,6 +19,15 @@ Ik heb het onderdeel "log" uit de navigatiebalk op mijn website verwijderd en ve
 
 Ik heb ook de "My Junk Journal" pagina van klein scherm een beetje veranderd van 1 columns naar 2 columns.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/1f11f855-466e-4c16-b8b9-614266d9afd7" />  
+
+WEBBY TEST  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/1b4115bc-9f4b-49ee-b573-b02c758dd3e8" />  
+
+Feedback van medestudenten  
+-Cookie pagina kan de Privacy Statement als een list in mijn pagina hebben zodat de gebruikers hoeven niet naar een andere pagina gaan.  
+-In de pagina "My Junk Journal" kan ik de transitie verwijderen want het voelt alsof het een link is.  
+-Unieke layout en pagina  
+-Leuke font.  
 
 
 ### 18 oktober
