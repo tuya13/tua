@@ -4,13 +4,38 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 20 oktober
+Ik heb vandaag mijn laatste pagina (materials) afgemaakt.  
+**Klein scherm**  
+Op het kleine scherm heb ik alle foto's onder elkaar geplaatst.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/47a99ab9-415d-4d4e-ac02-2fd6a4544215" />  
+**Groot scherm**  
+Op het grote scherm moeten 3 foto's naast elkaar staan, verdeeld over 2 rijen.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/f0284175-880b-4bc4-baa1-05f030acf396" />  
+
+
 ### 19 oktober - Workshop
 
 Ik heb mijn mapje van de lyrics aan mijn eigen mapje van mijn website toegevoegd.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/27265261-b008-4cf6-86e2-b4e975e7ef77" />  
 
+Ik heb het onderdeel "log" uit de navigatiebalk op mijn website verwijderd en vervangen door een onderdeel "experiment". Ik wilde het "log"-gedeelte toch al kwijt, dus dit voelde als een betere keuze.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/5fad2fd4-3b49-439d-b025-01de6e71dd85" />  
+
+--------------
+
+
 Ik heb ook de "My Junk Journal" pagina van klein scherm een beetje veranderd van 1 columns naar 2 columns.  
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/1f11f855-466e-4c16-b8b9-614266d9afd7" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/1f11f855-466e-4c16-b8b9-614266d9afd7" />  
+
+WEBBY TEST  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/1b4115bc-9f4b-49ee-b573-b02c758dd3e8" />  
+
+Feedback van medestudenten  
+-Cookie pagina kan de Privacy Statement als een list in mijn pagina hebben zodat de gebruikers hoeven niet naar een andere pagina gaan.  
+-In de pagina "My Junk Journal" kan ik de transitie verwijderen want het voelt alsof het een link is.  
+-Unieke layout en pagina  
+-Leuke font.  
 
 
 ### 18 oktober
