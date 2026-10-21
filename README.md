@@ -4,6 +4,31 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 21 oktober - Workshop
+**Bi-Weekly Geek 3**
+We hebben samen met een groep Bi-Weekly Geek 3 gedaan. Het gaat over Dead internet theory  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/f83228da-66ae-4247-ab27-20ef44e1e43d" />  
+
+We hebben Peerfeedback formulier ingevuld.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/3cbcc3df-6d1e-43aa-9386-bbffca6554a3" />  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/d659b50a-d83f-40b9-969e-212dfeceb710" />  
+Ik heb ook mezelf notities gemaakt want ik heb veel feedback gekregen.  
+1- Cookies:  
+- Ik moet het beter uitleggen.  
+- Github Pages meer noemen.  
+- Webring ook toevoegen en noemen en een link toevoegen.  
+2- Variable fonts:  
+- Ik moet het ook hebben. (kan ook in de songtekst)  
+- Ook scroll-driven moet hebben  
+3- Github  
+- Bronnen toevoegen  
+4- Html , CSS  
+- Decoratief imgs moet alt="" hebben  
+- Soms ziet er dubbele codes  
+- in pagina "story" in plaats van "div" , gebruik "section"  
+- in pagina "story" verwijder de text-align  
+
+
 ### 20 oktober
 Ik heb vandaag mijn laatste pagina (materials) afgemaakt.  
 **Klein scherm**  
