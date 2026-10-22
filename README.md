@@ -7,7 +7,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ### 22 oktober
 
 FEEDBACK VERWERKEN  
-Ik heb eerst de makkelijkere punten opgepakt, om zo meer tijd over te houden voor de andere taken.  
+Ik heb eerst de makkelijkere punten opgepakt, om zo meer tijd over te houden voor de moeilijke taken.  
 
 -Ik heb de text-align van de p verwijderd en deze alleen aan de h2 toegevoegd.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/897704dd-54a6-4df3-9e6a-312a37507352" />  
