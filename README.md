@@ -38,7 +38,7 @@ Ik heb ook mezelf notities gemaakt want ik heb veel feedback gekregen.
 3- Github  
 - Bronnen toevoegen  
 4- Html , CSS  
-- Decoratief imgs moet alt="" hebben  
+- Decoratief imgs moet alt="" hebben en in pagina "materials" kan ik de fotos beschrijven.  
 - Soms ziet er dubbele codes  
 - in pagina "story" in plaats van "div" , gebruik "section"  
 - in pagina "story" verwijder de text-align  
