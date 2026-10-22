@@ -19,6 +19,8 @@ Ik heb eerst de makkelijkere punten opgepakt, om zo meer tijd over te houden voo
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/d45e80be-371b-4722-b166-079c0ed4c66a" />
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/d5cd32aa-7acf-4796-b97e-783ca01471fe" />  
 
+-Voor de imgs in pagina "materials" heb ik ook alt toegevoegd maar deze keer heb ik de fotos beschreef.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/61f85a0a-d013-4e67-be4c-dc6486e2104a" />  
 
 
 
