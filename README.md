@@ -8,8 +8,12 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 FEEDBACK VERWERKEN  
 Ik heb eerst de makkelijkere punten opgepakt, om zo meer tijd over te houden voor de andere taken.  
+
+-Ik heb de text-align van de p verwijderd en deze alleen aan de h2 toegevoegd.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/897704dd-54a6-4df3-9e6a-312a37507352" />  
-Ik heb de text-align van de p verwijderd en deze alleen aan de h2 toegevoegd.  
+
+-Ik heb de code veranderd van div naar article.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/9f3e7c9f-1728-43e9-889a-74a13acba394" />  
 
 
 
