@@ -15,6 +15,8 @@ Ik heb eerst de makkelijkere punten opgepakt, om zo meer tijd over te houden voo
 -Ik heb de code veranderd van div naar article.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/9f3e7c9f-1728-43e9-889a-74a13acba394" />  
 
+-Ik heb voor de decoratief imgs alt="" toegevoegd.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/d45e80be-371b-4722-b166-079c0ed4c66a" />
 
 
 
