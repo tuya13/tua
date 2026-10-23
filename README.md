@@ -4,6 +4,16 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 21 oktober - Workshop
+**FEEDBACK VAN BARBARA**
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/491c172f-d56b-45f2-b17f-40cb50388b91" />  
+Mijn takenlijst op basis van deze feedback  
+
+- Heldere cookie pop-up  
+- alt
+
+
+
 ### 22 oktober
 
 FEEDBACK VERWERKEN  
