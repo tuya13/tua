@@ -4,6 +4,51 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 22 oktober
+
+FEEDBACK VERWERKEN  
+Ik heb eerst de makkelijkere punten opgepakt, om zo meer tijd over te houden voor de moeilijke taken.  
+
+-Ik heb de text-align van de p verwijderd en deze alleen aan de h2 toegevoegd.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/897704dd-54a6-4df3-9e6a-312a37507352" />  
+
+-Ik heb de code veranderd van div naar article.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/9f3e7c9f-1728-43e9-889a-74a13acba394" />  
+
+-Ik heb voor de decoratief imgs alt="" toegevoegd.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/d45e80be-371b-4722-b166-079c0ed4c66a" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/d5cd32aa-7acf-4796-b97e-783ca01471fe" />  
+
+-Voor de imgs in pagina "materials" heb ik ook alt toegevoegd maar deze keer heb ik de fotos beschreef.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/61f85a0a-d013-4e67-be4c-dc6486e2104a" />  
+
+
+
+### 21 oktober - Workshop
+**Bi-Weekly Geek 3**
+We hebben samen met een groep Bi-Weekly Geek 3 gedaan. Het gaat over Dead internet theory  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/f83228da-66ae-4247-ab27-20ef44e1e43d" />  
+
+We hebben Peerfeedback formulier ingevuld.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/3cbcc3df-6d1e-43aa-9386-bbffca6554a3" />  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/d659b50a-d83f-40b9-969e-212dfeceb710" />  
+Ik heb ook mezelf notities gemaakt want ik heb veel feedback gekregen.  
+1- Cookies:  
+- Ik moet het beter uitleggen.  
+- Github Pages meer noemen.  
+- Webring ook toevoegen en noemen en een link toevoegen.  
+2- Variable fonts:  
+- Ik moet het ook hebben. (kan ook in de songtekst)  
+- Ook scroll-driven moet hebben  
+3- Github  
+- Bronnen toevoegen  
+4- Html , CSS  
+- Decoratief imgs moet alt="" hebben en in pagina "materials" kan ik de fotos beschrijven.  
+- Soms ziet er dubbele codes  
+- in pagina "story" in plaats van "div" , gebruik "section"  
+- in pagina "story" verwijder de text-align  
+
+
 ### 20 oktober
 Ik heb vandaag mijn laatste pagina (materials) afgemaakt.  
 **Klein scherm**  
