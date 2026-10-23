@@ -3,11 +3,12 @@ main {
   width: 100%;
   color: #32052a;
 }
-.story-img {
+article {
   background-image: url("/picsweb/story-light.svg");
   background-size: 100% 100%;
   background-position: center;
   background-repeat: no-repeat;
+  background-color: transparent;
 
   display: flex;
   flex-direction: column;
@@ -17,7 +18,6 @@ main {
   padding: 8em 2em 11em 8em;
 
   box-sizing: border-box;
-  text-align: center;
 
   width: 100%;
   max-width: 32em;
@@ -25,12 +25,14 @@ main {
 
   overflow: hidden;
 }
-.story-img h2 {
+
+article h2 {
   margin-top: 0;
   margin-bottom: 0.5em;
+  text-align: center;
 }
 
-.story-img p {
+article p {
   margin: 0;
   margin-bottom: 1em;
 }

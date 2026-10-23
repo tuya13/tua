@@ -33,7 +33,7 @@ html {
 
   /* colors for svg */
   --svg: light-dark(#3b052a, rgb(243, 185, 226));
-  --svg-hover: light-dark(rgb(243, 185, 226), #3b052a);
+
   /* color for cookies */
   --cookie-bg: (url("../../picsweb/cookie-light.svg"));
   --cookies-open-bg: light-dark(rgba(255, 255, 255, 0.941), rgb(215, 213, 213));
@@ -318,7 +318,7 @@ svg {
 }
 
 a:hover svg {
-  fill: var(--svg-hover);
+  transform: scale(1.1) rotate(10deg);
 }
 
 /* cookies */
