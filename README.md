@@ -12,6 +12,13 @@ In mijn cookies-gedeelte was de informatie over wat er precies gebruikt werd onv
 
 
 ### 23 oktober - Workshop
+
+**RETROSPECT 3**
+<img width="400" alt="Screenshot 2026-10-24 154019" src="https://github.com/user-attachments/assets/5479e1d4-dc3f-46a8-910e-9a47751441d7" />  
+<img width="400" alt="Screenshot 2026-10-24 154212" src="https://github.com/user-attachments/assets/2bb65b74-64e9-4df3-bc6a-c09061a76cff" />  
+<img width="400" alt="Screenshot 2026-10-24 154257" src="https://github.com/user-attachments/assets/d324d62c-21ec-4f28-8f5b-d7e0027cec9f" />  
+
+
 **FEEDBACK VAN BARBARA**
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/491c172f-d56b-45f2-b17f-40cb50388b91" />  
 
