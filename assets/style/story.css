@@ -30,11 +30,15 @@ article h2 {
   margin-top: 0;
   margin-bottom: 0.5em;
   text-align: center;
+  font-size: clamp(0.938rem, 0.71rem + 1.14vw, 1.563rem);
+  /* min15px max25px */
 }
 
 article p {
   margin: 0;
   margin-bottom: 1em;
+  font-size: clamp(0.644rem, 0.469rem + 0.87vw, 1.125rem);
+  /* min10.3px max18px */
 }
 
 @media (prefers-color-scheme: dark) {

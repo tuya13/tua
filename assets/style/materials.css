@@ -40,9 +40,9 @@ p {
 
 a {
   color: #d902d3;
+  text-decoration: underline;
 }
 
-/* --- MOBİL GÖRÜNÜM (Maksimum 768px karşılığı 48em) --- */
 @media (max-width: 48em) {
   main {
     grid-template-columns: auto 1fr;
@@ -72,7 +72,6 @@ a {
   }
 }
 
-/* --- MASAÜSTÜ GÖRÜNÜM (Minimum 769px karşılığı 48.0625em) --- */
 @media (min-width: 48.0625em) {
   main {
     grid-template-columns: 1fr;
@@ -84,11 +83,11 @@ a {
     writing-mode: horizontal-tb;
     transform: none;
     font-size: 2.3rem;
-    text-align: center; /* Metni merkeze alır */
-    justify-self: center; /* Başlık kutusunu merkeze hizalar */
-    width: 100%; /* Tüm genişliği kaplar */
-    grid-column: 1 / -1; /* Izgarada tüm sütunları kaplayarak en üstte tek başına durmasını garanti eder */
-    margin: 0 0 2rem 0; /* Sadece altına biraz boşluk verir */
+    text-align: center;
+    justify-self: center;
+    width: 100%;
+    grid-column: 1 / -1;
+    margin: 0 0 2rem 0;
   }
 
   ul {

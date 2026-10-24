@@ -1,103 +1,97 @@
 /* MARK: fonts */
 @font-face {
-  font-family: 'Seraphs';
-  src: url('font/SeraphsVF.woff2') format('woff2'), /* Modern Browsers */
-  
+  font-family: "Seraphs";
+  src: url("font/SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
 }
 
 /* MARK: items */
-body{
-  font-family: 'Seraphs';
-  font-size: 18px;
+body {
+  font-family: "Seraphs";
+  font-size: 25px;
   line-height: 1.5;
   margin: 0;
   font-weight: 100;
 }
 
 main {
-    display: grid;
-    grid-template-columns: repeat(12, 1fr);
-    gap: 40px;
-    padding: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 80px;
+  padding: 40px;
 }
 
-.verse-one, .verse-two {
-    max-width: 40ch;
+.verse-one,
+.verse-two {
+  max-width: 100%;
 }
 
-.verse-one span, .verse-two span {
-    font-variation-settings: "wght" 100, "SRFS" 0;
-    transition: font-variation-settings 0.3s ease-in-out;
+.verse-one span,
+.verse-two span {
+  font-variation-settings:
+    "wght" 100,
+    "SRFS" 0;
+  transition: font-variation-settings 0.3s ease-in-out;
 }
 
 .verse-one p:hover span,
 .verse-two p:hover span {
-  font-variation-settings: "wght" 175, "SRFS" 0;
+  font-variation-settings:
+    "wght" 175,
+    "SRFS" 0;
 }
 
-.verse-one p, .verse-two p {
-    margin: 0;
-    font-size: 20px;
-    line-height: 1.1;
-    font-weight: 100;
-    
-}
-.verse-one {
-    grid-column: 2 / 7;
-    grid-row: 1;
-}
-
-.verse-two {
-    grid-column: 7 / 12;
-    grid-row: 1;
+.verse-one p,
+.verse-two p {
+  margin: 0;
+  font-size: 60px;
+  line-height: 1.2;
+  font-weight: 100;
+  text-align: center;
 }
 
 .bridge {
-    grid-column: 2 / 11;
-    grid-row: 2;
-    font-size: 14px;
-    line-height: 1.1;
-    letter-spacing: 0.03em;
+  font-size: 40px;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
+  text-align: center;
 }
 
 .bridge p:nth-child(1) {
-    margin-left: 0;
+  margin-left: 0;
 }
 
 .bridge p:nth-child(2) {
-    margin-left: 40px;
+  margin-left: 60px;
 }
 
 .bridge p:nth-child(3) {
-    margin-left: 80px;
+  margin-left: 120px;
 }
 
 .bridge p:nth-child(4) {
-    margin-left: 120px;
+  margin-left: 180px;
 }
 
 .bridge p:nth-child(5) {
-    margin-left: 160px;
+  margin-left: 240px;
 }
 
 .bridge p:nth-child(6) {
-    margin-left: 200px;
+  margin-left: 300px;
 }
 
 .bridge p:nth-child(7) {
-    margin-left: 240px;
+  margin-left: 360px;
 }
 
 .bridge strong {
-    font-size: 2rem;
+  font-size: 5rem;
 }
-
-
 
 .bridge p span {
   display: inline-block;
   transition: transform 0.3s ease;
-  
 }
 
 .bridge p:hover span {
@@ -105,12 +99,11 @@ main {
   animation-delay: calc(var(--i) * 0.04s);
 }
 
-
 @keyframes wave {
   0% {
     transform: translateY(0);
   }
   100% {
-    transform: translateY(-8px);
+    transform: translateY(-15px);
   }
 }
