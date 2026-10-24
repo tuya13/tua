@@ -4,6 +4,62 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 24 oktober
+
+In mijn cookies-gedeelte was de informatie over wat er precies gebruikt werd onvoldoende voor de gebruikers, daarom moest ik mijn tekst aanpassen. Zo konden ze direct op mijn pagina de nodige informatie vinden, zonder op een andere pagina te hoeven zoeken. Ik heb Gemini gebruikt om deze tekst te schrijven. Ik heb de link naar het privacybeleid van GitHub gestuurd en gevraagd om een passende tekst over cookies te schrijven. Vervolgens heb ik dit met ul en li codeerd.  
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/77e0e9eb-20e1-47df-8707-d13ae0b08253" />  
+
+
+Op mijn "Story"pagina liep de tekst op de telefoon buiten de afbeelding. Om dit op te lossen, heb ik besloten om de clamp-eigenschap te gebruiken.  
+
+<img width="100" alt="Screenshot 2026-10-24 161253" src="https://github.com/user-attachments/assets/8991e86c-30e8-433a-80af-df85cfef27dd" />
+
+Om deze eigenschap te kunnen gebruiken, heb ik eerst een website opgezocht, omdat ik zelf niet wist hoe ik het precies moest schrijven. De website: https://min-max-calculator.9elements.com/?15,25,320,1200  Daarom heb ik het met behulp van die website gedaan. Volgens de site moest ik een minimum en maximum font-size opgeven, dus dat heb ik als eerste gedaan.  
+
+min px  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/7a43afe1-311e-4715-99b7-779ad2392c40" />  
+max px  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/e37f2ccf-64c3-4991-828e-681d2adabf70" />  
+
+Ik heb de rem versie toegevoegd.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/187ea3ff-4ce0-4cde-b15b-c80edbdc15c0" />  
+
+Grote scherm  
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/01896aac-6a41-4ad7-9ab2-951b7e78a36b" />  
+
+Kleine scherm  
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/9284682c-8f6b-4fb8-a7cb-e7c0ce73a6e9" />  
+Dus het lukt met de clamp-fuctie.  
+
+------------
+Ik heb vervolgens mijn feedback paar veranderingen gemaakt in my songtekst. Ik heb alle songteksten onder elkaar geplaatst. Hierdoor beleeft en leest de gebruiker de hele tekst tijdens het naar beneden scrollen. Omdat mijn code sterk gericht is op hover, wordt het voor de gebruiker makkelijker om deze interactie uit te voeren. Dit verbetert uiteindelijk de algehele gebruikerservaring.  
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/70d279f1-ecdc-46fa-8942-77e66b056694" />
+
+
+
+
+### 23 oktober - Workshop
+
+**RETROSPECT 3**  
+<img width="400" alt="Screenshot 2026-10-24 154019" src="https://github.com/user-attachments/assets/5479e1d4-dc3f-46a8-910e-9a47751441d7" />  
+<img width="400" alt="Screenshot 2026-10-24 154212" src="https://github.com/user-attachments/assets/2bb65b74-64e9-4df3-bc6a-c09061a76cff" />  
+<img width="400" alt="Screenshot 2026-10-24 154257" src="https://github.com/user-attachments/assets/d324d62c-21ec-4f28-8f5b-d7e0027cec9f" />  
+
+
+**FEEDBACK VAN BARBARA**
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/491c172f-d56b-45f2-b17f-40cb50388b91" />  
+
+Mijn takenlijst op basis van deze feedback  
+
+- Heldere cookie pop-up  
+- alt "" moet informatie hebben in index.html
+- Reading log moet meer dingen hebben
+- Songtekst wat verbeteren
+
+
+
 ### 22 oktober
 
 FEEDBACK VERWERKEN  
