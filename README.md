@@ -11,8 +11,11 @@ In mijn cookies-gedeelte was de informatie over wat er precies gebruikt werd onv
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/77e0e9eb-20e1-47df-8707-d13ae0b08253" />  
 
 
+Op mijn "Story"pagina liep de tekst op de telefoon buiten de afbeelding. Om dit op te lossen, heb ik besloten om de clamp-eigenschap te gebruiken.  
 
 <img width="400" alt="Screenshot 2026-10-24 161253" src="https://github.com/user-attachments/assets/8991e86c-30e8-433a-80af-df85cfef27dd" />
+
+Om deze eigenschap te kunnen gebruiken, heb ik eerst een website opgezocht, omdat ik zelf niet wist hoe ik het precies moest schrijven. De website: https://min-max-calculator.9elements.com/?15,25,320,1200  Daarom heb ik het met behulp van die website gedaan. Volgens de site moest ik een minimum en maximum font-size opgeven, dus dat heb ik als eerste gedaan.  
 
 min px  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/7a43afe1-311e-4715-99b7-779ad2392c40" />  
