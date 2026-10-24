@@ -20,8 +20,9 @@ Om deze eigenschap te kunnen gebruiken, heb ik eerst een website opgezocht, omda
 min px  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/7a43afe1-311e-4715-99b7-779ad2392c40" />  
 max px  
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/e37f2ccf-64c3-4991-828e-681d2adabf70" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/e37f2ccf-64c3-4991-828e-681d2adabf70" />  
 
+Ik heb de rem versie toegevoegd.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/187ea3ff-4ce0-4cde-b15b-c80edbdc15c0" />  
 
 Grote scherm  
