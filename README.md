@@ -24,9 +24,11 @@ max px
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/187ea3ff-4ce0-4cde-b15b-c80edbdc15c0" />  
 
+Grote scherm  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/01896aac-6a41-4ad7-9ab2-951b7e78a36b" />  
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/9284682c-8f6b-4fb8-a7cb-e7c0ce73a6e9" />
 
+Kleine scherm  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/9284682c-8f6b-4fb8-a7cb-e7c0ce73a6e9" />  
 
 
 ### 23 oktober - Workshop
