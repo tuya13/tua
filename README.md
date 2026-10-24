@@ -10,7 +10,9 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 Mijn takenlijst op basis van deze feedback  
 
 - Heldere cookie pop-up  
-- alt
+- alt "" moet informatie hebben in index.html
+- Reading log moet meer dingen hebben
+- Songtekst wat verbeteren
 
 
 
