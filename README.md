@@ -33,7 +33,7 @@ Kleine scherm
 Dus het lukt met de clamp-fuctie.  
 
 ------------
-Ik heb vervolgens mijn febdack paar veranderingen gemaakt in my songtekst. Ik heb alle songteksten onder elkaar geplaatst. Hierdoor beleeft en leest de gebruiker de hele tekst tijdens het naar beneden scrollen. Omdat mijn code sterk gericht is op hover, wordt het voor de gebruiker makkelijker om deze interactie uit te voeren. Dit verbetert uiteindelijk de algehele gebruikerservaring.  
+Ik heb vervolgens mijn feedback paar veranderingen gemaakt in my songtekst. Ik heb alle songteksten onder elkaar geplaatst. Hierdoor beleeft en leest de gebruiker de hele tekst tijdens het naar beneden scrollen. Omdat mijn code sterk gericht is op hover, wordt het voor de gebruiker makkelijker om deze interactie uit te voeren. Dit verbetert uiteindelijk de algehele gebruikerservaring.  
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/70d279f1-ecdc-46fa-8942-77e66b056694" />
 
