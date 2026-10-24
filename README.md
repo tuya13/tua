@@ -19,6 +19,8 @@ min px
 max px  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/e37f2ccf-64c3-4991-828e-681d2adabf70" />
 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/86b5d7c2-406d-41f5-9af0-5647a78d25fd" />
+
 
 ### 23 oktober - Workshop
 
