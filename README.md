@@ -9,6 +9,10 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 In mijn cookies-gedeelte was de informatie over wat er precies gebruikt werd onvoldoende voor de gebruikers, daarom moest ik mijn tekst aanpassen. Zo konden ze direct op mijn pagina de nodige informatie vinden, zonder op een andere pagina te hoeven zoeken. Ik heb Gemini gebruikt om deze tekst te schrijven. Ik heb de link naar het privacybeleid van GitHub gestuurd en gevraagd om een passende tekst over cookies te schrijven. Vervolgens heb ik dit met ul en li codeerd.  
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/77e0e9eb-20e1-47df-8707-d13ae0b08253" />  
+min px  
+<img width="694" height="383" alt="image" src="https://github.com/user-attachments/assets/7a43afe1-311e-4715-99b7-779ad2392c40" />  
+max px  
+
 
 
 <img width="400" alt="Screenshot 2026-10-24 161253" src="https://github.com/user-attachments/assets/8991e86c-30e8-433a-80af-df85cfef27dd" />
