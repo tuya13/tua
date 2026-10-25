@@ -781,7 +781,9 @@ Crazy 8
 Crazy 8 beoordelen  
 <img src="/images/9 sep.crazy8.beoordelen.png" width="400">  
 Mobile scherm schetsen  
-<img src="/images/9 sep.schetsen.png" width="400">
+<img src="/images/9 sep.schetsen.png" width="400">  
+
+Mijn idee hier is om een website te maken die bij mijn onderwerp past. Aangezien mijn onderwerp 'junk journaling' is, wilde ik een thema creëren waarbij het lijkt alsof mijn website de binnenkant van een journal is. Daarom dacht ik erover om de materialen die ik tijdens het maken van een junk journal gebruik, op de pagina te integreren. Ik zou bijvoorbeeld elke foto van een photobooth-strip als link kunnen gebruiken, of een sticker. Geïnspireerd hierdoor heb ik de concepten getekend die in me opkwamen.  
 
 Check Out  
 1- Leg uit waar het Visual Research in 3 stappen naartoe werkt.  
