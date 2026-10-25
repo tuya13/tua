@@ -19,9 +19,9 @@ Omdat ik een link heb toegevoegd aan de tekst 'Tüya's Journal', heeft het nu he
 
 Ik heb dus dit code voor beide paginas css toegevoedg dan wordt het gewoon normaal.  
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/b0b5bfa9-daad-44f1-8b48-84e08c936248" />  
-<img width="150" alt="image" src="https://github.com/user-attachments/assets/e00b060a-88ea-4072-b3d1-877f50bbef0c" />
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/e00b060a-88ea-4072-b3d1-877f50bbef0c" />  
 
-
+Helaas had ik geen tijd meer om nog meer effecten aan mijn songtekst toe te voegen.
 
 ### 24 oktober
 
