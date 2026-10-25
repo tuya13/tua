@@ -326,6 +326,7 @@ Ik heb alleen maar h1, div en p toegevoegd omdat ik niet wist wat ik moest doen 
 
 
 ### 5 oktober - Workshop
+**SPRINT 3**
 
 Ik kon vandaag nniet op school zijn omdat ik ziek was maar ik probeerde alles thuis te doen.  
 
@@ -560,7 +561,9 @@ Dan hebben we een wireflow erover gedaan.
 <img src="/images/23sep2.png" width="400">  
 Over de cookies voor mijn website heb ik paar informaties van de website van GitHub gevonden.  
 -https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement  
--https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection
+-https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection  
+
+Eerlijk gezegd begrijp ik momenteel niet veel van het onderwerp cookies en weet ik niet goed wat ik moet doen of hoe ik het moet aanpakken. Ik heb dit onderwerp serieus niet goed begrepen. Ik hoop dat ik het snel zal begrijpen.   
 
 Gesprek met Barbara  
 -Ik heb de codes goed gedaan en alles is in orde.  
@@ -668,7 +671,7 @@ Ik heb het gecontroleerd en het voldoet aan de eisen.
 
 ### 17 september
 
-Ik heb vandaag over flexbox gestudeerd. Ik denk dat ik moet op mijn website ook flexbox gebruiken dus ik wilde het even leren. Ik heb het met Flexbox Froggy geleerd. Ik denk dat het me echt heeft geholpen.  
+Ik heb vandaag over flexbox gestudeerd. (https://flexboxfroggy.com/#tr) Ik denk dat ik moet op mijn website ook flexbox gebruiken dus ik wilde het even leren. Ik heb het met Flexbox Froggy geleerd. Ik denk dat het me echt heeft geholpen.  
 <img src="/images/17sep.png" width="400">
 
 ### 16 september - Workshop
@@ -681,7 +684,7 @@ Feedback schetsen die ik heb gekregen
 
 Nu ziet mijn website zo eruit:  
 <img src="/images/16sepversie.png" width="400">
-
+Ik heb de font-weight van mijn font verminderd dus nu vind ik het wel leuk daarom hoef ik het niet te veranderen.  
 Daarna heb ik de light and dark mode verbeterd. Ik heb daar meer custom properties toegevoegd. De pagina is nu completer.
 
 Check Out  
