@@ -116,3 +116,6 @@ main > img:nth-of-type(10) {
     font-size: 2.3rem;
   }
 }
+a:hover {
+  transform: scale(1.04);
+}

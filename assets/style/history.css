@@ -2,8 +2,8 @@ html {
   --details-bg: light-dark(rgb(243, 185, 226), #3b052a);
   --details-color: light-dark(#3b052a, rgb(243, 185, 226));
   --details-accent-bg: light-dark(lightpink, deeppink);
-  --details-hover-bg: light-dark();
 }
+
 main {
   display: flex;
   flex-direction: column;
@@ -17,6 +17,11 @@ main {
 
 body {
   margin: 0;
+}
+
+h1 a {
+  text-decoration: none;
+  color: var(--color);
 }
 
 details:open {
