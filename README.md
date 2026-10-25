@@ -338,10 +338,10 @@ Ik weet het niet.
 Dit is de eerste versie zonder mijn codes.  
 <img width="400" alt="Screenshot 2026-10-06 201951" src="https://github.com/user-attachments/assets/2b83f70c-facf-4f7e-b773-ae9b1a6235cc" />  
 
+Eerlijk gezegd wist ik niet zo goed hoe ik dit hypnotiserende effect in de code moest laten zien, dus heb ik besloten om het redelijk simpel te houden. Het verloopt wat vlakker, maar op de momenten dat het nummer aanzwelt, wordt dat wel benadrukt. En in de delen die me meer meeslepen, heb ik het zo gemaakt dat het meer golvend aanvoelt.  
+
 Ik heb alleen maar h1, div en p toegevoegd omdat ik niet wist wat ik moest doen en toevoegen dus ik zal op woensdag hulp vragen.  
-<img width="400" alt="Screenshot 2026-10-06 222059" src="https://github.com/user-attachments/assets/50ec8d63-8984-4da0-bb89-b4efadb7ed5c" />
-
-
+<img width="400" alt="Screenshot 2026-10-06 222059" src="https://github.com/user-attachments/assets/50ec8d63-8984-4da0-bb89-b4efadb7ed5c" />  
 
 
 ### 5 oktober - Workshop
