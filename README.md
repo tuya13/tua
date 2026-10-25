@@ -9,7 +9,11 @@ Vandaag was ik voornamelijk bezig met het toevoegen van dingen aan mijn learning
 
 Om de webring-link aan mijn pagina te kunnen toevoegen, heb ik de home-knop verwijderd. In plaats daarvan heb ik van de tekst 'Tüya's Journal' de home-knop gemaakt, en heb ik de webring toegevoegd op de plek waar de home-knop eerst stond.  
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/111c2d7f-dac1-43c8-82e6-dbbb46753bfc" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/111c2d7f-dac1-43c8-82e6-dbbb46753bfc" />  
+
+Elke keer als ik over het gedeelte 'history of journaling' hover, verandert de kleur van de tekst nog steeds. Helaas heb ik dit effect op de een of andere manier niet kunnen verwijderen. Daarom is het zo gebleven.  
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/aab73e4f-c3b2-4967-9aad-e98909bca965" />  
+
 
 
 ### 24 oktober
