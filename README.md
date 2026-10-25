@@ -362,7 +362,7 @@ Hiërarchie (wat wil je de meeste aandacht geven?)*
 <img width="400" alt="Screenshot 2026-10-06 185426" src="https://github.com/user-attachments/assets/d99678b1-399c-4522-b3c1-b484e09f9004" />  
 <img width="400" alt="Screenshot 2026-10-06 190950" src="https://github.com/user-attachments/assets/36d6c531-5e94-4d31-9bfb-fac815c3e90a" />   
 
-
+Hier wilde ik laten zien wat het nummer me laat voelen. Dit nummer heeft over het algemeen een soort chaos en een sfeer die me helemaal meesleept. Daarom dacht ik erover om iets te maken met een algemene rommeligheid en een soort hypnotiserend effect. Dat is namelijk wat het bij me oproept.
 
 
 
