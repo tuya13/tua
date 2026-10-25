@@ -14,6 +14,8 @@ Om de webring-link aan mijn pagina te kunnen toevoegen, heb ik de home-knop verw
 Elke keer als ik over het gedeelte 'history of journaling' hover, verandert de kleur van de tekst nog steeds. Helaas heb ik dit effect op de een of andere manier niet kunnen verwijderen. Daarom is het zo gebleven.  
 <img width="150" alt="image" src="https://github.com/user-attachments/assets/aab73e4f-c3b2-4967-9aad-e98909bca965" />  
 
+Omdat ik een link heb toegevoegd aan de tekst 'Tüya's Journal', heeft het nu helaas bepaalde eigenschappen van sommige pagina's overgenomen.  
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/9c55c46d-f572-4415-8c61-07d1a0bc662f" />  
 
 
 ### 24 oktober
