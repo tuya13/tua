@@ -4,6 +4,25 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 25 oktober
+Vandaag was ik voornamelijk bezig met het toevoegen van dingen aan mijn learning-log. Ik hoop dat de informatie die ik heb gegeven voldoende is.  
+
+Om de webring-link aan mijn pagina te kunnen toevoegen, heb ik de home-knop verwijderd. In plaats daarvan heb ik van de tekst 'Tüya's Journal' de home-knop gemaakt, en heb ik de webring toegevoegd op de plek waar de home-knop eerst stond.  
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/111c2d7f-dac1-43c8-82e6-dbbb46753bfc" />  
+
+Elke keer als ik over het gedeelte 'history of journaling' hover, verandert de kleur van de tekst nog steeds. Helaas heb ik dit effect op de een of andere manier niet kunnen verwijderen. Daarom is het zo gebleven.  
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/aab73e4f-c3b2-4967-9aad-e98909bca965" />  
+
+Omdat ik een link heb toegevoegd aan de tekst 'Tüya's Journal', heeft het nu helaas bepaalde eigenschappen van sommige pagina's overgenomen.  
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/9c55c46d-f572-4415-8c61-07d1a0bc662f" />  
+
+Ik heb dus dit code voor beide paginas css toegevoedg dan wordt het gewoon normaal.  
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/b0b5bfa9-daad-44f1-8b48-84e08c936248" />  
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/e00b060a-88ea-4072-b3d1-877f50bbef0c" />
+
+
+
 ### 24 oktober
 
 In mijn cookies-gedeelte was de informatie over wat er precies gebruikt werd onvoldoende voor de gebruikers, daarom moest ik mijn tekst aanpassen. Zo konden ze direct op mijn pagina de nodige informatie vinden, zonder op een andere pagina te hoeven zoeken. Ik heb Gemini gebruikt om deze tekst te schrijven. Ik heb de link naar het privacybeleid van GitHub gestuurd en gevraagd om een passende tekst over cookies te schrijven. Vervolgens heb ik dit met ul en li codeerd.  
@@ -198,10 +217,12 @@ Ik besloot met #32052A.
 
 Voor mijn ideas part wil ik uiterlijk zoiets maken.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/fe4e26ce-8a6d-451d-90aa-bab778ecce98" />  
-Ik heb ook een schets gemaakt over hoe het eruit kan zien.  
+Ik heb ook schetsen gemaakt over hoe het eruit kan zien.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/611d911f-ddfe-456a-9cef-44be6b02bf6a" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/de3950fc-befb-4300-ac5f-7b4f64cef7e5" />
 
-Of alleen maar gewoonn om mijn paginas van mijn junk journal te laten zien.  
+
+Of ik kan deze concepten voor de pagina "my junk journal" gebruiken.   
 
 ### 14 oktober
 
@@ -319,13 +340,14 @@ Ik weet het niet.
 Dit is de eerste versie zonder mijn codes.  
 <img width="400" alt="Screenshot 2026-10-06 201951" src="https://github.com/user-attachments/assets/2b83f70c-facf-4f7e-b773-ae9b1a6235cc" />  
 
+Eerlijk gezegd wist ik niet zo goed hoe ik dit hypnotiserende effect in de code moest laten zien, dus heb ik besloten om het redelijk simpel te houden. Het verloopt wat vlakker, maar op de momenten dat het nummer aanzwelt, wordt dat wel benadrukt. En in de delen die me meer meeslepen, heb ik het zo gemaakt dat het meer golvend aanvoelt.  
+
 Ik heb alleen maar h1, div en p toegevoegd omdat ik niet wist wat ik moest doen en toevoegen dus ik zal op woensdag hulp vragen.  
-<img width="400" alt="Screenshot 2026-10-06 222059" src="https://github.com/user-attachments/assets/50ec8d63-8984-4da0-bb89-b4efadb7ed5c" />
-
-
+<img width="400" alt="Screenshot 2026-10-06 222059" src="https://github.com/user-attachments/assets/50ec8d63-8984-4da0-bb89-b4efadb7ed5c" />  
 
 
 ### 5 oktober - Workshop
+**SPRINT 3**
 
 Ik kon vandaag nniet op school zijn omdat ik ziek was maar ik probeerde alles thuis te doen.  
 
@@ -358,7 +380,7 @@ Hiërarchie (wat wil je de meeste aandacht geven?)*
 <img width="400" alt="Screenshot 2026-10-06 185426" src="https://github.com/user-attachments/assets/d99678b1-399c-4522-b3c1-b484e09f9004" />  
 <img width="400" alt="Screenshot 2026-10-06 190950" src="https://github.com/user-attachments/assets/36d6c531-5e94-4d31-9bfb-fac815c3e90a" />   
 
-
+Hier wilde ik laten zien wat het nummer me laat voelen. Dit nummer heeft over het algemeen een soort chaos en een sfeer die me helemaal meesleept. Daarom dacht ik erover om iets te maken met een algemene rommeligheid en een soort hypnotiserend effect. Dat is namelijk wat het bij me oproept.
 
 
 
@@ -514,6 +536,8 @@ Ik heb heel veel schetsen in verschillende varianten gemaakt totdat ik echt een 
 <img width="300" alt="Screenshot 2026-09-27 185608" src="https://github.com/user-attachments/assets/049756eb-4024-46f1-ac07-8ffc6d0aca10" /> <img width="300"  alt="Screenshot 2026-09-27 185743" src="https://github.com/user-attachments/assets/b7b44bf7-3aa1-4b91-a7cf-e3c31b5d3254" /> <img width="300" alt="Screenshot 2026-09-27 185843" src="https://github.com/user-attachments/assets/d6a3504c-17c1-438a-b644-383a2bcaadb0" />  
 <img width="300" alt="Screenshot 2026-09-27 185944" src="https://github.com/user-attachments/assets/1e52eea1-6c00-4473-a25d-980cf53639c3" /> <img width="300"  alt="Screenshot 2026-09-27 190048" src="https://github.com/user-attachments/assets/e2a14ebe-9b5c-4bf5-a59e-748c9059b578" />  <img width="300" alt="Screenshot 2026-09-27 190153" src="https://github.com/user-attachments/assets/c6be9c76-b51c-4392-875b-8a8cab7d2a79" />  
 
+Ik ben van plan om de versie te gebruiken met de informatie bovenaan en de knoppen 'accept' en 'deny' onderaan. Ten eerste denk ik dat het beter is dat de informatie daar gewoon staat en je er geen wijzigingen in kunt aanbrengen, dus zonder opties aan of uit te kunnen vinken. Een gebruiker wil zich daar waarschijnlijk niet mee bezighouden. In plaats van op een heleboel knoppen te moeten drukken, dacht ik dat het een beter alternatief voor hen zou zijn om met één druk op de knop te kunnen kiezen voor accepteren of weigeren. Daarom vind ik het logischer dat je alles in één keer kunt accepteren of afwijzen, in plaats van dat alleen de informatie wordt gegeven en je alles één voor één moet aanpassen.  
+
 ### 25 september - Workshop
 
 Ik heb HTML gevalideerd via https://validator.w3.org/nu/#file . Hier is de resultaat.  
@@ -560,7 +584,9 @@ Dan hebben we een wireflow erover gedaan.
 <img src="/images/23sep2.png" width="400">  
 Over de cookies voor mijn website heb ik paar informaties van de website van GitHub gevonden.  
 -https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement  
--https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection
+-https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection  
+
+Eerlijk gezegd begrijp ik momenteel niet veel van het onderwerp cookies en weet ik niet goed wat ik moet doen of hoe ik het moet aanpakken. Ik heb dit onderwerp serieus niet goed begrepen. Ik hoop dat ik het snel zal begrijpen.   
 
 Gesprek met Barbara  
 -Ik heb de codes goed gedaan en alles is in orde.  
@@ -606,7 +632,7 @@ Ik do het altijd accepteer niet eigenlijk want ik wil mijn persoonelijke gegeven
 
 Ik heb op school mijn Retrospect gedaan. Eerst hebben we als een groep de schetsen van beste naar slechtste gerangschikt.  
 <img src="/images/18sep.jpeg" width="400">  
-Mijn Retrospect  
+RETROSPECT 1  
 <img src="/images/18sep2.png" width="400"><img src="/images/18sep3.png" width="400"><img src="/images/18sep4.png" width="400">
 
 Op het eind van Sprint 1 ziet mijn website zo eruit:  
@@ -668,7 +694,7 @@ Ik heb het gecontroleerd en het voldoet aan de eisen.
 
 ### 17 september
 
-Ik heb vandaag over flexbox gestudeerd. Ik denk dat ik moet op mijn website ook flexbox gebruiken dus ik wilde het even leren. Ik heb het met Flexbox Froggy geleerd. Ik denk dat het me echt heeft geholpen.  
+Ik heb vandaag over flexbox gestudeerd. (https://flexboxfroggy.com/#tr) Ik denk dat ik moet op mijn website ook flexbox gebruiken dus ik wilde het even leren. Ik heb het met Flexbox Froggy geleerd. Ik denk dat het me echt heeft geholpen.  
 <img src="/images/17sep.png" width="400">
 
 ### 16 september - Workshop
@@ -681,7 +707,7 @@ Feedback schetsen die ik heb gekregen
 
 Nu ziet mijn website zo eruit:  
 <img src="/images/16sepversie.png" width="400">
-
+Ik heb de font-weight van mijn font verminderd dus nu vind ik het wel leuk daarom hoef ik het niet te veranderen.  
 Daarna heb ik de light and dark mode verbeterd. Ik heb daar meer custom properties toegevoegd. De pagina is nu completer.
 
 Check Out  
@@ -722,9 +748,12 @@ Today i started to add some stuff to my website. Just small things for example g
 
 Ik heb ook duidelijkere schetsen gemaakt van hoe mijnwebsite eruit zal zien.  
 Mobile versie  
-<img src="/images/14sep.mobi.png" width="400"> <img src="/images/14sep2.png" width="400">  
+<img width="100" alt="14sep mobi" src="https://github.com/user-attachments/assets/2ae53832-8fc0-4a38-9022-660a1f87975a" /> <img width="100" alt="14sep2" src="https://github.com/user-attachments/assets/19c2d2f5-0a56-4618-a206-c55954fd25d7" />  
+Ik ben van plan om de navigatiebalk als washi tape te gebruiken. Ik denk dat washi tape er heel leuk uit gaat zien, maar op dit moment weet ik nog niet hoe ik dit met code moet maken. Ook heb ik hier laten zien hoe het eruitziet wanneer je over het scherm scrolt. Ik wil absoluut een photobooth-strip gebruiken.  
+  
 Website versie  
-<img src="/images/14sepweb.png" width="400">
+<img src="/images/14sepweb.png" width="400">  
+Omdat een groot scherm horizontaal is, dacht ik dat alles op één scherm zou passen. Daarom heb ik alles op één plek verzameld. Op deze manier leek het ook weer op de binnenkant van een junk journal, want een junk journal is net zo rommelig.  
 
 For now my website looks like this:  
 <img src="/images/14sep.webs.png" width="400">
@@ -746,7 +775,7 @@ Feedback van Barbara(docent)
 -Controleer de kwaliteit listje altijd!! Het is belangrijk tijdens je coderen het te controleren.  
 -Ga je de schermen die je hebt geschets als code of foto's doen? Probeer deze opties uit om je definitieve beslissing te nemen. Bijvoorbeeld ga je de hart coderen? Hoe kan je dat doen?
 
-Workshop: Grid 101 + Media queries  
+DEEP DIVE: Grid 101 + Media queries  
 Oefening 1  
 <img src="/images/11.sep.grid.png" width="400">  
 <img src="/images/11.sep.grid.2.png" width="400">  
@@ -764,7 +793,7 @@ Oefening 2
 <img src="/images/10sep2.png" width="400">
 
 Self study met Grid Garden  
-Ik vind deze speeltje echt leerzaam en leuk.  
+Ik vind deze speeltje echt leerzaam en leuk. https://cssgridgarden.com   
 <img src="/images/garden.png" width="400">
 
 ### 9 september - Workshop
@@ -781,7 +810,9 @@ Crazy 8
 Crazy 8 beoordelen  
 <img src="/images/9 sep.crazy8.beoordelen.png" width="400">  
 Mobile scherm schetsen  
-<img src="/images/9 sep.schetsen.png" width="400">
+<img src="/images/9 sep.schetsen.png" width="400">  
+
+Mijn idee hier is om een website te maken die bij mijn onderwerp past. Aangezien mijn onderwerp 'junk journaling' is, wilde ik een thema creëren waarbij het lijkt alsof mijn website de binnenkant van een journal is. Daarom dacht ik erover om de materialen die ik tijdens het maken van een junk journal gebruik, op de pagina te integreren. Ik zou bijvoorbeeld elke foto van een photobooth-strip als link kunnen gebruiken, of een sticker. Geïnspireerd hierdoor heb ik de concepten getekend die in me opkwamen.  
 
 Check Out  
 1- Leg uit waar het Visual Research in 3 stappen naartoe werkt.  
