@@ -518,6 +518,8 @@ Ik heb heel veel schetsen in verschillende varianten gemaakt totdat ik echt een 
 <img width="300" alt="Screenshot 2026-09-27 185608" src="https://github.com/user-attachments/assets/049756eb-4024-46f1-ac07-8ffc6d0aca10" /> <img width="300"  alt="Screenshot 2026-09-27 185743" src="https://github.com/user-attachments/assets/b7b44bf7-3aa1-4b91-a7cf-e3c31b5d3254" /> <img width="300" alt="Screenshot 2026-09-27 185843" src="https://github.com/user-attachments/assets/d6a3504c-17c1-438a-b644-383a2bcaadb0" />  
 <img width="300" alt="Screenshot 2026-09-27 185944" src="https://github.com/user-attachments/assets/1e52eea1-6c00-4473-a25d-980cf53639c3" /> <img width="300"  alt="Screenshot 2026-09-27 190048" src="https://github.com/user-attachments/assets/e2a14ebe-9b5c-4bf5-a59e-748c9059b578" />  <img width="300" alt="Screenshot 2026-09-27 190153" src="https://github.com/user-attachments/assets/c6be9c76-b51c-4392-875b-8a8cab7d2a79" />  
 
+Ik ben van plan om de versie te gebruiken met de informatie bovenaan en de knoppen 'accept' en 'deny' onderaan. Ten eerste denk ik dat het beter is dat de informatie daar gewoon staat en je er geen wijzigingen in kunt aanbrengen, dus zonder opties aan of uit te kunnen vinken. Een gebruiker wil zich daar waarschijnlijk niet mee bezighouden. In plaats van op een heleboel knoppen te moeten drukken, dacht ik dat het een beter alternatief voor hen zou zijn om met één druk op de knop te kunnen kiezen voor accepteren of weigeren. Daarom vind ik het logischer dat je alles in één keer kunt accepteren of afwijzen, in plaats van dat alleen de informatie wordt gegeven en je alles één voor één moet aanpassen.  
+
 ### 25 september - Workshop
 
 Ik heb HTML gevalideerd via https://validator.w3.org/nu/#file . Hier is de resultaat.  
