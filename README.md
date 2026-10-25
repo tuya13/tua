@@ -748,7 +748,7 @@ Feedback van Barbara(docent)
 -Controleer de kwaliteit listje altijd!! Het is belangrijk tijdens je coderen het te controleren.  
 -Ga je de schermen die je hebt geschets als code of foto's doen? Probeer deze opties uit om je definitieve beslissing te nemen. Bijvoorbeeld ga je de hart coderen? Hoe kan je dat doen?
 
-Workshop: Grid 101 + Media queries  
+DEEP DIVE: Grid 101 + Media queries  
 Oefening 1  
 <img src="/images/11.sep.grid.png" width="400">  
 <img src="/images/11.sep.grid.2.png" width="400">  
