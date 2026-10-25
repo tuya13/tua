@@ -722,11 +722,12 @@ Today i started to add some stuff to my website. Just small things for example g
 
 Ik heb ook duidelijkere schetsen gemaakt van hoe mijnwebsite eruit zal zien.  
 Mobile versie  
-<img width="100" alt="14sep mobi" src="https://github.com/user-attachments/assets/2ae53832-8fc0-4a38-9022-660a1f87975a" /> <img width="100" alt="14sep2" src="https://github.com/user-attachments/assets/19c2d2f5-0a56-4618-a206-c55954fd25d7" />
-
+<img width="100" alt="14sep mobi" src="https://github.com/user-attachments/assets/2ae53832-8fc0-4a38-9022-660a1f87975a" /> <img width="100" alt="14sep2" src="https://github.com/user-attachments/assets/19c2d2f5-0a56-4618-a206-c55954fd25d7" />  
+Ik ben van plan om de navigatiebalk als washi tape te gebruiken. Ik denk dat washi tape er heel leuk uit gaat zien, maar op dit moment weet ik nog niet hoe ik dit met code moet maken. Ook heb ik hier laten zien hoe het eruitziet wanneer je over het scherm scrolt. Ik wil absoluut een photobooth-strip gebruiken.  
   
 Website versie  
-<img src="/images/14sepweb.png" width="400">
+<img src="/images/14sepweb.png" width="400">  
+Omdat een groot scherm horizontaal is, dacht ik dat alles op één scherm zou passen. Daarom heb ik alles op één plek verzameld. Op deze manier leek het ook weer op de binnenkant van een junk journal, want een junk journal is net zo rommelig.  
 
 For now my website looks like this:  
 <img src="/images/14sep.webs.png" width="400">
