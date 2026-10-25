@@ -722,7 +722,9 @@ Today i started to add some stuff to my website. Just small things for example g
 
 Ik heb ook duidelijkere schetsen gemaakt van hoe mijnwebsite eruit zal zien.  
 Mobile versie  
-<img src="/images/14sep.mobi.png" width="400"> <img src="/images/14sep2.png" width="400">  
+<img width="100" alt="14sep mobi" src="https://github.com/user-attachments/assets/2ae53832-8fc0-4a38-9022-660a1f87975a" /> <img width="100" alt="14sep2" src="https://github.com/user-attachments/assets/19c2d2f5-0a56-4618-a206-c55954fd25d7" />
+
+  
 Website versie  
 <img src="/images/14sepweb.png" width="400">
 
