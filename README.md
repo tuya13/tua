@@ -5,7 +5,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 
 ### 25 oktober
-
+Vandaag was ik voornamelijk bezig met het toevoegen van dingen aan mijn learning-log. Ik hoop dat de informatie die ik heb gegeven voldoende is.
 
 ### 24 oktober
 
