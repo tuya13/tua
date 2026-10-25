@@ -609,7 +609,7 @@ Ik do het altijd accepteer niet eigenlijk want ik wil mijn persoonelijke gegeven
 
 Ik heb op school mijn Retrospect gedaan. Eerst hebben we als een groep de schetsen van beste naar slechtste gerangschikt.  
 <img src="/images/18sep.jpeg" width="400">  
-Mijn Retrospect  
+RETROSPECT 1  
 <img src="/images/18sep2.png" width="400"><img src="/images/18sep3.png" width="400"><img src="/images/18sep4.png" width="400">
 
 Op het eind van Sprint 1 ziet mijn website zo eruit:  
