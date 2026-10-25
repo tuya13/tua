@@ -5,7 +5,12 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 
 ### 25 oktober
-Vandaag was ik voornamelijk bezig met het toevoegen van dingen aan mijn learning-log. Ik hoop dat de informatie die ik heb gegeven voldoende is.
+Vandaag was ik voornamelijk bezig met het toevoegen van dingen aan mijn learning-log. Ik hoop dat de informatie die ik heb gegeven voldoende is.  
+
+Om de webring-link aan mijn pagina te kunnen toevoegen, heb ik de home-knop verwijderd. In plaats daarvan heb ik van de tekst 'Tüya's Journal' de home-knop gemaakt, en heb ik de webring toegevoegd op de plek waar de home-knop eerst stond.  
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/111c2d7f-dac1-43c8-82e6-dbbb46753bfc" />
+
 
 ### 24 oktober
 
