@@ -4,6 +4,9 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 25 oktober
+
+
 ### 24 oktober
 
 In mijn cookies-gedeelte was de informatie over wat er precies gebruikt werd onvoldoende voor de gebruikers, daarom moest ik mijn tekst aanpassen. Zo konden ze direct op mijn pagina de nodige informatie vinden, zonder op een andere pagina te hoeven zoeken. Ik heb Gemini gebruikt om deze tekst te schrijven. Ik heb de link naar het privacybeleid van GitHub gestuurd en gevraagd om een passende tekst over cookies te schrijven. Vervolgens heb ik dit met ul en li codeerd.  
