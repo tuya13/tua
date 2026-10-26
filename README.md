@@ -4,6 +4,16 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 26 oktober
+
+We hebben vandaag elkaar feedbacks gegeven met stickers.  
+<img width="400" alt="WhatsApp Image 2026-10-26 at 12 46 30 PM" src="https://github.com/user-attachments/assets/cf568a31-7ff8-464f-aa90-de583ff4de4b" /> <img width="400" alt="Screenshot 2026-10-26 223712" src="https://github.com/user-attachments/assets/55d8c97f-0001-43b8-9f4c-cb917b0b6339" />
+
+We hebben ook als 4 gropejes Webby test en Log test gedaan.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/db758af3-8187-4ad7-bc4c-43e19e7a9466" />  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/0e906860-bd73-40b7-ab4c-59437da99500" />  
+
+
 ### 25 oktober
 Vandaag was ik voornamelijk bezig met het toevoegen van dingen aan mijn learning-log. Ik hoop dat de informatie die ik heb gegeven voldoende is.  
 
