@@ -728,8 +728,8 @@ Dat je kan de website veranderen zo vaak als je wilt en kan ook een orde hebben.
 3-Welk principe neem je mee in een laatste iteratie van je eigen Garden?  
 Ik realizeerde me dat ik te veel white space had. Ik moet meer orde hebben in mijn website. Het was een beetje rommelig.
 
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/bf04bd4d-bf04-4dc5-bd4b-c03b3028a472" />
-
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/bf04bd4d-bf04-4dc5-bd4b-c03b3028a472" />  
+Thuis heb ik ook een beetje voor elke pagina getekend. Het maken hiervan gaf me een beetje meer inspiratie over wat ik aan die pagina's kan toevoegen. Over de layout ben ik nog steeds niet zeker, maar waarschijnlijk maak ik eerst de hoofdpagina en daarna maak ik deze paginas.  
 
 ### 15 september
 
