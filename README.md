@@ -707,6 +707,7 @@ Ik heb vandaag over flexbox gestudeerd. (https://flexboxfroggy.com/#tr) Ik denk 
 We hebben vandaag elkaars paginas feedback gegeven en onze ideeen voor hun geschets. Ik heb ook van 2 medestudenten feedback gekregen.  
 Mijn schetsen van mijn idee/pagina  
 <img src="/images/16sep.png" width="400"><img src="/images/16sep2.png" width="400">  
+Mijn doel met de ster en het hart is eigenlijk om ze er als een soort sticker uit te laten zien. Omdat stickers een groot onderdeel uitmaken van junk journaling, dacht ik dat het mooi zou zijn als het daar op mijn pagina zou staan. Als een sticker, maar tegelijkertijd ook als een link. Het tweede ging over hoe de pagina eruit zou kunnen zien die opent wanneer ik in de tweede foto op die pagina klik, wanneer ik op die stickers, dus die links, klik. Omdat we daar ook in de les zaten, heb ik eerlijk gezegd de eerste dingen getekend die in me opkwamen.  
 Feedback schetsen die ik heb gekregen  
 <img src="/images/16sep3.png" width="400"><img src="/images/16sep4.png" width="400">
 
@@ -726,6 +727,9 @@ Dat je kan de website veranderen zo vaak als je wilt en kan ook een orde hebben.
 
 3-Welk principe neem je mee in een laatste iteratie van je eigen Garden?  
 Ik realizeerde me dat ik te veel white space had. Ik moet meer orde hebben in mijn website. Het was een beetje rommelig.
+
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/bf04bd4d-bf04-4dc5-bd4b-c03b3028a472" />
+
 
 ### 15 september
 
