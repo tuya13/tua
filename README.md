@@ -624,7 +624,7 @@ Oefening 2
 
 ### 21 september - Workshop
 
-**SPRINT 2**  
+### SPRINT 2  
 -We heben vandaag geleerd over HTML landmark role elements. Dan hebben we geleerd meer van grids. Ik heb probeerd de code samen met de docent te schrijven maar helaas kon ik sommige delen niet afmaken omdat hij te snel vorderde. Dit is alles wat ik heb kunnen doen.  
 <img src="/images/21sep.png" width="400">  
 -We hebben dan ook 2 websites onderzocht voor zijn cookie popups.  
@@ -842,6 +842,7 @@ Ik heb het meestaal gedaan op school en daar werkte het prima, maar toen ik thui
 <img src="/images/8sep.png" width="400">
 
 ### 7 september - Workshop
+### SPRINT 1
 
 1- Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
 Digitaaal Garden is jouw gepersonaliseerd website.
