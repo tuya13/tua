@@ -4,7 +4,19 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### 26 oktober
+### 27 oktober 
+
+Omdat ik zowel 'alt' als 'visually hidden' heb toegevoegd, staan hier veel van dezelfde koppen. Ik ga deze nu aanpassen en duidelijkere koppen toevoegen.  
+<img width="400" alt="WhatsApp Image 2026-10-27 at 8 20 47 AM" src="https://github.com/user-attachments/assets/a6253683-d903-4daf-81bb-310707cae1d0" />  
+Ik heb nu mijn aanpassingen gedaan. Bij de 'visually hidden' heb ik duidelijk gemaakt dat het een link is, door 'een link voor...' te schrijven. Bij de 'alt' heb ik de inhoud van de foto geschreven. Op deze manier is alles veel duidelijker geworden.  
+<img width="400" alt="WhatsApp Image 2026-10-27 at 9 01 53 AM" src="https://github.com/user-attachments/assets/38307c5d-8358-408c-ab0c-eefbecb5b991" />  
+
+Eigenlijk dacht ik eraan om in te stellen dat je de pagina verlaat wanneer je 'reject' kiest bij de cookies. Ik zou daar een Google-link plaatsen, maar eerlijk gezegd vond ik het onzin om iemand van de pagina te sturen omdat ze geen cookies willen. Daarom heb ik besloten om helemaal niets toe te voegen. Maar als ze 'reject' kiezen, worden de cookies natuurlijk niet gebruikt en zal hun toegang tot sommige dingen beperkt zijn.  
+
+### SELFREFLECTIE 2
+
+
+### 26 oktober - Workshop
 
 We hebben vandaag elkaar feedbacks gegeven met stickers.  
 <img width="400" alt="WhatsApp Image 2026-10-26 at 12 46 30 PM" src="https://github.com/user-attachments/assets/cf568a31-7ff8-464f-aa90-de583ff4de4b" /> <img width="400" alt="Screenshot 2026-10-26 223712" src="https://github.com/user-attachments/assets/55d8c97f-0001-43b8-9f4c-cb917b0b6339" />
@@ -651,6 +663,7 @@ Vandaag kon ik geen feedback krijgen van Barbara want zij had geen tijd meer voo
 
 **CHECK OUT**
 
+### SELFREFLECTIE 1
 _-Oriënteren en Begrijpen-_  
 +Waarom geven de docenten deze opdracht?  
 De reden dat we deze opdrachten, is om gedetailleerde informatie over een specifiek onderwerp te leren. Uiteraard zijn er ook verschillende niveaus voor deze opdrachten.  
