@@ -26,7 +26,7 @@ html {
   --link-accent-bg: light-dark(#3b052a, rgb(243, 185, 226));
   --link-accent-color: light-dark (rgb(243, 185, 226), #3b052a);
   --link-hover-bg: light-dark(#3b052a, rgb(243, 185, 226));
-  --link-hover-color: light-dark (rgb(243, 185, 226), #3b052a);
+  --link-hover-color: light-dark (#f3b9e2, #3b052a);
   --link-hover-nav: light-dark (rgb(243, 185, 226), #3b052a);
 
   --link-nav-color: light-dark(#3b052a, #fae6f4);
