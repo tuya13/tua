@@ -4,6 +4,16 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 26 oktober
+
+We hebben vandaag elkaar feedbacks gegeven met stickers.  
+<img width="400" alt="WhatsApp Image 2026-10-26 at 12 46 30 PM" src="https://github.com/user-attachments/assets/cf568a31-7ff8-464f-aa90-de583ff4de4b" /> <img width="400" alt="Screenshot 2026-10-26 223712" src="https://github.com/user-attachments/assets/55d8c97f-0001-43b8-9f4c-cb917b0b6339" />
+
+We hebben ook als 4 gropejes Webby test en Log test gedaan.  
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/db758af3-8187-4ad7-bc4c-43e19e7a9466" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/0e906860-bd73-40b7-ab4c-59437da99500" />  
+
+
 ### 25 oktober
 Vandaag was ik voornamelijk bezig met het toevoegen van dingen aan mijn learning-log. Ik hoop dat de informatie die ik heb gegeven voldoende is.  
 
@@ -19,9 +29,9 @@ Omdat ik een link heb toegevoegd aan de tekst 'Tüya's Journal', heeft het nu he
 
 Ik heb dus dit code voor beide paginas css toegevoedg dan wordt het gewoon normaal.  
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/b0b5bfa9-daad-44f1-8b48-84e08c936248" />  
-<img width="150" alt="image" src="https://github.com/user-attachments/assets/e00b060a-88ea-4072-b3d1-877f50bbef0c" />
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/e00b060a-88ea-4072-b3d1-877f50bbef0c" />  
 
-
+Helaas had ik geen tijd meer om nog meer effecten aan mijn songtekst toe te voegen.
 
 ### 24 oktober
 
@@ -56,12 +66,9 @@ Ik heb vervolgens mijn feedback paar veranderingen gemaakt in my songtekst. Ik h
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/70d279f1-ecdc-46fa-8942-77e66b056694" />
 
-
-
-
 ### 23 oktober - Workshop
 
-**RETROSPECT 3**  
+### RETROSPECT 3  
 <img width="400" alt="Screenshot 2026-10-24 154019" src="https://github.com/user-attachments/assets/5479e1d4-dc3f-46a8-910e-9a47751441d7" />  
 <img width="400" alt="Screenshot 2026-10-24 154212" src="https://github.com/user-attachments/assets/2bb65b74-64e9-4df3-bc6a-c09061a76cff" />  
 <img width="400" alt="Screenshot 2026-10-24 154257" src="https://github.com/user-attachments/assets/d324d62c-21ec-4f28-8f5b-d7e0027cec9f" />  
@@ -231,7 +238,8 @@ Ik heb een schets gemaakt over hoe ik wil dat mijn story part eruit ziet.
 
 Ik heb inspiraties gekregen van Pinterest.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/db246281-0497-4ec9-a1f1-fda14bd12459" /> <img width="200" alt="image" src="https://github.com/user-attachments/assets/2e50cfab-5060-438b-95f9-6a413aa779ab" />  
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/a2f4a1ab-ed63-4d3a-bd8b-2406ef10bff9" /> <img width="400" alt="image" src="https://github.com/user-attachments/assets/6b5e39d3-5693-494a-94ac-aeab90e4adf5" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a2f4a1ab-ed63-4d3a-bd8b-2406ef10bff9" /> <img width="200" alt="image" src="https://github.com/user-attachments/assets/8c9dba1e-7c1d-432e-952e-8b0bdf0ba86d" />  
+https://tr.pinterest.com/pin/444237950766987943/  https://tr.pinterest.com/pin/888194357783254657/  https://tr.pinterest.com/pin/675821487877192207/  https://tr.pinterest.com/pin/849843392229875650/  
 
 Ik heb met Figma light en dark van de part gedaan.  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/44c1d966-8d7a-4d9b-94db-b1a2cc06ef46" />  
@@ -345,10 +353,9 @@ Eerlijk gezegd wist ik niet zo goed hoe ik dit hypnotiserende effect in de code 
 Ik heb alleen maar h1, div en p toegevoegd omdat ik niet wist wat ik moest doen en toevoegen dus ik zal op woensdag hulp vragen.  
 <img width="400" alt="Screenshot 2026-10-06 222059" src="https://github.com/user-attachments/assets/50ec8d63-8984-4da0-bb89-b4efadb7ed5c" />  
 
+### SPRINT 3
 
 ### 5 oktober - Workshop
-**SPRINT 3**
-
 Ik kon vandaag nniet op school zijn omdat ik ziek was maar ik probeerde alles thuis te doen.  
 
 Ik heb de DEEP DIVE meer interactie met HTML en CSS gedaan.  
@@ -383,7 +390,6 @@ Hiërarchie (wat wil je de meeste aandacht geven?)*
 Hier wilde ik laten zien wat het nummer me laat voelen. Dit nummer heeft over het algemeen een soort chaos en een sfeer die me helemaal meesleept. Daarom dacht ik erover om iets te maken met een algemene rommeligheid en een soort hypnotiserend effect. Dat is namelijk wat het bij me oproept.
 
 
-
 ### 2 oktober - Workshop
 
 *Feedback gekregen van Vasilis*  
@@ -392,7 +398,7 @@ Hier wilde ik laten zien wat het nummer me laat voelen. Dit nummer heeft over he
 -Duidelijker schetsen en waarom ik de richting heb gekozen moet ook duidelijk zijn.  
 -Cookie instellingen verbeteren  
 
-RETROSPECT 2  
+### RETROSPECT 2  
 <img width="400" alt="Screenshot 2026-10-02 120700" src="https://github.com/user-attachments/assets/ea73c9ff-adff-40f0-9d4d-5c9aa7a25819" />  
 <img width="400" alt="Screenshot 2026-10-02 120822" src="https://github.com/user-attachments/assets/94ab0c08-af27-475d-bb8c-23277be28d1a" />  
 <img width="400" alt="Screenshot 2026-10-02 120921" src="https://github.com/user-attachments/assets/ff9bb807-f7b1-4808-80d9-6dad4a4981c7" />  
@@ -459,8 +465,6 @@ Ik heb skip links + prefers-reduced-motion toegevoegd in mijn website.
 Ik heb ook Visually-hidden en :focus-visible toegevoegd.  
 <img width="400" alt="Screenshot 2026-10-01 171603" src="https://github.com/user-attachments/assets/a5e91b76-dcbb-47b2-8bce-5b0a7b9e6e0e" />  
 (Ik heb de informatie van CodePen gevonden.)  
-
-
 
 ### 29 september
 
@@ -612,9 +616,10 @@ Oefening 1
 Oefening 2  
 <img src="/images/22sep2.png" width="400">
 
+### SPRINT 2
+
 ### 21 september - Workshop
 
-**SPRINT 2**  
 -We heben vandaag geleerd over HTML landmark role elements. Dan hebben we geleerd meer van grids. Ik heb probeerd de code samen met de docent te schrijven maar helaas kon ik sommige delen niet afmaken omdat hij te snel vorderde. Dit is alles wat ik heb kunnen doen.  
 <img src="/images/21sep.png" width="400">  
 -We hebben dan ook 2 websites onderzocht voor zijn cookie popups.  
@@ -632,7 +637,8 @@ Ik do het altijd accepteer niet eigenlijk want ik wil mijn persoonelijke gegeven
 
 Ik heb op school mijn Retrospect gedaan. Eerst hebben we als een groep de schetsen van beste naar slechtste gerangschikt.  
 <img src="/images/18sep.jpeg" width="400">  
-RETROSPECT 1  
+
+### RETROSPECT 1  
 <img src="/images/18sep2.png" width="400"><img src="/images/18sep3.png" width="400"><img src="/images/18sep4.png" width="400">
 
 Op het eind van Sprint 1 ziet mijn website zo eruit:  
@@ -702,6 +708,7 @@ Ik heb vandaag over flexbox gestudeerd. (https://flexboxfroggy.com/#tr) Ik denk 
 We hebben vandaag elkaars paginas feedback gegeven en onze ideeen voor hun geschets. Ik heb ook van 2 medestudenten feedback gekregen.  
 Mijn schetsen van mijn idee/pagina  
 <img src="/images/16sep.png" width="400"><img src="/images/16sep2.png" width="400">  
+Mijn doel met de ster en het hart is eigenlijk om ze er als een soort sticker uit te laten zien. Omdat stickers een groot onderdeel uitmaken van junk journaling, dacht ik dat het mooi zou zijn als het daar op mijn pagina zou staan. Als een sticker, maar tegelijkertijd ook als een link. Het tweede ging over hoe de pagina eruit zou kunnen zien die opent wanneer ik in de tweede foto op die pagina klik, wanneer ik op die stickers, dus die links, klik. Omdat we daar ook in de les zaten, heb ik eerlijk gezegd de eerste dingen getekend die in me opkwamen.  
 Feedback schetsen die ik heb gekregen  
 <img src="/images/16sep3.png" width="400"><img src="/images/16sep4.png" width="400">
 
@@ -721,6 +728,9 @@ Dat je kan de website veranderen zo vaak als je wilt en kan ook een orde hebben.
 
 3-Welk principe neem je mee in een laatste iteratie van je eigen Garden?  
 Ik realizeerde me dat ik te veel white space had. Ik moet meer orde hebben in mijn website. Het was een beetje rommelig.
+
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/bf04bd4d-bf04-4dc5-bd4b-c03b3028a472" />  
+Thuis heb ik ook een beetje voor elke pagina getekend. Het maken hiervan gaf me een beetje meer inspiratie over wat ik aan die pagina's kan toevoegen. Over de layout ben ik nog steeds niet zeker, maar waarschijnlijk maak ik eerst de hoofdpagina en daarna maak ik deze paginas.  
 
 ### 15 september
 
@@ -830,6 +840,8 @@ Oefening 1
 Oefening 2  
 Ik heb het meestaal gedaan op school en daar werkte het prima, maar toen ik thuis een nieuwe functie toegevoegde, begon het in de lichte modus hetzelfde te laten zien als in de donkere modus. Ik snapte niet waarom.  
 <img src="/images/8sep.png" width="400">
+
+### SPRINT 1
 
 ### 7 september - Workshop
 
